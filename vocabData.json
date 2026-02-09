@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updatedAt": "2026-02-08T11:32:53.614Z",
+  "version": "1.0.1",
+  "updatedAt": "2026-02-09T12:00:00Z",
   "data": {
     "N1": {
       "1": [
@@ -14233,7 +14233,7 @@
           "meaning": "youth",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "청년"
+          "meaningKo": "청춘"
         },
         {
           "id": "n1-155-8",
@@ -53098,10 +53098,10 @@
           "id": "n4-4-3",
           "kanji": "そろそろ",
           "kana": "そろそろ [sorosoro]",
-          "meaning": "soon, momentarily",
+          "meaning": "soon, It's about time",
           "grade": "N4",
           "parts": "adverb",
-          "meaningKo": "곧, 순간적으로"
+          "meaningKo": "곧, 슬슬"
         },
         {
           "id": "n4-4-4",
@@ -59668,10 +59668,10 @@
           "id": "n5-15-7",
           "kanji": "どうも",
           "kana": "どうも [doumo]",
-          "meaning": "thanks",
+          "meaning": "Really, Quite",
           "grade": "N5",
           "parts": "adverb",
-          "meaningKo": "감사해요"
+          "meaningKo": "정말, 매우"
         },
         {
           "id": "n5-15-8",
@@ -61502,7 +61502,7 @@
           "meaning": "small quantity, little",
           "grade": "N5",
           "parts": "adverb",
-          "meaningKo": "소량, 적다"
+          "meaningKo": "소량, 적은"
         },
         {
           "id": "n5-35-7",
@@ -61576,7 +61576,7 @@
           "meaning": "how many, how old",
           "grade": "N5",
           "parts": "adverb",
-          "meaningKo": "몇 명, 몇 살이야?"
+          "meaningKo": "몇 개, 몇 살"
         },
         {
           "id": "n5-36-5",
