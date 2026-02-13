@@ -59226,10 +59226,10 @@
           "id": "n5-10-9",
           "kanji": "する",
           "kana": "する [suru]",
-          "meaning": "to do",
+          "meaning": "to do(formal)",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "하다"
+          "meaningKo": "하다(격식체)"
         },
         {
           "id": "n5-10-10",
@@ -59899,10 +59899,10 @@
           "id": "n5-18-2",
           "kanji": "やる",
           "kana": "やる [yaru]",
-          "meaning": "to do",
+          "meaning": "to do(informal)",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "~하다"
+          "meaningKo": "하다(비격식체)"
         },
         {
           "id": "n5-18-3",
