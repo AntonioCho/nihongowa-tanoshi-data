@@ -1,0 +1,18 @@
+name: Purge jsDelivr CDN Cache
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'vocabData.json'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache
+        run: |
+          echo "Purging jsDelivr CDN cache..."
+          curl -s "https://purge.jsdelivr.net/gh/AntonioCho/nihongowa-tanoshi-data@main/vocabData.json"
+          echo ""
+          echo "Cache purged successfully"
