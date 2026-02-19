@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "updatedAt": "2026-02-17T12:28:00Z",
+  "version": "1.0.7",
+  "updatedAt": "2026-02-20T08:27:00Z",
   "data": {
     "N1": {
       "1": [
@@ -58206,7 +58206,7 @@
           "meaning": "very, extremely",
           "grade": "N4",
           "parts": "adverb",
-          "meaningKo": "아주, 극도로"
+          "meaningKo": "매우, 몹시"
         },
         {
           "id": "n4-59-9",
