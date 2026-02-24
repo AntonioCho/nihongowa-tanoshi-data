@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "updatedAt": "2026-02-23T09:58:00Z",
+  "version": "1.1.0",
+  "updatedAt": "2026-02-24T10:55:00Z",
   "data": {
     "N1": {
       "1": [
@@ -531,10 +531,10 @@
           "id": "n1-6-8",
           "kanji": "卯",
           "kana": "う [u]",
-          "meaning": "Fourth sign of the Chinese zodiac (The Hare",
+          "meaning": "Fourth sign of the Chinese zodiac (The Hare)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "십이지의 네 번째 별자리(토끼"
+          "meaningKo": "십이지의 네 번째 별자리(토끼)"
         },
         {
           "id": "n1-6-9",
@@ -1267,11 +1267,10 @@
           "id": "n1-14-8",
           "kanji": "大部",
           "kana": "たいぶ [taibu]",
-          "meaning": "Lengthy (of a book",
+          "meaning": "Lengthy (of a book)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(책"
-        },
+          "meaningKo": "(책)"        },
         {
           "id": "n1-14-9",
           "kanji": "痛切",
@@ -1647,8 +1646,7 @@
           "meaning": "Collect (debts)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(세금"
-        },
+          "meaningKo": "(세금)"        },
         {
           "id": "n1-18-10",
           "kanji": "手近",
@@ -2380,10 +2378,10 @@
           "id": "n1-26-9",
           "kanji": "鞠",
           "kana": "まり [mari]",
-          "meaning": "Ball (for sport",
+          "meaning": "Ball (for sport)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "공 (스포츠"
+          "meaningKo": "공 (스포츠)"        
         },
         {
           "id": "n1-26-10",
@@ -3181,7 +3179,7 @@
           "id": "n1-35-6",
           "kanji": "東",
           "kana": "あずま [azuma]",
-          "meaning": "Eastern Japan (esp. Kamakura or Edo",
+          "meaning": "Eastern Japan (esp. Kamakura or Edo)",
           "grade": "N1",
           "parts": "noun",
           "meaningKo": "일본 동부(특히 교토나 나라의 관점에서 본 가마쿠라 또는 에도)"
@@ -3421,11 +3419,10 @@
           "id": "n1-38-2",
           "kanji": "涸れる",
           "kana": "かれる [kareru]",
-          "meaning": "Dry up (spring",
+          "meaning": "Dry up (spring)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(봄"
-        },
+          "meaningKo": "(봄)"        },
         {
           "id": "n1-38-3",
           "kanji": "煌々",
@@ -3466,11 +3463,10 @@
           "id": "n1-38-7",
           "kanji": "乾",
           "kana": "けん [ken]",
-          "meaning": "Qian (one of the trigrams of the I Ching: heaven",
+          "meaning": "Qian (one of the trigrams of the I Ching: heaven)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "qian(주역의 괘 중 하나: 천국"
-        },
+          "meaningKo": "qian(주역의 괘 중 하나: 천국)"        },
         {
           "id": "n1-38-8",
           "kanji": "敵",
@@ -4359,11 +4355,10 @@
           "id": "n1-48-4",
           "kanji": "合わす",
           "kana": "あわす [awasu]",
-          "meaning": "Match (rhythm",
+          "meaning": "Match (rhythm)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(리듬"
-        },
+          "meaningKo": "(리듬)"        },
         {
           "id": "n1-48-5",
           "kanji": "告げる",
@@ -4653,11 +4648,10 @@
           "id": "n1-51-6",
           "kanji": "施す",
           "kana": "ほどこす [hodokosu]",
-          "meaning": "Give (time",
+          "meaning": "Give (time)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(시간"
-        },
+          "meaningKo": "(시간)"        },
         {
           "id": "n1-51-7",
           "kanji": "私有",
@@ -5030,11 +5024,10 @@
           "id": "n1-55-7",
           "kanji": "収まる",
           "kana": "おさまる [osamaru]",
-          "meaning": "Fit into (a box",
+          "meaning": "Fit into (a box)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(상자"
-        },
+          "meaningKo": "(상자)"        },
         {
           "id": "n1-55-8",
           "kanji": "周期",
@@ -5721,11 +5714,10 @@
           "id": "n1-63-2",
           "kanji": "折り返す",
           "kana": "おりかえす [orikaesu]",
-          "meaning": "Turn up (hem",
+          "meaning": "Turn up (hem)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(단"
-        },
+          "meaningKo": "(단)"        },
         {
           "id": "n1-63-3",
           "kanji": "折衷",
@@ -6098,11 +6090,10 @@
           "id": "n1-67-3",
           "kanji": "旦那",
           "kana": "だんな [danna]",
-          "meaning": "Master (of a house",
+          "meaning": "Master (of a house)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "주인 (집"
-        },
+          "meaningKo": "주인 (집)"        },
         {
           "id": "n1-67-4",
           "kanji": "短気",
@@ -7772,11 +7763,10 @@
           "id": "n1-85-5",
           "kanji": "無駄遣い",
           "kana": "むだづかい [mudazukai]",
-          "meaning": "Waste (of money",
+          "meaning": "Waste (of money)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(돈"
-        },
+          "meaningKo": "(돈)"        },
         {
           "id": "n1-85-6",
           "kanji": "無知",
@@ -8434,11 +8424,10 @@
           "id": "n1-92-7",
           "kanji": "賄う",
           "kana": "まかなう [makanau]",
-          "meaning": "Supply (goods",
+          "meaning": "Supply (goods)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(물건"
-        },
+          "meaningKo": "(물건)"        },
         {
           "id": "n1-92-8",
           "kanji": "腕前",
@@ -8508,11 +8497,10 @@
           "id": "n1-93-5",
           "kanji": "行き違い",
           "kana": "いきちがい [ikichigai]",
-          "meaning": "Crossing without meeting (e.g. letters in the post",
+          "meaning": "Crossing without meeting (e.g. letters in the post)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "만나지 않고 건너기(예: 우편물 속 편지"
-        },
+          "meaningKo": "만나지 않고 건너기(예: 우편물 속 편지)"        },
         {
           "id": "n1-93-6",
           "kanji": "三味線",
@@ -8564,11 +8552,10 @@
           "id": "n1-94-1",
           "kanji": "打ち込む",
           "kana": "うちこむ [uchikomu]",
-          "meaning": "Drive in (e.g. nail",
+          "meaning": "Drive in (e.g. nail)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "운전하다 (예: 못"
-        },
+          "meaningKo": "운전하다 (예: 못)"        },
         {
           "id": "n1-94-2",
           "kanji": "伝言",
@@ -9033,11 +9020,10 @@
           "id": "n1-99-2",
           "kanji": "目盛り",
           "kana": "めもり [memori]",
-          "meaning": "Gradations (on a ruler",
+          "meaning": "Gradations (on a ruler)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "그라데이션(자"
-        },
+          "meaningKo": "그라데이션(자)"        },
         {
           "id": "n1-99-3",
           "kanji": "漏らす",
@@ -9134,7 +9120,7 @@
           "id": "n1-100-3",
           "kanji": "省みる",
           "kana": "かえりみる [kaerimiru]",
-          "meaning": "Reflect on (oneself",
+          "meaning": "Reflect on (oneself)",
           "grade": "N1",
           "parts": "verb",
           "meaningKo": "(자신이나 과거의 행동 등을) 반성하다"
@@ -9392,11 +9378,10 @@
           "id": "n1-103-1",
           "kanji": "長編",
           "kana": "ちょうへん [chouhen]",
-          "meaning": "Long (e.g. novel",
+          "meaning": "Long (e.g. novel)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "장편(예: 소설"
-        },
+          "meaningKo": "장편(예: 소설)"        },
         {
           "id": "n1-103-2",
           "kanji": "痛める",
@@ -9520,11 +9505,10 @@
           "id": "n1-104-5",
           "kanji": "逸らす",
           "kana": "そらす [sorasu]",
-          "meaning": "Turn away (one's eyes",
+          "meaning": "Turn away (one's eyes)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(눈"
-        },
+          "meaningKo": "(눈)"        },
         {
           "id": "n1-104-6",
           "kanji": "員",
@@ -9657,7 +9641,7 @@
           "id": "n1-105-10",
           "kanji": "叶う",
           "kana": "かなう [kanau]",
-          "meaning": "Come true (of a wish",
+          "meaning": "Come true (of a wish)",
           "grade": "N1",
           "parts": "verb",
           "meaningKo": "(소원이나 기도 등이) 이루어지다"
@@ -9668,11 +9652,10 @@
           "id": "n1-106-1",
           "kanji": "叶える",
           "kana": "かなえる [kanaeru]",
-          "meaning": "Grant (request",
+          "meaning": "Grant (request)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(요청"
-        },
+          "meaningKo": "(요청)"        },
         {
           "id": "n1-106-2",
           "kanji": "寛容",
@@ -9944,7 +9927,7 @@
           "id": "n1-109-1",
           "kanji": "構える",
           "kana": "かまえる [kamaeru]",
-          "meaning": "Set up (a house",
+          "meaning": "Set up (a house)",
           "grade": "N1",
           "parts": "verb",
           "meaningKo": "(집이나 상점 등을) 세우다"
@@ -9953,7 +9936,7 @@
           "id": "n1-109-2",
           "kanji": "込める",
           "kana": "こめる [komeru]",
-          "meaning": "Load (a gun",
+          "meaning": "Load (a gun)",
           "grade": "N1",
           "parts": "verb",
           "meaningKo": "(총 등을) 장전하다"
@@ -9989,11 +9972,10 @@
           "id": "n1-109-6",
           "kanji": "冴える",
           "kana": "さえる [saeru]",
-          "meaning": "Be clear (of a sight",
+          "meaning": "Be clear (of a sight)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(모습"
-        },
+          "meaningKo": "(모습)"        },
         {
           "id": "n1-109-7",
           "kanji": "指差す",
@@ -10007,11 +9989,10 @@
           "id": "n1-109-8",
           "kanji": "持てる",
           "kana": "もてる [moteru]",
-          "meaning": "Be able to possess (hold",
+          "meaning": "Be able to possess (hold)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(보류"
-        },
+          "meaningKo": "(보류)"        },
         {
           "id": "n1-109-9",
           "kanji": "室",
@@ -10212,8 +10193,7 @@
           "meaning": "The last (i.e. immediately preceding) (e.g. \"the last mayor\")",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "마지막 (즉"
-        }
+          "meaningKo": "마지막 (즉)"        }
       ],
       "112": [
         {
@@ -10366,11 +10346,10 @@
           "id": "n1-113-7",
           "kanji": "添う",
           "kana": "そう [sou]",
-          "meaning": "Meet (wishes",
+          "meaning": "Meet (wishes)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(소원"
-        },
+          "meaningKo": "(소원)"        },
         {
           "id": "n1-113-8",
           "kanji": "妬む",
@@ -10606,11 +10585,10 @@
           "id": "n1-116-3",
           "kanji": "未",
           "kana": "ひつじ [hitsuji]",
-          "meaning": "Eighth sign of the Chinese zodiac (The Ram",
+          "meaning": "Eighth sign of the Chinese zodiac (The Ram)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "십이간지 여덟 번째 별자리(수양"
-        },
+          "meaningKo": "십이간지 여덟 번째 별자리(수양)"        },
         {
           "id": "n1-116-4",
           "kanji": "眠たい",
@@ -10826,11 +10804,10 @@
           "id": "n1-118-7",
           "kanji": "側",
           "kana": "がわ [gawa]",
-          "meaning": "Side (of something",
+          "meaning": "Side (of something)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(어떤 것의"
-        },
+          "meaningKo": "(어떤 것의)"        },
         {
           "id": "n1-118-8",
           "kanji": "店",
@@ -10909,11 +10886,10 @@
           "id": "n1-119-6",
           "kanji": "清々しい",
           "kana": "すがすがしい [sugasugashii]",
-          "meaning": "Refreshing (e.g. feeling",
+          "meaning": "Refreshing (e.g. feeling)",
           "grade": "N1",
           "parts": "adjective",
-          "meaningKo": "상쾌한 (예: 느낌"
-        },
+          "meaningKo": "상쾌한 (예: 느낌)"        },
         {
           "id": "n1-119-7",
           "kanji": "添える",
@@ -11544,11 +11520,10 @@
           "id": "n1-126-5",
           "kanji": "式場",
           "kana": "しきじょう [shikijou]",
-          "meaning": "Ceremonial hall (e.g. wedding",
+          "meaning": "Ceremonial hall (e.g. wedding)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "예식장(예: 결혼식"
-        },
+          "meaningKo": "예식장(예: 결혼식)"        },
         {
           "id": "n1-126-6",
           "kanji": "写し",
@@ -12657,11 +12632,10 @@
           "id": "n1-138-6",
           "kanji": "尾",
           "kana": "お [o]",
-          "meaning": "Tail (animal",
+          "meaning": "Tail (animal)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "꼬리(동물"
-        },
+          "meaningKo": "꼬리(동물)"        },
         {
           "id": "n1-138-7",
           "kanji": "浜",
@@ -12924,11 +12898,10 @@
           "id": "n1-141-5",
           "kanji": "給食",
           "kana": "きゅうしょく [kyuushoku]",
-          "meaning": "Provision of lunch (e.g. at office",
+          "meaning": "Provision of lunch (e.g. at office)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "점심 제공(예: 사무실"
-        },
+          "meaningKo": "점심 제공(예: 사무실)"        },
         {
           "id": "n1-141-6",
           "kanji": "居住",
@@ -13734,11 +13707,10 @@
           "id": "n1-150-3",
           "kanji": "末期",
           "kana": "まっき [makki]",
-          "meaning": "Closing years (period",
+          "meaning": "Closing years (period)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "결산 연도(기간"
-        },
+          "meaningKo": "결산 연도(기간)"        },
         {
           "id": "n1-150-4",
           "kanji": "世",
@@ -13752,7 +13724,7 @@
           "id": "n1-150-5",
           "kanji": "改定",
           "kana": "かいてい [kaitei]",
-          "meaning": "Revision (of a rule",
+          "meaning": "Revision (of a rule)",
           "grade": "N1",
           "parts": "noun",
           "meaningKo": "(규칙이나 가격 등을) 개정하다"
@@ -14037,7 +14009,7 @@
           "id": "n1-153-6",
           "kanji": "区間",
           "kana": "くかん [kukan]",
-          "meaning": "Section (of track",
+          "meaning": "Section (of track)",
           "grade": "N1",
           "parts": "noun",
           "meaningKo": "섹션 (트랙 등)"
@@ -14156,11 +14128,10 @@
           "id": "n1-154-9",
           "kanji": "上演",
           "kana": "じょうえん [jouen]",
-          "meaning": "Performance (of a play",
+          "meaning": "Performance (of a play)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(연극"
-        },
+          "meaningKo": "(연극)"        },
         {
           "id": "n1-154-10",
           "kanji": "植民地",
@@ -15233,11 +15204,10 @@
           "id": "n1-166-6",
           "kanji": "密接",
           "kana": "みっせつ [missetsu]",
-          "meaning": "Close (relationship",
+          "meaning": "Close (relationship)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "닫다 (관계"
-        },
+          "meaningKo": "닫다 (관계)"        },
         {
           "id": "n1-166-7",
           "kanji": "有機",
@@ -16079,11 +16049,10 @@
           "id": "n1-175-8",
           "kanji": "利子",
           "kana": "りし [rishi]",
-          "meaning": "Interest (on a loan",
+          "meaning": "Interest (on a loan)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "이자(대출"
-        },
+          "meaningKo": "이자(대출)"        },
         {
           "id": "n1-175-9",
           "kanji": "恋愛",
@@ -16568,11 +16537,10 @@
           "id": "n1-181-1",
           "kanji": "対等",
           "kana": "たいとう [taitou]",
-          "meaning": "Equality (esp. of status",
+          "meaning": "Equality (esp. of status)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "평등(특히 지위"
-        },
+          "meaningKo": "평등(특히 지위)"        },
         {
           "id": "n1-181-2",
           "kanji": "大筋",
@@ -16678,11 +16646,10 @@
           "id": "n1-182-3",
           "kanji": "配給",
           "kana": "はいきゅう [haikyuu]",
-          "meaning": "Distribution (e.g. films",
+          "meaning": "Distribution (e.g. films)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "유통(예: 영화"
-        },
+          "meaningKo": "유통(예: 영화)"        },
         {
           "id": "n1-182-4",
           "kanji": "配偶者",
@@ -16898,11 +16865,10 @@
           "id": "n1-184-7",
           "kanji": "利息",
           "kana": "りそく [risoku]",
-          "meaning": "Interest (on a loan",
+          "meaning": "Interest (on a loan)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "이자(대출"
-        },
+          "meaningKo": "이자(대출)"        },
         {
           "id": "n1-184-8",
           "kanji": "良好",
@@ -17616,11 +17582,10 @@
           "id": "n1-192-5",
           "kanji": "満たす",
           "kana": "みたす [mitasu]",
-          "meaning": "Satisfy (conditions",
+          "meaning": "Satisfy (conditions)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(조건"
-        },
+          "meaningKo": "(조건)"        },
         {
           "id": "n1-192-6",
           "kanji": "無言",
@@ -17738,8 +17703,7 @@
           "meaning": "Feel (i.e. tactile sensation)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "느낌(즉"
-        },
+          "meaningKo": "느낌(즉)"        },
         {
           "id": "n1-193-9",
           "kanji": "慣例",
@@ -18029,11 +17993,10 @@
           "id": "n1-196-10",
           "kanji": "徴収",
           "kana": "ちょうしゅう [choushuu]",
-          "meaning": "Collection (of fees",
+          "meaning": "Collection (of fees)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(수수료"
-        }
+          "meaningKo": "(수수료)"        }
       ],
       "197": [
         {
@@ -18121,11 +18084,10 @@
           "id": "n1-197-10",
           "kanji": "納入",
           "kana": "のうにゅう [nounyuu]",
-          "meaning": "Payment (taxes",
+          "meaning": "Payment (taxes)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "결제(세금"
-        }
+          "meaningKo": "결제(세금)"        }
       ],
       "198": [
         {
@@ -18658,8 +18620,7 @@
           "meaning": "(mental) attitude",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(마음가짐"
-        },
+          "meaningKo": "(마음가짐)"        },
         {
           "id": "n1-203-9",
           "kanji": "振り",
@@ -18765,11 +18726,10 @@
           "id": "n1-204-10",
           "kanji": "伝達",
           "kana": "でんたつ [dentatsu]",
-          "meaning": "Transmission (e.g. news",
+          "meaning": "Transmission (e.g. news)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "전송(예: 뉴스"
-        }
+          "meaningKo": "전송(예: 뉴스)"        }
       ],
       "205": [
         {
@@ -18969,11 +18929,10 @@
           "id": "n1-207-2",
           "kanji": "一筋",
           "kana": "ひとすじ [hitosuji]",
-          "meaning": "One long straight object (e.g. strand of hair",
+          "meaning": "One long straight object (e.g. strand of hair)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "길고 곧은 물체 하나(예: 머리카락 한 가닥"
-        },
+          "meaningKo": "길고 곧은 물체 하나(예: 머리카락 한 가닥)"        },
         {
           "id": "n1-207-3",
           "kanji": "値引き",
@@ -19705,11 +19664,10 @@
           "id": "n1-215-2",
           "kanji": "交わす",
           "kana": "かわす [kawasu]",
-          "meaning": "Exchange (messages",
+          "meaning": "Exchange (messages)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(메시지"
-        },
+          "meaningKo": "(메시지)"        },
         {
           "id": "n1-215-3",
           "kanji": "起源",
@@ -20127,11 +20085,10 @@
           "id": "n1-219-8",
           "kanji": "化ける",
           "kana": "ばける [bakeru]",
-          "meaning": "Take the form of (esp. in ref. to a spirit",
+          "meaning": "Take the form of (esp. in ref. to a spirit)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(특히 정령"
-        },
+          "meaningKo": "(특히 정령)"        },
         {
           "id": "n1-219-9",
           "kanji": "家出",
@@ -20450,11 +20407,10 @@
           "id": "n1-223-3",
           "kanji": "器官",
           "kana": "きかん [kikan]",
-          "meaning": "Organ (of body",
+          "meaning": "Organ (of body)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "기관(신체"
-        },
+          "meaningKo": "기관(신체)"        },
         {
           "id": "n1-223-4",
           "kanji": "奇数",
@@ -20762,11 +20718,10 @@
           "id": "n1-226-7",
           "kanji": "駆ける",
           "kana": "かける [kakeru]",
-          "meaning": "Run (race",
+          "meaning": "Run (race)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "달리다 (경주"
-        },
+          "meaningKo": "달리다 (경주)"        },
         {
           "id": "n1-226-8",
           "kanji": "駆け足",
@@ -20845,11 +20800,10 @@
           "id": "n1-227-6",
           "kanji": "継ぐ",
           "kana": "つぐ [tsugu]",
-          "meaning": "Succeed (a person",
+          "meaning": "Succeed (a person)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(사람"
-        },
+          "meaningKo": "(사람)"        },
         {
           "id": "n1-227-7",
           "kanji": "警部",
@@ -21741,8 +21695,7 @@
           "meaning": "Karma (i.e. actions committed in a former life)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "카르마(즉"
-        },
+          "meaningKo": "카르마(즉)"        },
         {
           "id": "n1-237-4",
           "kanji": "緊急",
@@ -21934,8 +21887,7 @@
           "meaning": "Sponsorship (i.e. conducting under one's auspices)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "후원(즉"
-        },
+          "meaningKo": "후원(즉)"        },
         {
           "id": "n1-239-5",
           "kanji": "取材",
@@ -22237,8 +22189,7 @@
           "meaning": "(private) secretary",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(시사"
-        },
+          "meaningKo": "(시사)"        },
         {
           "id": "n1-242-8",
           "kanji": "美術",
@@ -22961,11 +22912,10 @@
           "id": "n1-250-6",
           "kanji": "損失",
           "kana": "そんしつ [sonshitsu]",
-          "meaning": "Loss (of assets",
+          "meaning": "Loss (of assets)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(자산"
-        },
+          "meaningKo": "(자산)"        },
         {
           "id": "n1-250-7",
           "kanji": "多様",
@@ -23246,11 +23196,10 @@
           "id": "n1-253-7",
           "kanji": "流通",
           "kana": "りゅうつう [ryuutsuu]",
-          "meaning": "Circulation (money",
+          "meaning": "Circulation (money)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "순환 (돈"
-        },
+          "meaningKo": "순환 (돈)"        },
         {
           "id": "n1-253-8",
           "kanji": "連盟",
@@ -23264,11 +23213,10 @@
           "id": "n1-253-9",
           "kanji": "合併",
           "kana": "がっぺい [gappei]",
-          "meaning": "Merger (of companies",
+          "meaning": "Merger (of companies)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "합병 (회사"
-        },
+          "meaningKo": "합병 (회사)"        },
         {
           "id": "n1-253-10",
           "kanji": "発足",
@@ -23329,11 +23277,10 @@
           "id": "n1-254-6",
           "kanji": "遺跡",
           "kana": "いせき [iseki]",
-          "meaning": "Historic ruins (remains",
+          "meaning": "Historic ruins (remains)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "역사유적(유적"
-        },
+          "meaningKo": "역사유적(유적)"        },
         {
           "id": "n1-254-7",
           "kanji": "一気",
@@ -23385,7 +23332,7 @@
           "id": "n1-255-2",
           "kanji": "画",
           "kana": "かく [kaku]",
-          "meaning": "Stroke (of a kanji",
+          "meaning": "Stroke (of a kanji)",
           "grade": "N1",
           "parts": "noun",
           "meaningKo": "(한자 등의) 획"
@@ -23433,8 +23380,7 @@
           "meaning": "(sudden) change",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(급전"
-        },
+          "meaningKo": "(급전)"        },
         {
           "id": "n1-255-8",
           "kanji": "救済",
@@ -23733,11 +23679,10 @@
           "id": "n1-258-10",
           "kanji": "所属",
           "kana": "しょぞく [shozoku]",
-          "meaning": "Belonging to (a group",
+          "meaning": "Belonging to (a group)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(단체"
-        }
+          "meaningKo": "(단체)"        }
       ],
       "259": [
         {
@@ -23850,8 +23795,7 @@
           "meaning": "Now",
           "grade": "N2",
           "parts": "adverb",
-          "meaningKo": "자 (권유"
-        },
+          "meaningKo": "자 (권유)"        },
         {
           "id": "n2-1-5",
           "kanji": "おおい",
@@ -28515,8 +28459,7 @@
           "meaning": "Opposite",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "대 (비율"
-        },
+          "meaningKo": "대 (비율)"        },
         {
           "id": "n2-52-2",
           "kanji": "対処",
@@ -35727,8 +35670,7 @@
           "meaning": "Lesson",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "과 (부서"
-        },
+          "meaningKo": "과 (부서)"        },
         {
           "id": "n2-130-6",
           "kanji": "課する",
@@ -37907,11 +37849,10 @@
           "id": "n3-4-2",
           "kanji": "バット",
           "kana": "ばっと [batto]",
-          "meaning": "Bat (in baseball",
+          "meaning": "Bat (in baseball)",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "배트(야구"
-        },
+          "meaningKo": "배트(야구)"        },
         {
           "id": "n3-4-3",
           "kanji": "ぴったり",
@@ -37925,11 +37866,10 @@
           "id": "n3-4-4",
           "kanji": "モニター",
           "kana": "もにたー [monitaa]",
-          "meaning": "Monitor (device",
+          "meaning": "Monitor (device)",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "모니터(장치"
-        },
+          "meaningKo": "모니터(장치)"        },
         {
           "id": "n3-4-5",
           "kanji": "ややこしい",
@@ -46116,8 +46056,7 @@
           "meaning": "True",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "정 (양수"
-        },
+          "meaningKo": "정 (양수)"        },
         {
           "id": "n3-93-5",
           "kanji": "正に",
@@ -48947,11 +48886,10 @@
           "id": "n3-124-2",
           "kanji": "縁",
           "kana": "えん [en]",
-          "meaning": "A connection (with someone",
+          "meaning": "A connection (with someone)",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "(누군가"
-        },
+          "meaningKo": "(누군가)"        },
         {
           "id": "n3-124-3",
           "kanji": "縄",
@@ -52804,11 +52742,10 @@
           "id": "n4-1-1",
           "kanji": "アプローチ",
           "kana": "あぷろーち [apuroochi]",
-          "meaning": "Approach (to a problem",
+          "meaning": "Approach (to a problem)",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "(문제"
-        },
+          "meaningKo": "(문제)"        },
         {
           "id": "n4-1-2",
           "kanji": "アマチュア",
@@ -53502,11 +53439,10 @@
           "id": "n4-8-7",
           "kanji": "ホール",
           "kana": "ほーる [hooru]",
-          "meaning": "Hall (dance",
+          "meaning": "Hall (dance)",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "홀 (댄스"
-        },
+          "meaningKo": "홀 (댄스)"        },
         {
           "id": "n4-8-8",
           "kanji": "ボイコット",
@@ -53540,11 +53476,10 @@
           "id": "n4-9-1",
           "kanji": "ポット",
           "kana": "ぽっと [potto]",
-          "meaning": "Pot (esp. teapot",
+          "meaning": "Pot (esp. teapot)",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "냄비(특히 찻주전자"
-        },
+          "meaningKo": "냄비(특히 찻주전자)"        },
         {
           "id": "n4-9-2",
           "kanji": "ほとんど",
@@ -58418,20 +58353,18 @@
           "id": "n5-2-1",
           "kanji": "オープン",
           "kana": "おーぷん [oopun]",
-          "meaning": "Opening (a new store",
+          "meaning": "Opening (a new store)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "오픈(새 매장"
-        },
+          "meaningKo": "오픈(새 매장)"        },
         {
           "id": "n5-2-2",
           "kanji": "オレンジ",
           "kana": "おれんじ [orenji]",
-          "meaning": "Orange (fruit",
+          "meaning": "Orange (fruit)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "오렌지 (과일"
-        },
+          "meaningKo": "오렌지 (과일)"        },
         {
           "id": "n5-2-3",
           "kanji": "オンライン",
@@ -59137,8 +59070,7 @@
           "meaning": "strike (i.e. industrial action)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "파업(즉"
-        },
+          "meaningKo": "파업(즉)"        },
         {
           "id": "n5-9-10",
           "kanji": "ストレス",
@@ -59291,11 +59223,10 @@
           "id": "n5-11-6",
           "kanji": "センス",
           "kana": "せんす [sensu]",
-          "meaning": "Taste (in fashion",
+          "meaning": "Taste (in fashion)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "취향(패션"
-        },
+          "meaningKo": "취향(패션)"        },
         {
           "id": "n5-11-7",
           "kanji": "ソース",
@@ -59356,11 +59287,10 @@
           "id": "n5-12-3",
           "kanji": "タイム",
           "kana": "たいむ [taimu]",
-          "meaning": "Time (for",
+          "meaning": "Time (for)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "(할 시간"
-        },
+          "meaningKo": "(할 시간)"        },
         {
           "id": "n5-12-4",
           "kanji": "タイムリー",
@@ -59733,11 +59663,10 @@
           "id": "n5-16-4",
           "kanji": "ドライブイン",
           "kana": "どらいぶいん [doraibuin]",
-          "meaning": "Drive-in (bank",
+          "meaning": "Drive-in (bank)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "드라이브 인 (은행"
-        },
+          "meaningKo": "드라이브 인 (은행)"        },
         {
           "id": "n5-16-5",
           "kanji": "トラブル",
