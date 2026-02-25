@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "updatedAt": "2026-02-24T10:55:00Z",
+  "version": "1.1.1",
+  "updatedAt": "2026-02-25T10:33:00Z",
   "data": {
     "N1": {
       "1": [
@@ -1745,7 +1745,7 @@
           "kana": "せいぜん [seizen]",
           "meaning": "Orderly",
           "grade": "N1",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "질서 있는"
         }
       ],
@@ -2879,7 +2879,7 @@
           "meaning": "Perfectly round",
           "grade": "N1",
           "parts": "adjective",
-          "meaningKo": "완벽하게 둥글은"
+          "meaningKo": "완벽하게 둥근"
         },
         {
           "id": "n1-32-4",
@@ -4272,10 +4272,10 @@
           "id": "n1-47-5",
           "kanji": "公然",
           "kana": "こうぜん [kouzen]",
-          "meaning": "Open",
+          "meaning": "Openly",
           "grade": "N1",
-          "parts": "noun",
-          "meaningKo": "열려 있는"
+          "parts": "adverb",
+          "meaningKo": "공개적으로"
         },
         {
           "id": "n1-47-6",
@@ -6359,7 +6359,7 @@
           "meaning": "Sinking",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "가라앉는"
+          "meaningKo": "침몰"
         },
         {
           "id": "n1-70-3",
@@ -6469,7 +6469,7 @@
           "meaning": "Moving",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "움직이는"
+          "meaningKo": "이사"
         },
         {
           "id": "n1-71-5",
@@ -7780,9 +7780,9 @@
           "id": "n1-85-7",
           "kanji": "無茶",
           "kana": "むちゃ [mucha]",
-          "meaning": "Absurd",
+          "meaning": "Unreasonable",
           "grade": "N1",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "터무니없는"
         },
         {
@@ -10739,10 +10739,10 @@
           "id": "n1-117-10",
           "kanji": "几帳面",
           "kana": "きちょうめん [kichoumen]",
-          "meaning": "Methodical",
+          "meaning": "Meticulous",
           "grade": "N1",
-          "parts": "noun",
-          "meaningKo": "질서 있는"
+          "parts": "adjective",
+          "meaningKo": "꼼꼼한"
         }
       ],
       "118": [
@@ -13493,11 +13493,11 @@
         {
           "id": "n1-147-10",
           "kanji": "繁栄",
-          "kana": "はんえい [han'ei]",
-          "meaning": "Prospering",
+          "kana": "はんえい [hanei]",
+          "meaning": "Prosperity",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "번영하는"
+          "meaningKo": "번영"
         }
       ],
       "148": [
@@ -15850,7 +15850,7 @@
           "meaning": "Walking",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "걷는"
+          "meaningKo": "도보, 걸어감"
         },
         {
           "id": "n1-173-7",
@@ -15859,7 +15859,7 @@
           "meaning": "Characteristic (of)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "특징 (의)"
+          "meaningKo": "특징"
         },
         {
           "id": "n1-173-8",
@@ -16529,7 +16529,7 @@
           "meaning": "Dealing with",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "다루는"
+          "meaningKo": "대처"
         }
       ],
       "181": [
@@ -16708,10 +16708,10 @@
           "id": "n1-182-10",
           "kanji": "匹敵",
           "kana": "ひってき [hitteki]",
-          "meaning": "Be a match for",
+          "meaning": "Equal",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "일치하는"
+          "meaningKo": "대등한 존재"
         }
       ],
       "183": [
@@ -17493,7 +17493,7 @@
           "meaning": "Shaking",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "흔들리는"
+          "meaningKo": "흔들림"
         },
         {
           "id": "n1-191-6",
@@ -18142,7 +18142,7 @@
           "meaning": "Walking",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "걷는"
+          "meaningKo": "걸음"
         },
         {
           "id": "n1-198-7",
@@ -18736,10 +18736,10 @@
           "id": "n1-205-1",
           "kanji": "特産",
           "kana": "とくさん [tokusan]",
-          "meaning": "Being produced in a particular region",
+          "meaning": "Specialty",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "특정 지역에서 생산되는"
+          "meaningKo": "특산물"
         },
         {
           "id": "n1-205-2",
@@ -18748,7 +18748,7 @@
           "meaning": "Burning",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "타고 있는"
+          "meaningKo": "연소"
         },
         {
           "id": "n1-205-3",
@@ -18867,7 +18867,7 @@
           "meaning": "Useless",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "쓸모 없는"
+          "meaningKo": "쓸모 없음"
         },
         {
           "id": "n1-206-6",
@@ -18920,10 +18920,10 @@
           "id": "n1-207-1",
           "kanji": "露骨",
           "kana": "ろこつ [rokotsu]",
-          "meaning": "Open",
+          "meaning": "Blunt",
           "grade": "N1",
-          "parts": "noun",
-          "meaningKo": "열려 있는"
+          "parts": "adjective",
+          "meaningKo": "노골적인"
         },
         {
           "id": "n1-207-2",
@@ -20226,7 +20226,7 @@
           "meaning": "Corresponding to",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "에 해당하는"
+          "meaningKo": "해당되는 것"
         },
         {
           "id": "n1-221-4",
@@ -20288,7 +20288,7 @@
           "kana": "こっけい [kokkei]",
           "meaning": "Funny",
           "grade": "N1",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "재미있는"
         }
       ],
@@ -22326,8 +22326,8 @@
           "kana": "ゆうりょく [yuuryoku]",
           "meaning": "Influential",
           "grade": "N1",
-          "parts": "noun",
-          "meaningKo": "힘 있는"
+          "parts": "adjective",
+          "meaningKo": "유력한"
         },
         {
           "id": "n1-244-3",
@@ -27335,7 +27335,7 @@
           "meaning": "Noisy",
           "grade": "N2",
           "parts": "adjective",
-          "meaningKo": "시끄럽은"
+          "meaningKo": "시끄러운"
         },
         {
           "id": "n2-39-10",
@@ -28467,7 +28467,7 @@
           "meaning": "Dealing with",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "다루는"
+          "meaningKo": "대응"
         },
         {
           "id": "n2-52-3",
@@ -29800,7 +29800,7 @@
           "meaning": "Regrettable",
           "grade": "N2",
           "parts": "adjective",
-          "meaningKo": "아깝은"
+          "meaningKo": "아쉬운"
         },
         {
           "id": "n2-66-8",
@@ -31226,8 +31226,8 @@
           "kana": "ゆうりょく [yuuryoku]",
           "meaning": "Influential",
           "grade": "N2",
-          "parts": "noun",
-          "meaningKo": "힘 있는"
+          "parts": "adjective",
+          "meaningKo": "유력한"
         },
         {
           "id": "n2-82-3",
@@ -31972,7 +31972,7 @@
           "meaning": "Depressed",
           "grade": "N2",
           "parts": "adjective",
-          "meaningKo": "마음이 무겁은"
+          "meaningKo": "마음이 무거운"
         },
         {
           "id": "n2-90-4",
@@ -32477,7 +32477,7 @@
           "meaning": "Damp",
           "grade": "N2",
           "parts": "adjective",
-          "meaningKo": "습기차은"
+          "meaningKo": "습기찬"
         },
         {
           "id": "n2-95-9",
@@ -32642,7 +32642,7 @@
           "kana": "むくち [mukuchi]",
           "meaning": "Taciturn",
           "grade": "N2",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "말없는"
         },
         {
@@ -33756,7 +33756,7 @@
           "meaning": "Moving",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "움직이는"
+          "meaningKo": "이사"
         },
         {
           "id": "n2-109-8",
@@ -34821,10 +34821,10 @@
           "id": "n2-121-3",
           "kanji": "著しい",
           "kana": "いちじるしい [ichijirushii]",
-          "meaning": "Striking",
+          "meaning": "Remarkable",
           "grade": "N2",
           "parts": "adjective",
-          "meaningKo": "치는"
+          "meaningKo": "두드러진"
         },
         {
           "id": "n2-121-4",
@@ -36037,7 +36037,7 @@
           "meaning": "Making light of",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "경시하는"
+          "meaningKo": "경시함"
         },
         {
           "id": "n2-134-6",
@@ -37728,10 +37728,10 @@
           "id": "n3-2-9",
           "kanji": "ずぶ濡れ",
           "kana": "ずぶぬれ [zubunure]",
-          "meaning": "Dripping wet",
+          "meaning": "totally soaked",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "물이 뚝뚝 떨어지는"
+          "meaningKo": "흠뻑 젖음"
         },
         {
           "id": "n3-2-10",
@@ -38990,7 +38990,7 @@
           "meaning": "To be transmitted",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "전송되는"
+          "meaningKo": "전해지다"
         },
         {
           "id": "n3-16-7",
@@ -43893,7 +43893,7 @@
           "meaning": "Patient",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "인내심 있는"
+          "meaningKo": "환자"
         },
         {
           "id": "n3-69-10",
@@ -56808,7 +56808,7 @@
           "meaning": "Sleepy",
           "grade": "N4",
           "parts": "adjective",
-          "meaningKo": "졸리은"
+          "meaningKo": "졸리는"
         },
         {
           "id": "n4-45-4",
@@ -58547,7 +58547,7 @@
           "meaning": "Cut",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "자르다"
+          "meaningKo": "절단"
         },
         {
           "id": "n5-4-3",
@@ -59070,7 +59070,8 @@
           "meaning": "strike (i.e. industrial action)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "파업(즉)"        },
+          "meaningKo": "파업"        
+        },
         {
           "id": "n5-9-10",
           "kanji": "ストレス",
@@ -59089,16 +59090,16 @@
           "meaning": "drinking straw",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "빨대를 마시는"
+          "meaningKo": "빨대"
         },
         {
           "id": "n5-10-2",
           "kanji": "ストロボ",
           "kana": "すとろぼ [sutorobo]",
-          "meaning": "Stroboscope",
+          "meaning": "Electronic Flash",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "스트로보스코프"
+          "meaningKo": "플래시"
         },
         {
           "id": "n5-10-3",
@@ -61303,7 +61304,7 @@
           "meaning": "Dislike",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "싫어한"
+          "meaningKo": "싫어하는"
         },
         {
           "id": "n5-34-3",
@@ -61348,7 +61349,7 @@
           "meaning": "Cheap",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "싸은"
+          "meaningKo": "저렴한"
         },
         {
           "id": "n5-34-8",
@@ -61882,7 +61883,7 @@
           "meaning": "Bright",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "밝고"
+          "meaningKo": "밝은"
         },
         {
           "id": "n5-40-6",
@@ -62039,7 +62040,7 @@
           "meaning": "Dark",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "어둡은"
+          "meaningKo": "어두운"
         },
         {
           "id": "n5-42-3",
@@ -63621,7 +63622,7 @@
           "meaning": "Near",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "가깝은"
+          "meaningKo": "가까운"
         },
         {
           "id": "n5-59-5",
