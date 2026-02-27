@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "updatedAt": "2026-02-27T10:47:00Z",
+  "version": "1.1.3",
+  "updatedAt": "2026-02-27T16:52:00Z",
   "data": {
     "N1": {
       "1": [
@@ -58309,7 +58309,7 @@
           "kana": "いつも [itsumo]",
           "meaning": "Always",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "항상"
         },
         {
@@ -58357,7 +58357,8 @@
           "meaning": "Opening (a new store)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "오픈(새 매장)"        },
+          "meaningKo": "오픈(새 매장)"        
+        },
         {
           "id": "n5-2-2",
           "kanji": "オレンジ",
@@ -58365,7 +58366,8 @@
           "meaning": "Orange (fruit)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "오렌지 (과일)"        },
+          "meaningKo": "오렌지 (과일)"        
+        },
         {
           "id": "n5-2-3",
           "kanji": "オンライン",
@@ -58765,19 +58767,19 @@
           "id": "n5-6-6",
           "kanji": "コップ",
           "kana": "こっぷ [koppu]",
-          "meaning": "glass",
+          "meaning": "cup",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "유리"
+          "meaningKo": "컵"
         },
         {
           "id": "n5-6-7",
           "kanji": "コマーシャル",
           "kana": "こまーしゃる [komaasharu]",
-          "meaning": "commercial (TV or radio advertisement)",
+          "meaning": "commercial",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "광고(TV 또는 라디오 광고)"
+          "meaningKo": "광고"
         },
         {
           "id": "n5-6-8",
@@ -58804,7 +58806,7 @@
           "meaning": "contact",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "연락하다"
+          "meaningKo": "연락"
         }
       ],
       "7": [
@@ -58886,8 +58888,8 @@
           "kana": "さん [san]",
           "meaning": "Mr.",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "Mr."
+          "parts": "suffix",
+          "meaningKo": "~씨"
         },
         {
           "id": "n5-7-10",
@@ -58934,7 +58936,7 @@
           "meaning": "Chic",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "시크한"
+          "meaningKo": "세련됨"
         },
         {
           "id": "n5-8-5",
@@ -59044,7 +59046,7 @@
           "meaning": "studio",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "사진관"
+          "meaningKo": "촬영소, 작업실"
         },
         {
           "id": "n5-9-7",
@@ -59228,7 +59230,8 @@
           "meaning": "Taste (in fashion)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "취향(패션)"        },
+          "meaningKo": "취향 (패션)"        
+        },
         {
           "id": "n5-11-7",
           "kanji": "ソース",
@@ -59254,7 +59257,7 @@
           "meaning": "solo",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "독주"
+          "meaningKo": "솔로"
         },
         {
           "id": "n5-11-10",
@@ -59292,14 +59295,15 @@
           "meaning": "Time (for)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "(할 시간)"        },
+          "meaningKo": "시간"        
+        },
         {
           "id": "n5-12-4",
           "kanji": "タイムリー",
           "kana": "たいうりー [taimurii]",
           "meaning": "Timely",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "시의적절한"
         },
         {
@@ -59327,7 +59331,7 @@
           "meaning": "Fall",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "떨어지다"
+          "meaningKo": "하락, 저하"
         },
         {
           "id": "n5-12-8",
@@ -59351,10 +59355,10 @@
           "id": "n5-12-10",
           "kanji": "タレント",
           "kana": "たれんと [tarento]",
-          "meaning": "(tv or radio) entertainer",
+          "meaning": "entertainer",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "(TV 또는 라디오) 연예인"
+          "meaningKo": "연예인"
         }
       ],
       "13": [
@@ -59392,7 +59396,7 @@
           "meaning": "Change",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "변화하다"
+          "meaningKo": "변화"
         },
         {
           "id": "n5-13-5",
@@ -59418,7 +59422,7 @@
           "kana": "ちょうど [choudo]",
           "meaning": "Exactly",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "정확히"
         },
         {
@@ -59446,7 +59450,7 @@
           "meaning": "tape",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "줄자"
+          "meaningKo": "테이프"
         }
       ],
       "14": [
@@ -59493,7 +59497,7 @@
           "meaning": "design",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "설계"
+          "meaningKo": "디자인"
         },
         {
           "id": "n5-14-6",
@@ -59508,10 +59512,10 @@
           "id": "n5-14-7",
           "kanji": "デッサン",
           "kana": "でっさん [dessan]",
-          "meaning": "rough sketch",
+          "meaning": "sketch",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "대략적인 스케치"
+          "meaningKo": "스케치"
         },
         {
           "id": "n5-14-8",
@@ -59529,7 +59533,7 @@
           "meaning": "Telex",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "텔렉스"
+          "meaningKo": "텔렉스, 통신 시스템"
         },
         {
           "id": "n5-14-10",
@@ -59549,7 +59553,7 @@
           "meaning": "tone",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "음정"
+          "meaningKo": "톤, 음색"
         },
         {
           "id": "n5-15-2",
@@ -59593,8 +59597,8 @@
           "kana": "どうぞ [douzo]",
           "meaning": "Please",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "제발"
+          "parts": "adverb",
+          "meaningKo": "부디"
         },
         {
           "id": "n5-15-7",
@@ -59630,7 +59634,7 @@
           "meaning": "Very",
           "grade": "N5",
           "parts": "adverb",
-          "meaningKo": "아주"
+          "meaningKo": "매우"
         }
       ],
       "16": [
@@ -59640,7 +59644,7 @@
           "kana": "どらい [dorai]",
           "meaning": "dry",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "마른"
         },
         {
@@ -59659,16 +59663,17 @@
           "meaning": "driver (of a vehicle)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "(차량의) 운전자"
+          "meaningKo": "운전자"
         },
         {
           "id": "n5-16-4",
           "kanji": "ドライブイン",
           "kana": "どらいぶいん [doraibuin]",
-          "meaning": "Drive-in (bank)",
+          "meaning": "Drive-in",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "드라이브 인 (은행)"        },
+          "meaningKo": "드라이브 인"        
+        },
         {
           "id": "n5-16-5",
           "kanji": "トラブル",
@@ -59685,25 +59690,25 @@
           "meaning": "Drill bit",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "드릴 비트"
+          "meaningKo": "드릴"
         },
         {
           "id": "n5-16-7",
           "kanji": "ナイター",
           "kana": "ないたー [naitaa]",
-          "meaning": "Game under lights (e.g. baseball)",
+          "meaning": "Night game",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "조명 아래에서 하는 게임(예: 야구)"
+          "meaningKo": "야간 경기"
         },
         {
           "id": "n5-16-8",
           "kanji": "ナプキン",
           "kana": "なぷきん [napukin]",
-          "meaning": "(table) napkin",
+          "meaning": "napkin",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "(테이블) 냅킨"
+          "meaningKo": "냅킨"
         },
         {
           "id": "n5-16-9",
@@ -59750,7 +59755,7 @@
           "meaning": "ferry",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "나룻배"
+          "meaningKo": "페리, 여객선"
         },
         {
           "id": "n5-17-4",
@@ -59812,8 +59817,8 @@
           "kana": "また [mata]",
           "meaning": "Again",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "또"
+          "parts": "adverb",
+          "meaningKo": "또, 다시"
         }
       ],
       "18": [
@@ -59841,7 +59846,7 @@
           "kana": "ゆっくり [yukkuri]",
           "meaning": "Slowly",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "천천히"
         },
         {
@@ -59878,7 +59883,7 @@
           "meaning": "one day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "어느 날"
+          "meaningKo": "하루, 하루종일"
         },
         {
           "id": "n5-18-8",
@@ -59887,7 +59892,7 @@
           "meaning": "year before last",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "지난 해"
+          "meaningKo": "재작년"
         },
         {
           "id": "n5-18-9",
@@ -59905,7 +59910,7 @@
           "meaning": "Number one",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "첫번째"
+          "meaningKo": "일등"
         }
       ],
       "19": [
@@ -59931,10 +59936,10 @@
           "id": "n5-19-3",
           "kanji": "七日",
           "kana": "なのか [nanoka]",
-          "meaning": "Seventh day of the month",
+          "meaning": "Seventh day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "그 달 일곱째 날"
+          "meaningKo": "7일"
         },
         {
           "id": "n5-19-4",
@@ -59952,7 +59957,7 @@
           "meaning": "three",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "삼"
+          "meaningKo": "셋"
         },
         {
           "id": "n5-19-6",
@@ -59967,10 +59972,10 @@
           "id": "n5-19-7",
           "kanji": "上手",
           "kana": "じょうず [jouzu]",
-          "meaning": "Upper part",
+          "meaning": "skillful",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "위쪽"
+          "parts": "adjective",
+          "meaningKo": "잘하는"
         },
         {
           "id": "n5-19-8",
@@ -59979,7 +59984,7 @@
           "meaning": "Coat",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "코트"
+          "meaningKo": "상의"
         },
         {
           "id": "n5-19-9",
@@ -60068,10 +60073,10 @@
           "id": "n5-20-8",
           "kanji": "九日",
           "kana": "ここのか [kokonoka]",
-          "meaning": "Ninth day of the month",
+          "meaning": "Ninth day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "그 달 아홉째 날"
+          "meaningKo": "9일"
         },
         {
           "id": "n5-20-9",
@@ -60097,10 +60102,10 @@
           "id": "n5-21-1",
           "kanji": "二十日",
           "kana": "はつか [hatsuka]",
-          "meaning": "Twentieth day of the month",
+          "meaning": "Twentieth day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "그 달 이십일"
+          "meaningKo": "20일"
         },
         {
           "id": "n5-21-2",
@@ -60115,10 +60120,10 @@
           "id": "n5-21-3",
           "kanji": "二日",
           "kana": "ふつか [futsuka]",
-          "meaning": "Second day of the month",
+          "meaning": "Second day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "매월 둘째 날"
+          "meaningKo": "2일"
         },
         {
           "id": "n5-21-4",
@@ -60136,16 +60141,16 @@
           "meaning": "five",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "다섯"
+          "meaningKo": "다섯개"
         },
         {
           "id": "n5-21-6",
           "kanji": "五日",
           "kana": "いつか [itsuka]",
-          "meaning": "Fifth day of the month",
+          "meaning": "Fifth day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "매월 5일"
+          "meaningKo": "5일"
         },
         {
           "id": "n5-21-7",
@@ -60172,7 +60177,7 @@
           "meaning": "person",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "~인 (사람)"
+          "meaningKo": "사람"
         },
         {
           "id": "n5-21-10",
@@ -60198,7 +60203,7 @@
           "id": "n5-22-2",
           "kanji": "今日",
           "kana": "きょう [kyou]",
-          "meaning": "This day",
+          "meaning": "Today",
           "grade": "N5",
           "parts": "noun",
           "meaningKo": "오늘"
@@ -60362,10 +60367,10 @@
           "id": "n5-23-10",
           "kanji": "便利",
           "kana": "べんり [benri]",
-          "meaning": "Convenient",
+          "meaning": "Convenience",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "편리하다"
+          "meaningKo": "편리"
         }
       ],
       "24": [
@@ -60385,7 +60390,7 @@
           "meaning": "Near",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "가까이"
+          "meaningKo": "근처"
         },
         {
           "id": "n5-24-3",
@@ -60409,10 +60414,10 @@
           "id": "n5-24-5",
           "kanji": "元気",
           "kana": "げんき [genki]",
-          "meaning": "Lively",
+          "meaning": "healthy",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "활기찬"
+          "meaningKo": "건강한"
         },
         {
           "id": "n5-24-6",
@@ -60438,7 +60443,7 @@
           "kana": "さき [saki]",
           "meaning": "Previous",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "이전의"
         },
         {
@@ -60448,7 +60453,7 @@
           "meaning": "last month",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "전달"
+          "meaningKo": "지난달"
         },
         {
           "id": "n5-24-10",
@@ -60537,10 +60542,10 @@
           "id": "n5-25-9",
           "kanji": "六日",
           "kana": "むいか [muika]",
-          "meaning": "Sixth day of the month",
+          "meaning": "Sixth day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "그 달의 여섯째 날"
+          "meaningKo": "6일"
         },
         {
           "id": "n5-25-10",
@@ -60549,7 +60554,7 @@
           "meaning": "year after next",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "다음 해 이후"
+          "meaningKo": "내후년"
         }
       ],
       "26": [
@@ -60669,7 +60674,7 @@
           "kana": "はじめて [hajimete]",
           "meaning": "for the first time",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "처음으로"
         },
         {
@@ -60721,10 +60726,10 @@
           "id": "n5-27-9",
           "kanji": "十日",
           "kana": "とおか [tooka]",
-          "meaning": "Tenth day of the month",
+          "meaning": "Tenth day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "매월 열흘"
+          "meaningKo": "10일"
         },
         {
           "id": "n5-27-10",
@@ -60741,16 +60746,16 @@
           "id": "n5-28-1",
           "kanji": "午前",
           "kana": "ごぜん [gozen]",
-          "meaning": "Morning",
+          "meaning": "AM, morning",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "아침"
+          "meaningKo": "오전"
         },
         {
           "id": "n5-28-2",
           "kanji": "午後",
           "kana": "ごご [gogo]",
-          "meaning": "Afternoon",
+          "meaning": "PM, afternoon",
           "grade": "N5",
           "parts": "noun",
           "meaningKo": "오후"
@@ -60880,7 +60885,7 @@
           "kana": "おなじ [onaji]",
           "meaning": "Same",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "같은"
         },
         {
@@ -60898,7 +60903,7 @@
           "kana": "むこう [mukou]",
           "meaning": "Opposite side",
           "grade": "N5",
-          "parts": "verb",
+          "parts": "noun",
           "meaningKo": "반대편"
         },
         {
@@ -60943,10 +60948,10 @@
           "id": "n5-30-3",
           "kanji": "問題",
           "kana": "もんだい [mondai]",
-          "meaning": "Question",
+          "meaning": "problem",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "질문"
+          "meaningKo": "문제"
         },
         {
           "id": "n5-30-4",
@@ -60964,16 +60969,16 @@
           "meaning": "four",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "네"
+          "meaningKo": "넷"
         },
         {
           "id": "n5-30-6",
           "kanji": "四日",
           "kana": "よっか [yokka]",
-          "meaning": "Fourth day of the month",
+          "meaning": "Fourth day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "매월 넷째 날"
+          "meaningKo": "4일"
         },
         {
           "id": "n5-30-7",
@@ -61074,7 +61079,7 @@
           "meaning": "Outside",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "외부"
+          "meaningKo": "바깥"
         },
         {
           "id": "n5-31-8",
@@ -61138,8 +61143,8 @@
           "kana": "だいじょうぶ [daijoubu]",
           "meaning": "Safe",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "안전해"
+          "parts": "adjective",
+          "meaningKo": "괜찮은"
         },
         {
           "id": "n5-32-5",
@@ -61165,7 +61170,7 @@
           "kana": "たいせつ [taisetsu]",
           "meaning": "Important",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "중요한"
         },
         {
@@ -61175,7 +61180,7 @@
           "meaning": "Many",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "많은"
+          "meaningKo": "다수, 많은 사람"
         },
         {
           "id": "n5-32-9",
@@ -61183,7 +61188,7 @@
           "kana": "たいへん [taihen]",
           "meaning": "Very",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "매우"
         },
         {
@@ -61248,8 +61253,8 @@
           "kana": "すき [suki]",
           "meaning": "Liking",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "좋아하다"
+          "parts": "adjective",
+          "meaningKo": "좋아하는"
         },
         {
           "id": "n5-33-7",
@@ -61293,10 +61298,10 @@
           "id": "n5-34-1",
           "kanji": "嫌",
           "kana": "いや [iya]",
-          "meaning": "Disagreeable",
+          "meaning": "Unpleasant",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "불쾌한"
+          "parts": "adjective",
+          "meaningKo": "싫은, 불쾌한"
         },
         {
           "id": "n5-34-2",
@@ -61433,7 +61438,7 @@
           "meaning": "A little",
           "grade": "N5",
           "parts": "adverb",
-          "meaningKo": "조금"
+          "meaningKo": "조금, 약간"
         },
         {
           "id": "n5-35-7",
@@ -61442,7 +61447,7 @@
           "meaning": "Few",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "조금"
+          "meaningKo": "거의 없는"
         },
         {
           "id": "n5-35-8",
@@ -61498,7 +61503,7 @@
           "meaning": "Year",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "년"
+          "meaningKo": "년, 해"
         },
         {
           "id": "n5-36-4",
@@ -61516,7 +61521,7 @@
           "meaning": "How much",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "얼마나"
+          "meaningKo": "가격, 양"
         },
         {
           "id": "n5-36-6",
@@ -61792,7 +61797,7 @@
           "meaning": "Walk",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "걷다"
+          "meaningKo": "산책"
         },
         {
           "id": "n5-39-6",
@@ -61866,16 +61871,16 @@
           "meaning": "early",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "일찍"
+          "meaningKo": "빠른"
         },
         {
           "id": "n5-40-4",
           "kanji": "早く",
           "kana": "はやく [hayaku]",
-          "meaning": "Early",
+          "meaning": "quickly",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "일찍"
+          "parts": "adverb",
+          "meaningKo": "일찍, 빠르게"
         },
         {
           "id": "n5-40-5",
@@ -61966,7 +61971,7 @@
           "kana": "ときどき [tokidoki]",
           "meaning": "Sometimes",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "가끔"
         },
         {
@@ -61994,7 +61999,7 @@
           "meaning": "dinner",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "저녁"
+          "meaningKo": "저녁 식사"
         },
         {
           "id": "n5-41-8",
@@ -62083,10 +62088,10 @@
           "id": "n5-42-7",
           "kanji": "有る",
           "kana": "ある [aru]",
-          "meaning": "To be",
+          "meaning": "To be (object, plant)",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "있다"
+          "meaningKo": "있다 (사물, 식물)"
         },
         {
           "id": "n5-42-8",
@@ -62730,7 +62735,7 @@
           "meaning": "pupil",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "학생"
+          "meaningKo": "학생 (초중고)"
         },
         {
           "id": "n5-49-8",
@@ -62777,7 +62782,7 @@
           "meaning": "number",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "숫자"
+          "meaningKo": "번호"
         },
         {
           "id": "n5-50-3",
@@ -62958,10 +62963,10 @@
           "id": "n5-52-2",
           "kanji": "空",
           "kana": "そら [sora]",
-          "meaning": "Emptiness",
+          "meaning": "Sky",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "공허함"
+          "meaningKo": "하늘"
         },
         {
           "id": "n5-52-3",
@@ -63050,10 +63055,10 @@
           "id": "n5-53-2",
           "kanji": "結構",
           "kana": "けっこう [kekkou]",
-          "meaning": "Spenlid",
+          "meaning": "enough",
           "grade": "N5",
-          "parts": "noun",
-          "meaningKo": "스펜리드"
+          "parts": "adjective",
+          "meaningKo": "충분한, 괜찮은"
         },
         {
           "id": "n5-53-3",
@@ -63089,7 +63094,7 @@
           "meaning": "Practice",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "연습하다"
+          "meaningKo": "연습"
         },
         {
           "id": "n5-53-7",
@@ -63116,7 +63121,7 @@
           "meaning": "To be taught",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "가르치다"
+          "meaningKo": "배우다"
         },
         {
           "id": "n5-53-10",
@@ -63154,7 +63159,7 @@
           "meaning": "Height",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "키"
+          "meaningKo": "키, 높이"
         },
         {
           "id": "n5-54-4",
@@ -63216,7 +63221,7 @@
           "kana": "いろいろ [iroiro]",
           "meaning": "various",
           "grade": "N5",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "다양한"
         }
       ],
@@ -63398,10 +63403,10 @@
           "id": "n5-56-10",
           "kanji": "話",
           "kana": "はなし [hanashi]",
-          "meaning": "Talk",
+          "meaning": "story",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "말하다"
+          "meaningKo": "이야기"
         }
       ],
       "57": [
@@ -63439,7 +63444,7 @@
           "meaning": "who",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "WHO"
+          "meaningKo": "누구"
         },
         {
           "id": "n5-57-5",
@@ -63611,10 +63616,10 @@
           "id": "n5-59-3",
           "kanji": "辺",
           "kana": "へん [hen]",
-          "meaning": "Area",
+          "meaning": "edge",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "지역"
+          "meaningKo": "변, 가장자리"
         },
         {
           "id": "n5-59-4",
@@ -63629,10 +63634,10 @@
           "id": "n5-59-5",
           "kanji": "近く",
           "kana": "ちかく [chikaku]",
-          "meaning": "Near",
+          "meaning": "nearby",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "가까운"
+          "meaningKo": "근처, 가까운 곳"
         },
         {
           "id": "n5-59-6",
@@ -63650,7 +63655,7 @@
           "meaning": "Fast",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "빨리"
+          "meaningKo": "빠른"
         },
         {
           "id": "n5-59-8",
