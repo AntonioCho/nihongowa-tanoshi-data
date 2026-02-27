@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "updatedAt": "2026-02-25T10:33:00Z",
+  "version": "1.1.2",
+  "updatedAt": "2026-02-27T10:47:00Z",
   "data": {
     "N1": {
       "1": [
@@ -2980,7 +2980,7 @@
           "meaning": "Dressing up in fine clothes",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "좋은 옷을 입고"
+          "meaningKo": "화려하게 차려 입음"
         },
         {
           "id": "n1-33-5",
@@ -3422,7 +3422,8 @@
           "meaning": "Dry up (spring)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(봄)"        },
+          "meaningKo": "마르다, 고갈되다"        
+        },
         {
           "id": "n1-38-3",
           "kanji": "煌々",
@@ -6137,7 +6138,7 @@
           "meaning": "Spring",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "봄에"
+          "meaningKo": "튀어 오르다"
         },
         {
           "id": "n1-67-9",
@@ -9490,7 +9491,7 @@
           "meaning": "(happen to) see",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(일어나다) 보려고"
+          "meaningKo": "우연히 보다"
         },
         {
           "id": "n1-104-4",
@@ -14104,7 +14105,7 @@
           "meaning": "Catch",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "잡으려고"
+          "meaningKo": "받다, 잡다"
         },
         {
           "id": "n1-154-7",
@@ -20518,7 +20519,7 @@
           "kana": "および [oyobi]",
           "meaning": "And",
           "grade": "N1",
-          "parts": "noun",
+          "parts": "conjunction",
           "meaningKo": "그리고"
         },
         {
@@ -34418,7 +34419,7 @@
           "meaning": "Catch",
           "grade": "N2",
           "parts": "verb",
-          "meaningKo": "잡으려고"
+          "meaningKo": "알아듣다"
         },
         {
           "id": "n2-116-10",
@@ -44474,7 +44475,7 @@
           "meaning": "Being in charge",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "담당하고"
+          "meaningKo": "담당"
         },
         {
           "id": "n3-76-3",
@@ -46459,7 +46460,7 @@
           "meaning": "Spring",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "봄"
+          "meaningKo": "샘"
         },
         {
           "id": "n3-97-9",
@@ -46937,7 +46938,7 @@
           "meaning": "Not writing or contacting for a while",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "한동안 편지도 연락도 하지 않고"
+          "meaningKo": "무소식"
         }
       ],
       "103": [
@@ -54618,7 +54619,7 @@
           "meaning": "To eat",
           "grade": "N4",
           "parts": "verb",
-          "meaningKo": "먹고"
+          "meaningKo": "먹다 (높임말)"
         },
         {
           "id": "n4-21-6",
@@ -61927,7 +61928,7 @@
           "kana": "はる [haru]",
           "meaning": "Spring",
           "grade": "N5",
-          "parts": "verb",
+          "parts": "noun",
           "meaningKo": "봄"
         }
       ],
@@ -62830,7 +62831,7 @@
           "meaning": "white",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "하얀색"
+          "meaningKo": "하얀"
         },
         {
           "id": "n5-50-9",
@@ -63290,7 +63291,7 @@
           "meaning": "Thin",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "얇고"
+          "meaningKo": "얇은"
         },
         {
           "id": "n5-55-9",
@@ -63539,7 +63540,7 @@
           "meaning": "red",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "빨간색"
+          "meaningKo": "빨간"
         },
         {
           "id": "n5-58-6",
@@ -63584,7 +63585,7 @@
           "meaning": "light",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "빛"
+          "meaningKo": "가벼운"
         }
       ],
       "59": [
