@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "updatedAt": "2026-03-13T06:00:00Z",
+  "version": "1.2.1",
+  "updatedAt": "2026-03-13T12:12:00Z",
   "data": {
     "N5": {
       "1": [
@@ -28454,7 +28454,7 @@
           "meaning": "To be idle",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "한가하다",
+          "meaningKo": "게을리하다",
           "example": {
             "sentence": "勉強を怠けてはいけない。",
             "kana": "べんきょうを怠（なま）けてはいけない。",
@@ -28469,7 +28469,7 @@
           "meaning": "Swiftly",
           "grade": "N3",
           "parts": "adverb",
-          "meaningKo": "신속하게",
+          "meaningKo": "갑자기",
           "example": {
             "sentence": "急に雨が降った。",
             "kana": "きゅうに あめが ふった。",
@@ -28484,7 +28484,7 @@
           "meaning": "Sudden",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "갑작스러운",
+          "meaningKo": "급격",
           "example": {
             "sentence": "気温が急激に下がった。",
             "kana": "きおんが きゅうげきに さがった。",
@@ -28499,7 +28499,7 @@
           "meaning": "Rapid",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "빠른",
+          "meaningKo": "급속",
           "example": {
             "sentence": "急速な変化に驚いた。",
             "kana": "きゅうそくなへんかにおどろいた。",
@@ -28666,7 +28666,7 @@
           "meaning": "Favor",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "호의",
+          "meaningKo": "은혜",
           "example": {
             "sentence": "恩を忘れない。",
             "kana": "おんをわすれない。",
@@ -28693,10 +28693,10 @@
           "id": "n3-69-8",
           "kanji": "悔しい",
           "kana": "くやしい [kuyashii]",
-          "meaning": "Annoying",
+          "meaning": "frustrated",
           "grade": "N3",
           "parts": "adjective",
-          "meaningKo": "짜증나는",
+          "meaningKo": "분한",
           "example": {
             "sentence": "試合に負けて悔しい。",
             "kana": "しあいにまけてくやしい。",
@@ -28708,7 +28708,7 @@
           "id": "n3-69-9",
           "kanji": "患者",
           "kana": "かんじゃ [kanja]",
-          "meaning": "Patient",
+          "meaning": "patient",
           "grade": "N3",
           "parts": "noun",
           "meaningKo": "환자",
@@ -28863,12 +28863,12 @@
           "meaning": "Pleasant",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "즐겁다",
+          "meaningKo": "유쾌",
           "example": {
             "sentence": "愉快な友達と遊んだ。",
             "kana": "ゆかいな友達（ともだち）と遊（あそ）んだ。",
             "meaning": "I played with pleasant friends.",
-            "meaningKo": "즐거운 친구들과 놀았다."
+            "meaningKo": "유쾌한 친구들과 놀았다."
           }
         },
         {
@@ -29012,10 +29012,10 @@
           "id": "n3-71-9",
           "kanji": "感動",
           "kana": "かんどう [kandou]",
-          "meaning": "Feeling deeply moved emotionally",
+          "meaning": "Feeling movement",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "감정적으로 깊은 감동을 받은 느낌",
+          "meaningKo": "감동",
           "example": {
             "sentence": "映画に感動した。",
             "kana": "えいがにかんどうした。",
@@ -29077,12 +29077,12 @@
           "meaning": "Deep emotion",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "깊은 감정",
+          "meaningKo": "감격",
           "example": {
             "sentence": "彼の言葉に感激した。",
             "kana": "かれのことばにかんげきした。",
             "meaning": "I was deeply moved by his words.",
-            "meaningKo": "그의 말에 깊이 감동했다."
+            "meaningKo": "그의 말에 감격했다."
           }
         },
         {
@@ -29107,7 +29107,7 @@
           "meaning": "Thanks",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "감사합니다",
+          "meaningKo": "감사",
           "example": {
             "sentence": "感謝の気持ちを伝えた。",
             "kana": "かんしゃのきもちをつたえた。",
@@ -29152,7 +29152,7 @@
           "meaning": "Careful",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "신중한",
+          "meaningKo": "신중",
           "example": {
             "sentence": "慎重に運転してください。",
             "kana": "しんちょうに うんてん して ください。",
@@ -29244,7 +29244,7 @@
           "meaning": "Results",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "결과",
+          "meaningKo": "성적",
           "example": {
             "sentence": "成績が上がった。",
             "kana": "せいせきが上（あ）がった。",
@@ -29259,7 +29259,7 @@
           "meaning": "Growth",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "성장하다",
+          "meaningKo": "성장",
           "example": {
             "sentence": "子供の成長は早い。",
             "kana": "こどもの せいちょうは はやい。",
@@ -29286,10 +29286,10 @@
           "id": "n3-73-7",
           "kanji": "我が家",
           "kana": "わがや [wagaya]",
-          "meaning": "One’s house",
+          "meaning": "My house",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "누군가의 집",
+          "meaningKo": "우리 집",
           "example": {
             "sentence": "我が家は駅から近いです。",
             "kana": "わがやは えきから ちかいです。",
@@ -29378,10 +29378,10 @@
           "id": "n3-74-3",
           "kanji": "手品",
           "kana": "てじな [tejina]",
-          "meaning": "Sleight of hand",
+          "meaning": "Magic trick.",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "손재주",
+          "meaningKo": "마술",
           "example": {
             "sentence": "手品を見せてください。",
             "kana": "てじなを みせて ください。",
@@ -29453,10 +29453,10 @@
           "id": "n3-74-8",
           "kanji": "打つかる",
           "kana": "ぶつかる [butsukaru]",
-          "meaning": "To strike against",
+          "meaning": "hit",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "~에 맞서다",
+          "meaningKo": "부딪히다",
           "example": {
             "sentence": "車が壁に打つかった。",
             "kana": "くるまが かべに ぶつかった。",
@@ -29515,10 +29515,10 @@
           "id": "n3-75-2",
           "kanji": "承知",
           "kana": "しょうち [shouchi]",
-          "meaning": "Knowledge",
+          "meaning": "acknowledgement",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "지식",
+          "meaningKo": "인지",
           "example": {
             "sentence": "承知しました。",
             "kana": "しょうちしました。",
@@ -29530,10 +29530,10 @@
           "id": "n3-75-3",
           "kanji": "承認",
           "kana": "しょうにん [shounin]",
-          "meaning": "Recognition",
+          "meaning": "approval",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "인정",
+          "meaningKo": "승인",
           "example": {
             "sentence": "計画の承認を待っています。",
             "kana": "けいかくのしょうにんをまっています。",
@@ -29563,7 +29563,7 @@
           "meaning": "To restrain",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "제지하다",
+          "meaningKo": "억제하다",
           "example": {
             "sentence": "怒りを抑える。",
             "kana": "いかりを抑（おさ）える。",
@@ -29593,7 +29593,7 @@
           "meaning": "To extract",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "추출하다",
+          "meaningKo": "뽑다",
           "example": {
             "sentence": "歯を抜く。",
             "kana": "はを抜く。",
