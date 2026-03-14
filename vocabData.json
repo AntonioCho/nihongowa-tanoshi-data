@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "updatedAt": "2026-03-13T12:12:00Z",
+  "version": "1.2.2",
+  "updatedAt": "2026-03-14T11:15:00Z",
   "data": {
     "N5": {
       "1": [
@@ -89,7 +89,7 @@
           "meaningKo": "여기",
           "example": {
             "sentence": "ここは私の家です。",
-            "kana": "ここは私（わたし）の家（いえ）です。",
+            "kana": "ここはわたしのいえです。",
             "meaning": "This is my house.",
             "meaningKo": "여기는 제 집입니다."
           }
@@ -271,7 +271,7 @@
           "meaningKo": "되다",
           "example": {
             "sentence": "明日は雨になります。",
-            "kana": "あした（あした）は あめ（あめ）に なります。",
+            "kana": "あしたは あめに なります。",
             "meaning": "It will become rainy tomorrow.",
             "meaningKo": "내일은 비가 될 것입니다."
           }
@@ -560,7 +560,7 @@
           "meaningKo": "환자차트",
           "example": {
             "sentence": "看護師がカルテを見ています。",
-            "kana": "かんごし（かんごし）がカルテを見（み）ています。",
+            "kana": "かんごしがカルテをみています。",
             "meaning": "The nurse is looking at the patient's chart.",
             "meaningKo": "간호사가 환자차트를 보고 있습니다."
           }
@@ -1207,10 +1207,10 @@
           "id": "n5-8-10",
           "kanji": "ジャンパー",
           "kana": "じゃんぱー [janpaa]",
-          "meaning": "(short) jacket",
+          "meaning": "jacket",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "(짧은) 재킷",
+          "meaningKo": "재킷",
           "example": {
             "sentence": "寒いので、ジャンパーを着ています。",
             "kana": "さむいので、ジャンパーをきています。",
@@ -1227,7 +1227,7 @@
           "meaning": "jump",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "도약",
+          "meaningKo": "점프",
           "example": {
             "sentence": "猫が高いところからジャンプした。",
             "kana": "ねこが たかいところから ジャンプした。",
@@ -1514,7 +1514,7 @@
           "meaning": "Taste (in fashion)",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "취향 (패션)",
+          "meaningKo": "센스",
           "example": {
             "sentence": "彼女はセンスがいいです。",
             "kana": "かのじょはセンスがいいです。",
@@ -1546,7 +1546,7 @@
           "meaning": "sale",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "판매",
+          "meaningKo": "세일",
           "example": {
             "sentence": "今日はデパートでセールがあります。",
             "kana": "きょうはデパートでセールがあります。",
@@ -1788,10 +1788,10 @@
           "meaning": "Fall",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "하락, 저하",
+          "meaningKo": "하락",
           "example": {
             "sentence": "株価がダウンしました。",
-            "kana": "かぶか（かぶか）がダウンしました。",
+            "kana": "かぶかがダウンしました。",
             "meaning": "The stock price fell.",
             "meaningKo": "주가가 하락했습니다."
           }
@@ -2077,12 +2077,12 @@
           "meaning": "Trouble",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "문제",
+          "meaningKo": "트러블",
           "example": {
             "sentence": "車のトラブルで遅れました。",
             "kana": "くるまのトラブルでおくれました。",
             "meaning": "I was late due to car trouble.",
-            "meaningKo": "차 고장으로 늦었습니다."
+            "meaningKo": "차 트러블로 늦었습니다."
           }
         },
         {
@@ -2127,7 +2127,7 @@
             "sentence": "このタオルはドライです。",
             "kana": "このタオルはドライです。",
             "meaning": "This towel is dry.",
-            "meaningKo": "이 수건은 마릅니다."
+            "meaningKo": "이 수건은 말라 있습니다."
           }
         }
       ],
@@ -2144,7 +2144,7 @@
             "sentence": "このスーツはドライクリーニングしてください。",
             "kana": "このスーツはドライクリーニングしてください。",
             "meaning": "Please dry clean this suit.",
-            "meaningKo": "이 정장을 드라이클리닝해 주세요."
+            "meaningKo": "이 정장을 드라이 클리닝해 주세요."
           }
         },
         {
@@ -2277,7 +2277,7 @@
           "meaningKo": "포크",
           "example": {
             "sentence": "フォークでスパゲティを食べます。",
-            "kana": "フォークでスパゲティを食（た）べます。",
+            "kana": "フォークでスパゲティをたべます。",
             "meaning": "I eat spaghetti with a fork.",
             "meaningKo": "포크로 스파게티를 먹습니다."
           }
@@ -2399,7 +2399,7 @@
           "meaningKo": "언니",
           "example": {
             "sentence": "私のお姉さんは大学生です。",
-            "kana": "わたしのお姉（ねえ）さんは大学生（だいがくせい）です。",
+            "kana": "わたしのおねえさんはだいがくせいです。",
             "meaning": "My elder sister is a university student.",
             "meaningKo": "제 언니는 대학생입니다."
           }
@@ -2518,7 +2518,7 @@
           "meaning": "stomach",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "위",
+          "meaningKo": "배",
           "example": {
             "sentence": "お腹が痛いです。",
             "kana": "おなかが いたいです。",
@@ -2536,7 +2536,7 @@
           "meaningKo": "차",
           "example": {
             "sentence": "母はお茶を飲みます。",
-            "kana": "はは（母）はお茶（ちゃ）を飲（の）みます。",
+            "kana": "はははおちゃをのみます。",
             "meaning": "My mother drinks tea.",
             "meaningKo": "어머니는 차를 마십니다."
           }
@@ -2578,7 +2578,7 @@
           "meaning": "bath",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "욕조",
+          "meaningKo": "목욕",
           "example": {
             "sentence": "毎日お風呂に入ります。",
             "kana": "まいにちおふろにはいります。",
@@ -2625,7 +2625,7 @@
           "meaning": "To be duplicated",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "복제되다",
+          "meaningKo": "겹치다",
           "example": {
             "sentence": "授業がダブる。",
             "kana": "じゅぎょうがダブる。",
@@ -2642,10 +2642,10 @@
           "parts": "noun",
           "meaningKo": "하나",
           "example": {
-            "sentence": "りんごを一つください。",
-            "kana": "りんごを一（ひと）つください。",
-            "meaning": "Please give me one apple.",
-            "meaningKo": "사과를 하나 주세요."
+            "sentence": "一日一回飲んでください。",
+            "kana": "いちにちいっかいのんでください。",
+            "meaning": "Take it once a day.",
+            "meaningKo": "하루 한 번 드세요."
           }
         },
         {
@@ -2655,12 +2655,12 @@
           "meaning": "one",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "하나",
+          "meaningKo": "한 개",
           "example": {
             "sentence": "りんごを一つください。",
-            "kana": "りんごを一つ（ひとつ）ください。",
+            "kana": "りんごをひとつください。",
             "meaning": "Please give me one apple.",
-            "meaningKo": "사과를 하나 주세요."
+            "meaningKo": "사과를 한 개 주세요."
           }
         },
         {
@@ -2718,7 +2718,7 @@
           "meaningKo": "그저께",
           "example": {
             "sentence": "一昨日は雨でした。",
-            "kana": "おととい（一昨日）は あめ（雨）でした。",
+            "kana": "おとといは あめでした。",
             "meaning": "It was raining the day before yesterday.",
             "meaningKo": "그저께는 비가 왔습니다."
           }
@@ -2810,7 +2810,7 @@
           "meaningKo": "셋",
           "example": {
             "sentence": "私は三時に学校に行きます。",
-            "kana": "わたしは三（さん）じに学校（がっこう）に行（い）きます。",
+            "kana": "わたしはさんじにがっこうにいきます。",
             "meaning": "I go to school at three o'clock.",
             "meaningKo": "저는 3시에 학교에 갑니다."
           }
@@ -2870,7 +2870,7 @@
           "meaningKo": "아래",
           "example": {
             "sentence": "猫がテーブルの下にいます。",
-            "kana": "ねこがテーブルの下（した）にいます。",
+            "kana": "ねこがテーブルのしたにいます。",
             "meaning": "The cat is under the table.",
             "meaningKo": "고양이가 테이블 아래에 있습니다."
           }
@@ -2902,7 +2902,7 @@
           "meaningKo": "맛없는",
           "example": {
             "sentence": "この料理は不味いです。",
-            "kana": "このりょうりは不味い（まずい）です。",
+            "kana": "このりょうりはまずいです。",
             "meaning": "This food is unappetizing.",
             "meaningKo": "이 요리는 맛없습니다."
           }
@@ -2962,7 +2962,7 @@
           "meaningKo": "둥근",
           "example": {
             "sentence": "この丸いボールは赤いです。",
-            "kana": "この丸（まる）いボールは赤（あか）いです。",
+            "kana": "このまるいボールはあかいです。",
             "meaning": "This round ball is red.",
             "meaningKo": "이 둥근 공은 빨간색입니다."
           }
@@ -3022,7 +3022,7 @@
           "meaningKo": "둘",
           "example": {
             "sentence": "りんごを二つください。",
-            "kana": "りんごを二（ふた）つください。",
+            "kana": "りんごをふたつください。",
             "meaning": "Please give me two apples.",
             "meaningKo": "사과 두 개 주세요."
           }
@@ -3054,7 +3054,7 @@
           "meaningKo": "20일",
           "example": {
             "sentence": "来月の二十日は私の誕生日です。",
-            "kana": "らいげつの二十日（はつか）はわたしのたんじょうびです。",
+            "kana": "らいげつのはつかはわたしのたんじょうびです。",
             "meaning": "The twentieth of next month is my birthday.",
             "meaningKo": "다음 달 20일은 제 생일입니다."
           }
@@ -3114,7 +3114,7 @@
           "meaningKo": "다섯개",
           "example": {
             "sentence": "りんごを五つください。",
-            "kana": "りんごを五（いつ）つください。",
+            "kana": "りんごをいつつください。",
             "meaning": "Please give me five apples.",
             "meaningKo": "사과 다섯 개 주세요."
           }
@@ -3129,7 +3129,7 @@
           "meaningKo": "5일",
           "example": {
             "sentence": "来月の五日に友達と映画を見に行きます。",
-            "kana": "らいげつの五日（いつか）に友達（ともだち）と映画（えいが）を見（み）に行（い）きます。",
+            "kana": "らいげつのいつかにともだちとえいがをみにいきます。",
             "meaning": "I will go to see a movie with my friend on the 5th of next month.",
             "meaningKo": "다음 달 5일에 친구와 영화를 보러 갑니다."
           }
@@ -3278,10 +3278,10 @@
           "meaning": "Work",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "일",
+          "meaningKo": "직업",
           "example": {
             "sentence": "私の仕事は先生です。",
-            "kana": "わたしの仕事（しごと）は先生（せんせい）です。",
+            "kana": "わたしのしごとはせんせいです。",
             "meaning": "My job is a teacher.",
             "meaningKo": "제 직업은 선생님입니다."
           }
@@ -3433,7 +3433,7 @@
           "meaningKo": "무엇",
           "example": {
             "sentence": "これは何ですか。",
-            "kana": "これは何（なに）ですか。",
+            "kana": "これはなにですか。",
             "meaning": "What is this?",
             "meaningKo": "이것은 무엇입니까?"
           }
@@ -3460,7 +3460,7 @@
           "meaning": "writing",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "글쓰기",
+          "meaningKo": "작문",
           "example": {
             "sentence": "今日は作文を書きました。",
             "kana": "きょうは さくぶんを かきました。",
@@ -3493,7 +3493,7 @@
           "meaningKo": "편리",
           "example": {
             "sentence": "このスマートフォンはとても便利です。",
-            "kana": "このスマートフォンはとても便利（べんり）です。",
+            "kana": "このスマートフォンはとてもべんりです。",
             "meaning": "This smartphone is very convenient.",
             "meaningKo": "이 스마트폰은 매우 편리합니다."
           }
@@ -3525,7 +3525,7 @@
           "meaningKo": "근처",
           "example": {
             "sentence": "母の側にいます。",
-            "kana": "ははの側（そば）にいます。",
+            "kana": "ははのそばにいます。",
             "meaning": "I am near my mother.",
             "meaningKo": "어머니 곁에 있습니다."
           }
@@ -3612,7 +3612,7 @@
           "meaning": "Previous",
           "grade": "N5",
           "parts": "adverb",
-          "meaningKo": "이전의",
+          "meaningKo": "먼저",
           "example": {
             "sentence": "先に行ってください。",
             "kana": "さきに いって ください。",
@@ -3645,7 +3645,7 @@
           "meaningKo": "선생님",
           "example": {
             "sentence": "田中先生は英語を教えています。",
-            "kana": "たなか先生（せんせい）は英語（えいご）を教（おし）えています。",
+            "kana": "たなかせんせいはえいごをおしえています。",
             "meaning": "Teacher Tanaka teaches English.",
             "meaningKo": "다나카 선생님은 영어를 가르치고 있습니다."
           }
@@ -3677,7 +3677,7 @@
           "meaningKo": "들어가다",
           "example": {
             "sentence": "部屋に入る前にノックをしてください。",
-            "kana": "へやに入る（はいる）まえにノックをしてください。",
+            "kana": "へやにはいるまえにノックをしてください。",
             "meaning": "Please knock before entering the room.",
             "meaningKo": "방에 들어가기 전에 노크를 해주세요."
           }
@@ -3692,7 +3692,7 @@
           "meaningKo": "넣다",
           "example": {
             "sentence": "カバンに本を入れる。",
-            "kana": "カバンにほんを入（い）れる。",
+            "kana": "カバンにほんをいれる。",
             "meaning": "I put a book in the bag.",
             "meaningKo": "가방에 책을 넣는다."
           }
@@ -3707,7 +3707,7 @@
           "meaningKo": "입구",
           "example": {
             "sentence": "映画館の入口で友達を待っています。",
-            "kana": "えいがかんの入口（いりぐち）で友達（ともだち）を待（ま）っています。",
+            "kana": "えいがかんのいりぐちでともだちをまっています。",
             "meaning": "I am waiting for my friend at the entrance of the movie theater.",
             "meaningKo": "영화관 입구에서 친구를 기다리고 있습니다."
           }
@@ -3722,7 +3722,7 @@
           "meaningKo": "전부",
           "example": {
             "sentence": "宿題を全部しました。",
-            "kana": "しゅくだいを全部（ぜんぶ）しました。",
+            "kana": "しゅくだいをぜんぶしました。",
             "meaning": "I did all my homework.",
             "meaningKo": "숙제를 전부 했습니다."
           }
@@ -3782,7 +3782,7 @@
           "meaningKo": "6일",
           "example": {
             "sentence": "来月の六日に友達と映画を見に行きます。",
-            "kana": "らいげつの六日（むいか）に友達（ともだち）と映画（えいが）を見（み）に行（い）きます。",
+            "kana": "らいげつのむいかにともだちとえいがをみにいきます。",
             "meaning": "I will go to see a movie with my friend on the 6th of next month.",
             "meaningKo": "다음 달 6일에 친구와 영화를 보러 갑니다."
           }
@@ -3934,7 +3934,7 @@
           "meaningKo": "이해하다",
           "example": {
             "sentence": "この問題が分からない。",
-            "kana": "このもんだいが分（わ）からない。",
+            "kana": "このもんだいがわからない。",
             "meaning": "I don't understand this problem.",
             "meaningKo": "이 문제를 모르겠어요."
           }
@@ -3949,7 +3949,7 @@
           "meaningKo": "자르다",
           "example": {
             "sentence": "母がりんごを切ります。",
-            "kana": "はは が りんご を き（切）ります。",
+            "kana": "はは が りんご を きります。",
             "meaning": "My mother cuts an apple.",
             "meaningKo": "어머니가 사과를 자릅니다."
           }
@@ -4011,7 +4011,7 @@
           "meaningKo": "앞",
           "example": {
             "sentence": "学校の前で友達と会いました。",
-            "kana": "がっこうの前（まえ）で友達（ともだち）と会（あ）いました。",
+            "kana": "がっこうのまえでともだちとあいました。",
             "meaning": "I met my friend in front of the school.",
             "meaningKo": "학교 앞에서 친구와 만났습니다."
           }
@@ -4086,7 +4086,7 @@
           "meaningKo": "10일",
           "example": {
             "sentence": "来月の十日に友達と映画を見ます。",
-            "kana": "らいげつの十日（とおか）に友達（ともだち）と映画（えいが）を見（み）ます。",
+            "kana": "らいげつのとおかにともだちとえいがをみます。",
             "meaning": "I will watch a movie with my friend on the 10th of next month.",
             "meaningKo": "다음 달 10일에 친구와 영화를 봅니다."
           }
@@ -4250,10 +4250,10 @@
           "meaning": "To take",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "가져가다",
+          "meaningKo": "가지다, 취하다",
           "example": {
             "sentence": "写真を取る",
-            "kana": "しゃしんを取（と）る",
+            "kana": "しゃしんをとる",
             "meaning": "To take a photo",
             "meaningKo": "사진을 찍다"
           }
@@ -4297,7 +4297,7 @@
           "meaning": "Cute",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "귀엽고 사랑스러운",
+          "meaningKo": "귀여운",
           "example": {
             "sentence": "この猫はとても可愛いです。",
             "kana": "このねこはとてもかわいいです。",
@@ -4345,7 +4345,7 @@
           "meaningKo": "같은",
           "example": {
             "sentence": "私たちは同じ学校に通っています。",
-            "kana": "わたしたちは　おなじ　がっこうに　かよっています。",
+            "kana": "わたしたちは おなじ がっこうに かよっています。",
             "meaning": "We go to the same school.",
             "meaningKo": "우리는 같은 학교에 다니고 있습니다."
           }
@@ -4360,7 +4360,7 @@
           "meaningKo": "이름",
           "example": {
             "sentence": "私の名前は田中です。",
-            "kana": "わたしの名前（なまえ）は田中（たなか）です。",
+            "kana": "わたしのなまえはたなかです。",
             "meaning": "My name is Tanaka.",
             "meaningKo": "제 이름은 다나카입니다."
           }
@@ -4369,10 +4369,10 @@
           "id": "n5-29-8",
           "kanji": "向こう",
           "kana": "むこう [mukou]",
-          "meaning": "Opposite side",
+          "meaning": "over there",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "반대편",
+          "meaningKo": "저쪽",
           "example": {
             "sentence": "向こうに大きな木があります。",
             "kana": "むこうに おおきな きが あります。",
@@ -4452,7 +4452,7 @@
           "meaningKo": "문제",
           "example": {
             "sentence": "この問題は難しいです。",
-            "kana": "この問題（もんだい）は難（むずか）しいです。",
+            "kana": "このもんだいはむずかしいです。",
             "meaning": "This problem is difficult.",
             "meaningKo": "이 문제는 어렵습니다."
           }
@@ -4482,7 +4482,7 @@
           "meaningKo": "넷",
           "example": {
             "sentence": "私には兄が四人います。",
-            "kana": "わたしにはあにが四人（よにん）います。",
+            "kana": "わたしにはあにがよにんいます。",
             "meaning": "I have four older brothers.",
             "meaningKo": "저에게는 형이 네 명 있습니다."
           }
@@ -4539,7 +4539,7 @@
           "meaning": "Country",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "국가",
+          "meaningKo": "나라",
           "example": {
             "sentence": "日本は美しい国です。",
             "kana": "にほんは うつくしい くに です。",
@@ -4813,10 +4813,10 @@
           "meaning": "Important",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "중요한",
+          "meaningKo": "소중한",
           "example": {
             "sentence": "友達は大切です。",
-            "kana": "ともだちは大切（たいせつ）です。",
+            "kana": "ともだちはたいせつです。",
             "meaning": "Friends are important.",
             "meaningKo": "친구는 소중합니다."
           }
@@ -4878,7 +4878,7 @@
           "meaningKo": "날씨",
           "example": {
             "sentence": "今日の天気はとてもいいです。",
-            "kana": "きょうの天気（てんき）はとてもいいです。",
+            "kana": "きょうのてんきはとてもいいです。",
             "meaning": "Today's weather is very nice.",
             "meaningKo": "오늘 날씨는 매우 좋습니다."
           }
@@ -4893,7 +4893,7 @@
           "meaningKo": "예쁜",
           "example": {
             "sentence": "この花は奇麗ですね。",
-            "kana": "このはなは奇麗（きれい）ですね。",
+            "kana": "このはなはきれいですね。",
             "meaning": "This flower is pretty, isn't it?",
             "meaningKo": "이 꽃은 예쁘네요."
           }
@@ -4908,7 +4908,7 @@
           "meaningKo": "아내",
           "example": {
             "sentence": "田中さんの奥さんはとても親切です。",
-            "kana": "たなかさんの奥（おく）さんはとても親切（しんせつ）です。",
+            "kana": "たなかさんのおくさんはとてもしんせつです。",
             "meaning": "Mr. Tanaka's wife is very kind.",
             "meaningKo": "다나카씨의 아내는 매우 친절합니다."
           }
@@ -4968,7 +4968,7 @@
           "meaningKo": "여동생",
           "example": {
             "sentence": "私の妹は高校生です。",
-            "kana": "わたしの妹（いもうと）は高校生（こうこうせい）です。",
+            "kana": "わたしのいもうとはこうこうせいです。",
             "meaning": "My younger sister is a high school student.",
             "meaningKo": "제 여동생은 고등학생입니다."
           }
@@ -5122,7 +5122,7 @@
             "sentence": "この本は安いです。",
             "kana": "このほんはやすいです。",
             "meaning": "This book is cheap.",
-            "meaningKo": "이 책은 싸요."
+            "meaningKo": "이 책은 저렴합니다."
           }
         },
         {
@@ -5135,7 +5135,7 @@
           "meaningKo": "집",
           "example": {
             "sentence": "私の家は駅から近いです。",
-            "kana": "わたしの家（いえ）は駅（えき）から近（ちか）いです。",
+            "kana": "わたしのいえはえきからちかいです。",
             "meaning": "My house is close to the station.",
             "meaningKo": "우리 집은 역에서 가깝습니다."
           }
@@ -5147,12 +5147,12 @@
           "meaning": "Home",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "집",
+          "meaningKo": "가정",
           "example": {
-            "sentence": "私の家庭は四人家族です。",
-            "kana": "わたしの家庭（かてい）は四人（よにん）家族（かぞく）です。",
-            "meaning": "My family consists of four people.",
-            "meaningKo": "우리 가족은 4명입니다."
+            "sentence": "温かい家庭を作りたい。",
+            "kana": "あたたかいかていをつくりたい。",
+            "meaning": "I want to build a warm home.",
+            "meaningKo": "따뜻한 가정을 만들고 싶다."
           }
         },
         {
@@ -5165,7 +5165,7 @@
           "meaningKo": "가족",
           "example": {
             "sentence": "私の家族は四人です。",
-            "kana": "わたしの家族（かぞく）は四人（よにん）です。",
+            "kana": "わたしのかぞくはよにんです。",
             "meaning": "My family has four people.",
             "meaningKo": "우리 가족은 네 명입니다."
           }
@@ -5274,7 +5274,7 @@
             "sentence": "この町は人が少ない。",
             "kana": "このまちはひとがすくない。",
             "meaning": "This town has few people.",
-            "meaningKo": "이 마을은 사람이 적다."
+            "meaningKo": "이 마을은 사람이 거의 없다."
           }
         },
         {
@@ -5302,7 +5302,7 @@
           "meaningKo": "강",
           "example": {
             "sentence": "この川はきれいです。",
-            "kana": "この川（かわ）はきれいです。",
+            "kana": "このかわはきれいです。",
             "meaning": "This river is beautiful.",
             "meaningKo": "이 강은 아름답습니다."
           }
@@ -5363,10 +5363,10 @@
           "parts": "noun",
           "meaningKo": "년, 해",
           "example": {
-            "sentence": "私は二十歳です。",
-            "kana": "わたしは にじゅっさい です。",
-            "meaning": "I am twenty years old.",
-            "meaningKo": "저는 스무 살입니다."
+            "sentence": "今年はいい年になりそうだ。",
+            "kana": "ことしはいいとしになりそうだ。",
+            "meaning": "This year looks promising.",
+            "meaningKo": "올해는 좋은 해가 될 것 같다."
           }
         },
         {
@@ -5424,7 +5424,7 @@
           "meaningKo": "가게",
           "example": {
             "sentence": "この店は安いです。",
-            "kana": "この店（みせ）は安（やす）いです。",
+            "kana": "このみせはやすいです。",
             "meaning": "This store is cheap.",
             "meaningKo": "이 가게는 싸요."
           }
@@ -5439,7 +5439,7 @@
           "meaningKo": "앉다",
           "example": {
             "sentence": "椅子に座る。",
-            "kana": "いすに座（すわ）る。",
+            "kana": "いすにすわる。",
             "meaning": "I sit on a chair.",
             "meaningKo": "의자에 앉다."
           }
@@ -5486,7 +5486,7 @@
           "meaningKo": "건물",
           "example": {
             "sentence": "この建物は新しいです。",
-            "kana": "この建物（たてもの）は新（あたら）しいです。",
+            "kana": "このたてものはあたらしいです。",
             "meaning": "This building is new.",
             "meaningKo": "이 건물은 새것입니다."
           }
@@ -5558,12 +5558,12 @@
           "meaning": "to play",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "놀다",
+          "meaningKo": "연주하다",
           "example": {
             "sentence": "私はピアノを弾くことができます。",
-            "kana": "わたしはピアノを弾（ひ）くことができます。",
+            "kana": "わたしはピアノをひくことができます。",
             "meaning": "I can play the piano.",
-            "meaningKo": "저는 피아노를 칠 수 있습니다."
+            "meaningKo": "저는 피아노를 연주할 수 있습니다."
           }
         },
         {
@@ -5576,7 +5576,7 @@
           "meaningKo": "기다리다",
           "example": {
             "sentence": "友達を待つ。",
-            "kana": "ともだちを待（ま）つ。",
+            "kana": "ともだちをまつ。",
             "meaning": "I wait for my friend.",
             "meaningKo": "친구를 기다린다."
           }
@@ -5588,10 +5588,10 @@
           "meaning": "Behind after",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "뒤에",
+          "meaningKo": "이 후에",
           "example": {
             "sentence": "映画の後で、友達と食事をしました。",
-            "kana": "えいがの後（あと）で、ともだちとしょくじをしました。",
+            "kana": "えいがのあとで、ともだちとしょくじをしました。",
             "meaning": "After the movie, I had a meal with my friends.",
             "meaningKo": "영화 후에 친구들과 식사를 했습니다."
           }
@@ -5606,7 +5606,7 @@
           "meaningKo": "뒤",
           "example": {
             "sentence": "猫が机の後ろにいます。",
-            "kana": "ねこがつくえの後ろ（うしろ）にいます。",
+            "kana": "ねこがつくえのうしろにいます。",
             "meaning": "The cat is behind the desk.",
             "meaningKo": "고양이가 책상 뒤에 있습니다."
           }
@@ -5802,10 +5802,10 @@
           "meaning": "to take",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "가져가다",
+          "meaningKo": "가지다, 취하다",
           "example": {
             "sentence": "友達と写真を撮る。",
-            "kana": "ともだちとしゃしんを撮（と）る。",
+            "kana": "ともだちとしゃしんをとる。",
             "meaning": "I take photos with my friends.",
             "meaningKo": "친구들과 사진을 찍는다."
           }
@@ -5910,7 +5910,7 @@
           "meaningKo": "방향",
           "example": {
             "sentence": "駅はどちらの方ですか。",
-            "kana": "えきはどちらの方（ほう）ですか。",
+            "kana": "えきはどちらのほうですか。",
             "meaning": "Which direction is the station?",
             "meaningKo": "역은 어느 쪽 방향입니까?"
           }
@@ -5939,10 +5939,10 @@
           "meaning": "Day",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "일",
+          "meaningKo": "일, 날",
           "example": {
             "sentence": "今日はいい日ですね。",
-            "kana": "きょうはいい日（ひ）ですね。",
+            "kana": "きょうはいいひですね。",
             "meaning": "Today is a good day, isn't it?",
             "meaningKo": "오늘은 좋은 날이네요."
           }
@@ -5969,7 +5969,7 @@
           "meaning": "early",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "빠른",
+          "meaningKo": "빠른, 이른",
           "example": {
             "sentence": "朝早いですね。",
             "kana": "あさはやいですね。",
@@ -5984,7 +5984,7 @@
           "meaning": "quickly",
           "grade": "N5",
           "parts": "adverb",
-          "meaningKo": "일찍, 빠르게",
+          "meaningKo": "일찍, 빨리",
           "example": {
             "sentence": "早く家に帰りたいです。",
             "kana": "はやく いえに かえりたいです。",
@@ -6108,10 +6108,10 @@
           "parts": "noun",
           "meaningKo": "정오",
           "example": {
-            "sentence": "昼ごはんを食べました。",
-            "kana": "ひるごはんを たべました。",
-            "meaning": "I ate lunch.",
-            "meaningKo": "점심을 먹었습니다."
+            "sentence": "昼に待ち合わせしましょう。",
+            "kana": "ひるにまちあわせしましょう。",
+            "meaning": "Let's meet at noon.",
+            "meaningKo": "정오에 만납시다."
           }
         },
         {
@@ -6121,12 +6121,12 @@
           "meaning": "Lunch",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "점심",
+          "meaningKo": "점심 식사",
           "example": {
             "sentence": "今日の昼ご飯は何ですか。",
             "kana": "きょうのひるごはんはなんですか。",
             "meaning": "What is today's lunch?",
-            "meaningKo": "오늘 점심은 뭐예요?"
+            "meaningKo": "오늘 점심 식사는 무엇입니까?"
           }
         },
         {
@@ -6154,7 +6154,7 @@
           "meaningKo": "시계",
           "example": {
             "sentence": "この時計は高いです。",
-            "kana": "この時計（とけい）は高（たか）いです。",
+            "kana": "このとけいはたかいです。",
             "meaning": "This watch is expensive.",
             "meaningKo": "이 시계는 비쌉니다."
           }
@@ -6184,7 +6184,7 @@
           "meaningKo": "저녁 식사",
           "example": {
             "sentence": "今日の晩ご飯は何ですか。",
-            "kana": "きょうの晩ご飯（ばんごはん）は何（なん）ですか。",
+            "kana": "きょうのばんごはんはなんですか。",
             "meaning": "What is today's dinner?",
             "meaningKo": "오늘 저녁 식사는 무엇입니까?"
           }
@@ -6196,10 +6196,10 @@
           "meaning": "to clear up",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "정리하다",
+          "meaningKo": "맑아지다",
           "example": {
             "sentence": "明日は晴れるでしょう。",
-            "kana": "あしたは晴（は）れるでしょう。",
+            "kana": "あしたははれるでしょう。",
             "meaning": "It will probably clear up tomorrow.",
             "meaningKo": "내일은 맑을 것입니다."
           }
@@ -6214,7 +6214,7 @@
           "meaningKo": "여가 시간",
           "example": {
             "sentence": "今日は暇なので、映画を見ます。",
-            "kana": "きょうは暇（ひま）なので、映画（えいが）を見（み）ます。",
+            "kana": "きょうはひまなので、えいがをみます。",
             "meaning": "I have free time today, so I will watch a movie.",
             "meaningKo": "오늘은 시간이 있어서 영화를 볼 거예요."
           }
@@ -6276,7 +6276,7 @@
           "meaningKo": "흐림",
           "example": {
             "sentence": "今日は曇りですね。",
-            "kana": "きょうは曇（くも）りですね。",
+            "kana": "きょうはくもりですね。",
             "meaning": "It's cloudy today, isn't it?",
             "meaningKo": "오늘은 흐리네요."
           }
@@ -6285,10 +6285,10 @@
           "id": "n5-42-4",
           "kanji": "曲がる",
           "kana": "まがる [magaru]",
-          "meaning": "to bend",
+          "meaning": "to turn",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "구부리다",
+          "meaningKo": "방향을 바꾸다",
           "example": {
             "sentence": "この道を真っすぐ行って、角で右に曲がる。",
             "kana": "このみちをまっすぐいって、かどでみぎにまがる。",
@@ -6351,7 +6351,7 @@
           "meaningKo": "유명한",
           "example": {
             "sentence": "この歌手は日本で有名です。",
-            "kana": "この歌手（かしゅ）は日本（にほん）で有名（ゆうめい）です。",
+            "kana": "このかしゅはにほんでゆうめいです。",
             "meaning": "This singer is famous in Japan.",
             "meaningKo": "이 가수는 일본에서 유명합니다."
           }
@@ -6380,10 +6380,10 @@
           "parts": "noun",
           "meaningKo": "아침",
           "example": {
-            "sentence": "朝ごはんを食べます。",
-            "kana": "あさごはんを たべます。",
-            "meaning": "I eat breakfast.",
-            "meaningKo": "아침밥을 먹습니다."
+            "sentence": "毎朝早く起きます。",
+            "kana": "まいあさはやくおきます。",
+            "meaning": "I wake up early every morning.",
+            "meaningKo": "매일 아침 일찍 일어납니다."
           }
         }
       ],
@@ -6395,12 +6395,12 @@
           "meaning": "breakfast",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "아침",
+          "meaningKo": "아침 식사",
           "example": {
             "sentence": "毎日朝ご飯を食べます。",
             "kana": "まいにちあさごはんをたべます。",
             "meaning": "I eat breakfast every day.",
-            "meaningKo": "매일 아침을 먹습니다."
+            "meaningKo": "매일 아침 식사를 먹습니다."
           }
         },
         {
@@ -6503,7 +6503,7 @@
           "meaningKo": "마을",
           "example": {
             "sentence": "私の村は小さいです。",
-            "kana": "わたしの村（むら）は小（ちい）さいです。",
+            "kana": "わたしのむらはちいさいです。",
             "meaning": "My village is small.",
             "meaningKo": "제 마을은 작습니다."
           }
@@ -6518,7 +6518,7 @@
           "meaningKo": "오다",
           "example": {
             "sentence": "友達が明日来る。",
-            "kana": "ともだちがあした来る（くる）。",
+            "kana": "ともだちがあしたくる。",
             "meaning": "My friend is coming tomorrow.",
             "meaningKo": "친구가 내일 온다."
           }
@@ -6717,7 +6717,7 @@
           "meaningKo": "멈추다",
           "example": {
             "sentence": "バスが止まります。",
-            "kana": "バスが止（と）まります。",
+            "kana": "バスがとまります。",
             "meaning": "The bus stops.",
             "meaningKo": "버스가 멈춥니다."
           }
@@ -6759,7 +6759,7 @@
           "meaning": "years old",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "세",
+          "meaningKo": "살, 세",
           "example": {
             "sentence": "私は二十歳です。",
             "kana": "わたしは にじゅうさい です。",
@@ -6807,7 +6807,7 @@
           "meaningKo": "어머니",
           "example": {
             "sentence": "私の母は優しいです。",
-            "kana": "わたしの母（はは）は優（やさ）しいです。",
+            "kana": "わたしのはははやさしいです。",
             "meaning": "My mother is kind.",
             "meaningKo": "우리 어머니는 친절하십니다."
           }
@@ -7245,7 +7245,7 @@
           "meaning": "hot",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "더운",
+          "meaningKo": "뜨거운",
           "example": {
             "sentence": "このコーヒーは熱いです。",
             "kana": "このコーヒーは あつい です。",
@@ -7263,7 +7263,7 @@
           "meaningKo": "아버지",
           "example": {
             "sentence": "私の父は会社員です。",
-            "kana": "わたしの父（ちち）は会社員（かいしゃいん）です。",
+            "kana": "わたしのちちはかいしゃいんです。",
             "meaning": "My father is a company employee.",
             "meaningKo": "제 아버지는 회사원입니다."
           }
@@ -7278,7 +7278,7 @@
           "meaningKo": "우유",
           "example": {
             "sentence": "朝ご飯に牛乳を飲みます。",
-            "kana": "あさごはんに牛乳（ぎゅうにゅう）を飲（の）みます。",
+            "kana": "あさごはんにぎゅうにゅうをのみます。",
             "meaning": "I drink milk for breakfast.",
             "meaningKo": "아침밥에 우유를 마십니다."
           }
@@ -7310,7 +7310,7 @@
           "meaningKo": "개",
           "example": {
             "sentence": "私の犬は小さいです。",
-            "kana": "わたしの犬（いぬ）は小（ちい）さいです。",
+            "kana": "わたしのいぬはちいさいです。",
             "meaning": "My dog is small.",
             "meaningKo": "제 개는 작습니다."
           }
@@ -7370,7 +7370,7 @@
           "meaningKo": "달콤한",
           "example": {
             "sentence": "このケーキはとても甘いです。",
-            "kana": "このケーキはとても甘（あま）いです。",
+            "kana": "このケーキはとてもあまいです。",
             "meaning": "This cake is very sweet.",
             "meaningKo": "이 케이크는 매우 달콤합니다."
           }
@@ -7445,7 +7445,7 @@
           "meaningKo": "마을",
           "example": {
             "sentence": "この町は小さいです。",
-            "kana": "この町（まち）は小（ちい）さいです。",
+            "kana": "このまちはちいさいです。",
             "meaning": "This town is small.",
             "meaningKo": "이 마을은 작습니다."
           }
@@ -7534,7 +7534,7 @@
           "meaning": "Painful",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "고통스러운",
+          "meaningKo": "아픈",
           "example": {
             "sentence": "頭が痛いです。",
             "kana": "あたまが いたいです。",
@@ -7644,7 +7644,7 @@
           "meaningKo": "도착하다",
           "example": {
             "sentence": "駅に着きました。",
-            "kana": "えきに着（つ）きました。",
+            "kana": "えきにつきました。",
             "meaning": "I arrived at the station.",
             "meaningKo": "역에 도착했습니다."
           }
@@ -8070,7 +8070,7 @@
           "meaningKo": "듣다",
           "example": {
             "sentence": "音楽を聞くのが好きです。",
-            "kana": "おんがくを聞（き）くのが好（す）きです。",
+            "kana": "おんがくをきくのがすきです。",
             "meaning": "I like listening to music.",
             "meaningKo": "음악을 듣는 것을 좋아합니다."
           }
@@ -8100,7 +8100,7 @@
           "meaningKo": "키, 높이",
           "example": {
             "sentence": "私は背が高いです。",
-            "kana": "わたしは背（せ）が高（たか）いです。",
+            "kana": "わたしはせがたかいです。",
             "meaning": "I am tall.",
             "meaningKo": "저는 키가 큽니다."
           }
@@ -8160,7 +8160,7 @@
           "meaningKo": "자동차",
           "example": {
             "sentence": "父の自動車は赤いです。",
-            "kana": "ちちの自動車（じどうしゃ）は赤（あか）いです。",
+            "kana": "ちちのじどうしゃはあかいです。",
             "meaning": "My father's car is red.",
             "meaningKo": "아버지의 자동차는 빨갛습니다."
           }
@@ -8276,10 +8276,10 @@
           "id": "n5-55-5",
           "kanji": "茶色",
           "kana": "ちゃいろ [chairo]",
-          "meaning": "light brown",
+          "meaning": "brown",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "연한 갈색",
+          "meaningKo": "갈색",
           "example": {
             "sentence": "私の犬は茶色です。",
             "kana": "わたしの いぬは ちゃいろです。",
@@ -8374,7 +8374,7 @@
           "meaningKo": "서쪽",
           "example": {
             "sentence": "太陽は西に沈みます。",
-            "kana": "たいようは西（にし）にしずみます。",
+            "kana": "たいようはにしにしずみます。",
             "meaning": "The sun sets in the west.",
             "meaningKo": "태양은 서쪽으로 집니다."
           }
@@ -8389,7 +8389,7 @@
           "meaningKo": "필요하다",
           "example": {
             "sentence": "お金が要る。",
-            "kana": "おかねが要（い）る。",
+            "kana": "おかねがいる。",
             "meaning": "I need money.",
             "meaningKo": "돈이 필요하다."
           }
@@ -8419,7 +8419,7 @@
           "meaningKo": "보다",
           "example": {
             "sentence": "毎日テレビを見る。",
-            "kana": "まいにちテレビを見（み）る。",
+            "kana": "まいにちテレビをみる。",
             "meaning": "I watch TV every day.",
             "meaningKo": "매일 텔레비전을 본다."
           }
@@ -8473,10 +8473,10 @@
           "id": "n5-56-8",
           "kanji": "言葉",
           "kana": "ことば [kotoba]",
-          "meaning": "Language",
+          "meaning": "word",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "언어",
+          "meaningKo": "단어",
           "example": {
             "sentence": "この言葉の意味が分かりません。",
             "kana": "このことばのいみがわかりません。",
@@ -8494,7 +8494,7 @@
           "meaningKo": "지루한",
           "example": {
             "sentence": "この本は詰まらないです。",
-            "kana": "この本（ほん）は詰（つ）まらないです。",
+            "kana": "このほんは詰（つ）まらないです。",
             "meaning": "This book is boring.",
             "meaningKo": "이 책은 지루합니다."
           }
@@ -8556,7 +8556,7 @@
           "meaningKo": "읽다",
           "example": {
             "sentence": "毎日新聞を読む。",
-            "kana": "まいにちしんぶんを読む（よむ）。",
+            "kana": "まいにちしんぶんをよむ。",
             "meaning": "I read the newspaper every day.",
             "meaningKo": "매일 신문을 읽는다."
           }
@@ -8616,7 +8616,7 @@
           "meaningKo": "돼지고기",
           "example": {
             "sentence": "今日は豚肉を買いました。",
-            "kana": "きょうは豚肉（ぶたにく）を買（か）いました。",
+            "kana": "きょうはぶたにくをかいました。",
             "meaning": "I bought pork today.",
             "meaningKo": "오늘은 돼지고기를 샀습니다."
           }
@@ -8643,7 +8643,7 @@
           "meaning": "To buy",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "구매하다",
+          "meaningKo": "사다",
           "example": {
             "sentence": "母は毎日野菜を買う。",
             "kana": "はは は まいにち やさい を かう。",
@@ -8661,7 +8661,7 @@
           "meaningKo": "쇼핑",
           "example": {
             "sentence": "母と買物に行きました。",
-            "kana": "ははと買物（かいもの）に行（い）きました。",
+            "kana": "ははとかいものにいきました。",
             "meaning": "I went shopping with my mother.",
             "meaningKo": "엄마와 쇼핑하러 갔습니다."
           }
@@ -8798,9 +8798,9 @@
           "meaningKo": "자동차",
           "example": {
             "sentence": "私の車は赤いです。",
-            "kana": "わたしの車（くるま）は赤（あか）いです。",
+            "kana": "わたしのくるまはあかいです。",
             "meaning": "My car is red.",
-            "meaningKo": "내 차는 빨간색입니다."
+            "meaningKo": "내 자동차는 빨간색입니다."
           }
         },
         {
@@ -8813,7 +8813,7 @@
           "meaningKo": "가벼운",
           "example": {
             "sentence": "この鞄は軽いです。",
-            "kana": "このかばんは軽（かる）いです。",
+            "kana": "このかばんはかるいです。",
             "meaning": "This bag is light.",
             "meaningKo": "이 가방은 가볍습니다."
           }
@@ -8824,15 +8824,15 @@
           "id": "n5-59-1",
           "kanji": "辛い",
           "kana": "からい [karai]",
-          "meaning": "Painful",
+          "meaning": "spicy",
           "grade": "N5",
           "parts": "adjective",
-          "meaningKo": "고통스러운",
+          "meaningKo": "매운",
           "example": {
-            "sentence": "足が辛いです。",
-            "kana": "あしが辛（つら）いです。",
-            "meaning": "My feet hurt.",
-            "meaningKo": "발이 아픕니다."
+            "sentence": "辛い食べ物が好きです。",
+            "kana": "からいたべものがすきです。",
+            "meaning": "I like spicy food.",
+            "meaningKo": "매운 음식을 좋아합니다."
           }
         },
         {
@@ -8857,10 +8857,10 @@
           "meaning": "edge",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "변, 가장자리",
+          "meaningKo": "근처",
           "example": {
             "sentence": "公園の辺で友達と遊びました。",
-            "kana": "こうえんの辺（へん）で友達（ともだち）と遊（あそ）びました。",
+            "kana": "こうえんのへんでともだちとあそびました。",
             "meaning": "I played with friends near the park.",
             "meaningKo": "공원 근처에서 친구들과 놀았습니다."
           }
@@ -8890,7 +8890,7 @@
           "meaningKo": "근처, 가까운 곳",
           "example": {
             "sentence": "学校の近くにコンビニがあります。",
-            "kana": "がっこうの近（ちか）くにコンビニがあります。",
+            "kana": "がっこうのちかくにコンビニがあります。",
             "meaning": "There is a convenience store near the school.",
             "meaningKo": "학교 근처에 편의점이 있습니다."
           }
@@ -8902,7 +8902,7 @@
           "meaning": "to return",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "돌아오다",
+          "meaningKo": "반납하다",
           "example": {
             "sentence": "図書館の本を返すのを忘れました。",
             "kana": "としょかんのほんをかえすのをわすれました。",
@@ -9012,7 +9012,7 @@
           "meaningKo": "방",
           "example": {
             "sentence": "私の部屋は小さいです。",
-            "kana": "わたしの部屋（へや）は小（ちい）さいです。",
+            "kana": "わたしのへやはちいさいです。",
             "meaning": "My room is small.",
             "meaningKo": "내 방은 작습니다."
           }
@@ -9117,7 +9117,7 @@
           "meaningKo": "연필",
           "example": {
             "sentence": "私の鉛筆はどこにありますか。",
-            "kana": "わたしの鉛筆（えんぴつ）はどこにありますか。",
+            "kana": "わたしのえんぴつはどこにありますか。",
             "meaning": "Where is my pencil?",
             "meaningKo": "제 연필이 어디에 있나요?"
           }
@@ -9153,7 +9153,7 @@
             "sentence": "十時くらいに来てください。",
             "kana": "じゅうじくらいにきてください。",
             "meaning": "Please come at around 10 o'clock.",
-            "meaningKo": "10시쯤에 와 주세요."
+            "meaningKo": "10시 쯤에 와 주세요."
           }
         },
         {
@@ -9163,7 +9163,7 @@
           "meaning": "after this",
           "grade": "N4",
           "parts": "expression",
-          "meaningKo": "이 후에",
+          "meaningKo": "이제부터",
           "example": {
             "sentence": "これから勉強します。",
             "kana": "これからべんきょうします。",
@@ -9181,7 +9181,7 @@
           "meaningKo": "얼마 전",
           "example": {
             "sentence": "さっき田中さんに会った。",
-            "kana": "さっき田中（たなか）さんに会（あ）った。",
+            "kana": "さっきたなかさんにあった。",
             "meaning": "I met Tanaka-san a little while ago.",
             "meaningKo": "얼마 전에 다나카 씨를 만났다."
           }
@@ -9253,7 +9253,7 @@
           "meaning": "to that degree",
           "grade": "N4",
           "parts": "adverb",
-          "meaningKo": "그 정도",
+          "meaningKo": "그렇게, 그다지",
           "example": {
             "sentence": "それほど難しくない。",
             "kana": "それほどむずかしくない。",
@@ -9390,7 +9390,7 @@
           "meaning": "something like",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "같은 것",
+          "meaningKo": "뭔가",
           "example": {
             "sentence": "なんか忙しいね。",
             "kana": "なんかいそがしいね。",
@@ -9482,7 +9482,7 @@
           "meaning": "first of all",
           "grade": "N4",
           "parts": "adverb",
-          "meaningKo": "가장 먼저",
+          "meaningKo": "먼저",
           "example": {
             "sentence": "まず手を洗います。",
             "kana": "まずてをあらいます。",
@@ -9542,7 +9542,7 @@
           "meaning": "Of course",
           "grade": "N4",
           "parts": "adverb",
-          "meaningKo": "물론이지",
+          "meaningKo": "물론",
           "example": {
             "sentence": "もちろん行きます。",
             "kana": "もちろんいきます。",
@@ -9589,7 +9589,7 @@
           "meaning": "Approach (to a problem)",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "(문제)",
+          "meaningKo": "접근법",
           "example": {
             "sentence": "新しいアプローチを試す。",
             "kana": "あたらしいアプローチをためす。",
@@ -9679,7 +9679,7 @@
           "meaning": "nuance",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "미묘한 차이",
+          "meaningKo": "뉘양스",
           "example": {
             "sentence": "このニュアンスが難しい。",
             "kana": "このニュアンスがむずかしい。",
@@ -9691,10 +9691,10 @@
           "id": "n4-4-8",
           "kanji": "ハンガー",
           "kana": "はんがー [hangaa]",
-          "meaning": "(coat) hanger",
+          "meaning": "hanger",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "(코트) 행거",
+          "meaningKo": "행거",
           "example": {
             "sentence": "ハンガーが足りない。",
             "kana": "ハンガーがたりない。",
@@ -9756,7 +9756,7 @@
           "meaning": "Pachinko",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "파칭코(pachinko)",
+          "meaningKo": "파칭코",
           "example": {
             "sentence": "パチンコで遊びました。",
             "kana": "パチンコであそびました。",
@@ -9831,7 +9831,7 @@
           "meaning": "Last (on the list)",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "마지막(목록에서)",
+          "meaningKo": "마지막 (목록에서)",
           "example": {
             "sentence": "テストでビリだった。",
             "kana": "テストでビリだった。",
@@ -9861,7 +9861,7 @@
           "meaning": "fight",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "싸움",
+          "meaningKo": "파이팅",
           "example": {
             "sentence": "ファイト！がんばって！",
             "kana": "ファイト！がんばって！",
@@ -9873,10 +9873,10 @@
           "id": "n4-5-10",
           "kanji": "ファイル",
           "kana": "ふぁいる [fairu]",
-          "meaning": "file (for holding papers)",
+          "meaning": "file",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "파일(서류 보관용)",
+          "meaningKo": "파일",
           "example": {
             "sentence": "ファイルを机に置く。",
             "kana": "ファイルをつくえに おく。",
@@ -9923,7 +9923,7 @@
           "meaning": "form",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "형태",
+          "meaningKo": "양식",
           "example": {
             "sentence": "フォームを書いてください。",
             "kana": "フォームをかいてください。",
@@ -10013,7 +10013,7 @@
           "meaning": "best",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "최상의",
+          "meaningKo": "최고",
           "example": {
             "sentence": "これがベストです。",
             "kana": "これがベストです。",
@@ -10031,7 +10031,7 @@
           "meaningKo": "베스트셀러",
           "example": {
             "sentence": "この本はベストセラーです。",
-            "kana": "この本（ほん）はベストセラーです。",
+            "kana": "このほんはベストセラーです。",
             "meaning": "This book is a bestseller.",
             "meaningKo": "이 책은 베스트셀러입니다."
           }
@@ -10177,10 +10177,10 @@
           "id": "n4-7-10",
           "kanji": "ポット",
           "kana": "ぽっと [potto]",
-          "meaning": "Pot (esp. teapot)",
+          "meaning": "Pot",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "냄비(특히 찻주전자)",
+          "meaningKo": "주전자",
           "example": {
             "sentence": "ポットでお茶を入れます。",
             "kana": "ポットでおちゃをいれます。",
@@ -10242,7 +10242,7 @@
           "meaning": "Mark",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "표",
+          "meaningKo": "표시",
           "example": {
             "sentence": "このマークは何ですか。",
             "kana": "このマークはなんですか。",
@@ -10376,10 +10376,10 @@
           "id": "n4-9-3",
           "kanji": "ライス",
           "kana": "らいす [raisu]",
-          "meaning": "rice (esp. when served on a plate)",
+          "meaning": "rice",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "쌀(특히 접시에 담을 때)",
+          "meaningKo": "밥",
           "example": {
             "sentence": "ライスを注文した。",
             "kana": "ライスを ちゅうもんした。",
@@ -10394,7 +10394,7 @@
           "meaning": "label",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "상표",
+          "meaningKo": "라벨",
           "example": {
             "sentence": "ラベルを貼ってください。",
             "kana": "ラベルをはってください。",
@@ -10424,7 +10424,7 @@
           "meaning": "loose",
           "grade": "N4",
           "parts": "adjective",
-          "meaningKo": "느슨한",
+          "meaningKo": "헐렁한",
           "example": {
             "sentence": "このズボンはルーズだ。",
             "kana": "このズボンはルーズだ。",
@@ -10469,7 +10469,7 @@
           "meaning": "lesson",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "수업",
+          "meaningKo": "레슨",
           "example": {
             "sentence": "今日はピアノのレッスンです。",
             "kana": "きょうはピアノのレッスンです。",
@@ -10484,7 +10484,7 @@
           "meaning": "lady",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "숙녀",
+          "meaningKo": "레이디",
           "example": {
             "sentence": "レディーファーストです。",
             "kana": "レディーファーストです。",
@@ -10516,7 +10516,7 @@
           "meaning": "Microwave oven",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "레인지 (전자레인지 등)",
+          "meaningKo": "전자레인지",
           "example": {
             "sentence": "レンジで温めます。",
             "kana": "レンジであたためます。",
@@ -10576,7 +10576,7 @@
           "meaning": "romantic",
           "grade": "N4",
           "parts": "adjective",
-          "meaningKo": "낭만적인",
+          "meaningKo": "로멘틱한",
           "example": {
             "sentence": "ロマンチックな映画を見た。",
             "kana": "ロマンチックなえいがをみた。",
@@ -10683,7 +10683,7 @@
           "meaning": "Thanks",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "감사합니다",
+          "meaningKo": "감사",
           "example": {
             "sentence": "お礼を言いました。",
             "kana": "おれいをいいました。",
@@ -10740,10 +10740,10 @@
           "id": "n4-11-7",
           "kanji": "お見舞い",
           "kana": "おみまい [omimai]",
-          "meaning": "calling on someone who is ill",
+          "meaning": "visiting someone in the hospital",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "아픈 사람을 부르는 것",
+          "meaningKo": "병문안",
           "example": {
             "sentence": "友達のお見舞いに行く。",
             "kana": "ともだちのおみまいにいく。",
@@ -10758,7 +10758,7 @@
           "meaning": "change",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "변화",
+          "meaningKo": "거스름돈",
           "example": {
             "sentence": "お釣りをください。",
             "kana": "おつりをください。",
@@ -10773,12 +10773,12 @@
           "meaning": "The other day",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "저번에 최근에",
+          "meaningKo": "지난번",
           "example": {
             "sentence": "この間、友達に会いました。",
             "kana": "このあいだ、ともだちにあいました。",
             "meaning": "I met my friend the other day.",
-            "meaningKo": "저번에 친구를 만났습니다."
+            "meaningKo": "지난번에 친구를 만났습니다."
           }
         },
         {
@@ -10820,7 +10820,7 @@
           "meaning": "knowing",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "앎",
+          "meaningKo": "알고 계심",
           "example": {
             "sentence": "田中さんをご存じですか。",
             "kana": "たなかさんをごぞんじですか。",
@@ -10865,12 +10865,12 @@
           "meaning": "month after next",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "다음 달 이후",
+          "meaningKo": "다다음 달",
           "example": {
             "sentence": "さ来月結婚します。",
             "kana": "さらいげつけっこんします。",
             "meaning": "I will get married the month after next.",
-            "meaningKo": "다음 다음 달에 결혼합니다."
+            "meaningKo": "다다음 달에 결혼합니다."
           }
         },
         {
@@ -10880,7 +10880,7 @@
           "meaning": "week after next",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "다음 주 이후",
+          "meaningKo": "다다음 주",
           "example": {
             "sentence": "さ来週テストがあります。",
             "kana": "さらいしゅうテストがあります。",
@@ -10895,7 +10895,7 @@
           "meaning": "To be exhausted",
           "grade": "N4",
           "parts": "verb",
-          "meaningKo": "지치게 하다",
+          "meaningKo": "지치다",
           "example": {
             "sentence": "もうバテた。",
             "kana": "もうバテた。",
@@ -10928,7 +10928,7 @@
           "meaningKo": "꽉 찬",
           "example": {
             "sentence": "コップが水で一杯です。",
-            "kana": "コップがみずで一杯（いっぱい）です。",
+            "kana": "コップがみずでいっぱいです。",
             "meaning": "The cup is full of water.",
             "meaningKo": "컵이 물로 꽉 차 있습니다."
           }
@@ -10972,12 +10972,12 @@
           "meaning": "District of a town",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "도시 구역",
+          "meaningKo": "도시구역, ~가",
           "example": {
             "sentence": "二丁目に住んでいます。",
             "kana": "にちょうめに すんでいます。",
             "meaning": "I live in the 2nd district.",
-            "meaningKo": "2정목에 살고 있습니다."
+            "meaningKo": "2가에 살고 있습니다."
           }
         },
         {
@@ -10987,7 +10987,7 @@
           "meaning": "Rise",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "상승하다",
+          "meaningKo": "오름, 상승",
           "example": {
             "sentence": "売上がりが増えた。",
             "kana": "うりあがりがふえた。",
@@ -11047,7 +11047,7 @@
           "meaning": "Boarding",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "탑승",
+          "meaningKo": "하숙",
           "example": {
             "sentence": "下宿先を探しています。",
             "kana": "げしゅくさきを さがしています。",
@@ -11124,7 +11124,7 @@
           "meaning": "Both",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "양쪽",
+          "meaningKo": "둘 다",
           "example": {
             "sentence": "両方とも好きです。",
             "kana": "りょうほうとも すきです。",
@@ -11142,7 +11142,7 @@
           "meaningKo": "꽤",
           "example": {
             "sentence": "この本は中々面白い。",
-            "kana": "この本（ほん）は中々（なかなか）面白（おもしろ）い。",
+            "kana": "このほんはなかなかおもしろい。",
             "meaning": "This book is quite interesting.",
             "meaningKo": "이 책은 꽤 재미있다."
           }
@@ -11172,7 +11172,7 @@
           "meaningKo": "오랜만에",
           "example": {
             "sentence": "久しぶりに友達に会った。",
-            "kana": "ひさしぶりに友達（ともだち）に会（あ）った。",
+            "kana": "ひさしぶりにともだちにあった。",
             "meaning": "I met my friend after a long time.",
             "meaningKo": "오랜만에 친구를 만났다."
           }
@@ -11202,7 +11202,7 @@
           "meaningKo": "차량",
           "example": {
             "sentence": "この乗り物は速いです。",
-            "kana": "この乗（の）り物（もの）は速（はや）いです。",
+            "kana": "こののりものははやいです。",
             "meaning": "This vehicle is fast.",
             "meaningKo": "이 차량은 빠릅니다."
           }
@@ -11443,10 +11443,10 @@
           "meaning": "To be attached",
           "grade": "N4",
           "parts": "verb",
-          "meaningKo": "부착하다",
+          "meaningKo": "달라붙다",
           "example": {
             "sentence": "シールが手に付く。",
-            "kana": "シールがてに付（つ）く。",
+            "kana": "シールがてにつく。",
             "meaning": "The sticker sticks to my hand.",
             "meaningKo": "스티커가 손에 달라붙는다."
           }
@@ -11458,7 +11458,7 @@
           "meaning": "Substitute",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "대체하다",
+          "meaningKo": "대신, 대체",
           "example": {
             "sentence": "母の代わりに料理した。",
             "kana": "ははのかわりにりょうりした。",
@@ -11488,7 +11488,7 @@
           "meaning": "Not exceeding",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "초과하지 않음",
+          "meaningKo": "이하",
           "example": {
             "sentence": "十歳以下は無料です。",
             "kana": "じゅっさいいかはむりょうです。",
@@ -11521,7 +11521,7 @@
           "meaningKo": "말하다",
           "example": {
             "sentence": "先生が仰ることは正しいです。",
-            "kana": "せんせいが仰（おっしゃ）ることはただしいです。",
+            "kana": "せんせいがおっしゃることはただしいです。",
             "meaning": "What the teacher says is correct.",
             "meaningKo": "선생님께서 말씀하시는 것은 옳습니다."
           }
@@ -11538,7 +11538,7 @@
             "sentence": "会場は広いです。",
             "kana": "かいじょうはひろいです。",
             "meaning": "The venue is spacious.",
-            "meaningKo": "회장은 넓습니다."
+            "meaningKo": "집회장은 넓습니다."
           }
         },
         {
@@ -11658,7 +11658,7 @@
           "meaningKo": "넘어지다",
           "example": {
             "sentence": "木が倒れる。",
-            "kana": "きが倒（たお）れる。",
+            "kana": "きがたおれる。",
             "meaning": "A tree falls down.",
             "meaningKo": "나무가 넘어진다."
           }
@@ -11673,7 +11673,7 @@
           "meaningKo": "가격",
           "example": {
             "sentence": "この本の値段は高いです。",
-            "kana": "この本（ほん）の値段（ねだん）は高（たか）いです。",
+            "kana": "このほんのねだんはたかいです。",
             "meaning": "The price of this book is expensive.",
             "meaningKo": "이 책의 가격은 비쌉니다."
           }
@@ -11720,7 +11720,7 @@
           "meaningKo": "친절한",
           "example": {
             "sentence": "田中さんは優しい人です。",
-            "kana": "たなかさんは優（やさ）しい人（ひと）です。",
+            "kana": "たなかさんは優（やさ）しいひとです。",
             "meaning": "Mr. Tanaka is a kind person.",
             "meaningKo": "다나카 씨는 친절한 사람입니다."
           }
@@ -11825,7 +11825,7 @@
           "meaningKo": "상태",
           "example": {
             "sentence": "体の具合はどうですか。",
-            "kana": "からだの具合（ぐあい）はどうですか。",
+            "kana": "からだのぐあいはどうですか。",
             "meaning": "How is your physical condition?",
             "meaningKo": "몸의 상태는 어떠세요?"
           }
@@ -11837,7 +11837,7 @@
           "meaning": "To transcribe",
           "grade": "N4",
           "parts": "verb",
-          "meaningKo": "복사하다",
+          "meaningKo": "베끼다",
           "example": {
             "sentence": "ノートに写す。",
             "kana": "ノートにうつす。",
@@ -11899,7 +11899,7 @@
           "meaning": "Distinction",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "다름",
+          "meaningKo": "별도, 구분",
           "example": {
             "sentence": "男女別のトイレです。",
             "kana": "だんじょべつのトイレです。",
@@ -11929,7 +11929,7 @@
           "meaning": "Use",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "사용",
+          "meaningKo": "이용",
           "example": {
             "sentence": "図書館を利用する。",
             "kana": "としょかんを利用（りよう）する。",
@@ -11944,7 +11944,7 @@
           "meaning": "To break",
           "grade": "N4",
           "parts": "verb",
-          "meaningKo": "부서지다",
+          "meaningKo": "깨지다",
           "example": {
             "sentence": "コップが割れた。",
             "kana": "コップがわれた。",
@@ -11962,7 +11962,7 @@
           "meaningKo": "비율",
           "example": {
             "sentence": "合格の割合は高い。",
-            "kana": "ごうかくの割合（わりあい）は高（たか）い。",
+            "kana": "ごうかくのわりあいはたかい。",
             "meaning": "The passing rate is high.",
             "meaningKo": "합격 비율이 높다."
           }
@@ -11992,7 +11992,7 @@
           "meaningKo": "움직이다",
           "example": {
             "sentence": "車が動く。",
-            "kana": "くるまが動く（うごく）。",
+            "kana": "くるまがうごく。",
             "meaning": "The car moves.",
             "meaningKo": "차가 움직인다."
           }
@@ -12096,7 +12096,7 @@
           "meaning": "graduation",
           "grade": "N4",
           "parts": "noun",
-          "meaningKo": "눈금",
+          "meaningKo": "졸업",
           "example": {
             "sentence": "来年卒業します。",
             "kana": "らいねんそつぎょうします。",
@@ -12129,7 +12129,7 @@
           "meaningKo": "원인",
           "example": {
             "sentence": "事故の原因は何ですか。",
-            "kana": "じこの原因（げんいん）は何（なん）ですか。",
+            "kana": "じこのげんいんはなんですか。",
             "meaning": "What is the cause of the accident?",
             "meaningKo": "사고의 원인은 무엇입니까?"
           }
@@ -12328,7 +12328,7 @@
           "meaningKo": "주변",
           "example": {
             "sentence": "周りを見てください。",
-            "kana": "まわりを見（み）てください。",
+            "kana": "まわりをみてください。",
             "meaning": "Please look around.",
             "meaningKo": "주변을 봐주세요."
           }
@@ -12707,7 +12707,7 @@
           "meaningKo": "큰 수",
           "example": {
             "sentence": "多数の人が来ました。",
-            "kana": "たすうの人（ひと）が来（き）ました。",
+            "kana": "たすうのひとがきました。",
             "meaning": "A large number of people came.",
             "meaningKo": "많은 사람들이 왔습니다."
           }
@@ -12799,7 +12799,7 @@
           "meaningKo": "대부분",
           "example": {
             "sentence": "大抵の人は映画が好きです。",
-            "kana": "たいていの人（ひと）は映画（えいが）が好（す）きです。",
+            "kana": "たいていのひとは映画（えいが）が好（す）きです。",
             "meaning": "Most people like movies.",
             "meaningKo": "대부분의 사람들은 영화를 좋아합니다."
           }
@@ -13148,7 +13148,7 @@
           "meaningKo": "소설",
           "example": {
             "sentence": "面白い小説を読んだ。",
-            "kana": "おもしろい小説（しょうせつ）を読（よ）んだ。",
+            "kana": "おもしろい小説（しょうせつ）をよんだ。",
             "meaning": "I read an interesting novel.",
             "meaningKo": "재미있는 소설을 읽었다."
           }
@@ -13330,7 +13330,7 @@
           "meaningKo": "돌아오다",
           "example": {
             "sentence": "学校の帰りに買い物をした。",
-            "kana": "がっこうの帰（かえ）りに買（か）い物（もの）をした。",
+            "kana": "がっこうの帰（かえ）りにかい物（もの）をした。",
             "meaning": "I went shopping on the way back from school.",
             "meaningKo": "학교 돌아오는 길에 쇼핑을 했다."
           }
@@ -14319,7 +14319,7 @@
           "meaningKo": "별",
           "example": {
             "sentence": "空に星が見える。",
-            "kana": "そらに星（ほし）が見（み）える。",
+            "kana": "そらに星（ほし）がみえる。",
             "meaning": "I can see stars in the sky.",
             "meaningKo": "하늘에 별이 보인다."
           }
@@ -14820,7 +14820,7 @@
           "meaningKo": "머리카락",
           "example": {
             "sentence": "猫の毛が長い。",
-            "kana": "ねこの毛（け）が長（なが）い。",
+            "kana": "ねこの毛（け）がながい。",
             "meaning": "The cat's fur is long.",
             "meaningKo": "고양이의 털이 길다."
           }
@@ -15261,7 +15261,7 @@
           "meaningKo": "만화",
           "example": {
             "sentence": "漫画を読むのが好きです。",
-            "kana": "まんがを読（よ）むのが好（す）きです。",
+            "kana": "まんがをよむのが好（す）きです。",
             "meaning": "I like reading manga.",
             "meaningKo": "만화 읽는 것을 좋아합니다."
           }
@@ -15976,7 +15976,7 @@
           "meaningKo": "확실한",
           "example": {
             "sentence": "確かに見ました。",
-            "kana": "たしかに見（み）ました。",
+            "kana": "たしかにみました。",
             "meaning": "I certainly saw it.",
             "meaningKo": "확실히 봤습니다."
           }
@@ -16415,7 +16415,7 @@
           "meaningKo": "아름다운",
           "example": {
             "sentence": "桜がとても美しいです。",
-            "kana": "さくらがとても美（うつく）しいです。",
+            "kana": "さくらがとてもうつくしいです。",
             "meaning": "The cherry blossoms are very beautiful.",
             "meaningKo": "벚꽃이 매우 아름답습니다."
           }
@@ -16492,7 +16492,7 @@
           "meaningKo": "들리다",
           "example": {
             "sentence": "音楽が聞こえる。",
-            "kana": "おんがくが聞（き）こえる。",
+            "kana": "おんがくがきこえる。",
             "meaning": "I can hear music.",
             "meaningKo": "음악이 들린다."
           }
@@ -16599,7 +16599,7 @@
           "meaningKo": "벚꽃놀이",
           "example": {
             "sentence": "今日は花見に行きます。",
-            "kana": "きょうは花見（はなみ）に行（い）きます。",
+            "kana": "きょうは花見（はなみ）にいきます。",
             "meaning": "Today I'm going cherry blossom viewing.",
             "meaningKo": "오늘은 벚꽃놀이를 하러 갑니다."
           }
@@ -16751,7 +16751,7 @@
           "meaningKo": "표 (도표)",
           "example": {
             "sentence": "表を見てください。",
-            "kana": "ひょうを見（み）てください。",
+            "kana": "ひょうをみてください。",
             "meaning": "Please look at the table.",
             "meaningKo": "표를 봐 주세요."
           }
@@ -16856,7 +16856,7 @@
           "meaningKo": "발견되다",
           "example": {
             "sentence": "鍵が見つかった。",
-            "kana": "かぎが見（み）つかった。",
+            "kana": "かぎがみつかった。",
             "meaning": "The key was found.",
             "meaningKo": "열쇠가 발견되었다."
           }
@@ -17693,7 +17693,7 @@
           "meaningKo": "도구",
           "example": {
             "sentence": "料理の道具を買った。",
-            "kana": "りょうりの道具（どうぐ）を買（か）った。",
+            "kana": "りょうりの道具（どうぐ）をかった。",
             "meaning": "I bought cooking tools.",
             "meaningKo": "요리 도구를 샀다."
           }
@@ -17905,7 +17905,7 @@
           "meaningKo": "실수하다",
           "example": {
             "sentence": "道を間違えました。",
-            "kana": "みちを間違（まちが）えました。",
+            "kana": "みちをまちがえました。",
             "meaning": "I took the wrong road.",
             "meaningKo": "길을 잘못 갔습니다."
           }
@@ -19123,7 +19123,7 @@
           "meaningKo": "우아한",
           "example": {
             "sentence": "彼女は上品な人です。",
-            "kana": "かのじょは上品（じょうひん）な人（ひと）です。",
+            "kana": "かのじょは上品（じょうひん）なひとです。",
             "meaning": "She is an elegant person.",
             "meaningKo": "그녀는 우아한 사람입니다."
           }
@@ -19305,7 +19305,7 @@
           "meaningKo": "경이로움",
           "example": {
             "sentence": "不思議な夢を見た。",
-            "kana": "ふしぎな夢（ゆめ）を見（み）た。",
+            "kana": "ふしぎな夢（ゆめ）をみた。",
             "meaning": "I had a strange dream.",
             "meaningKo": "신기한 꿈을 꿨다."
           }
@@ -19609,7 +19609,7 @@
           "meaningKo": "컨텐츠",
           "example": {
             "sentence": "箱の中身を見た。",
-            "kana": "はこの中身（なかみ）を見（み）た。",
+            "kana": "はこの中身（なかみ）をみた。",
             "meaning": "I looked at the contents of the box.",
             "meaningKo": "상자의 내용물을 봤다."
           }
@@ -20294,7 +20294,7 @@
           "meaningKo": "대표",
           "example": {
             "sentence": "父の代理で会議に出た。",
-            "kana": "ちちの代理（だいり）で会議（かいぎ）に出（で）た。",
+            "kana": "ちちの代理（だいり）で会議（かいぎ）にでた。",
             "meaning": "I attended the meeting as my father's representative.",
             "meaningKo": "아버지를 대신해서 회의에 참석했다."
           }
@@ -20461,7 +20461,7 @@
           "meaningKo": "맡기다",
           "example": {
             "sentence": "この仕事は田中さんに任せる。",
-            "kana": "この仕事（しごと）は田中（たなか）さんに任（まか）せる。",
+            "kana": "このしごとは田中（たなか）さんに任（まか）せる。",
             "meaning": "I'll entrust this work to Tanaka-san.",
             "meaningKo": "이 일은 다나카 씨에게 맡기겠습니다."
           }
@@ -20705,7 +20705,7 @@
           "meaningKo": "어울리다",
           "example": {
             "sentence": "その服、よく似合うね。",
-            "kana": "その服（ふく）、よく似合（にあ）うね。",
+            "kana": "そのふく、よく似にあうね。",
             "meaning": "Those clothes suit you well.",
             "meaningKo": "그 옷이 잘 어울리네요."
           }
@@ -21024,7 +21024,7 @@
           "meaningKo": "공급",
           "example": {
             "sentence": "電力の供給が止まった。",
-            "kana": "でんりょくの供給（きょうきゅう）が止（と）まった。",
+            "kana": "でんりょくの供給（きょうきゅう）がとまった。",
             "meaning": "The power supply stopped.",
             "meaningKo": "전력 공급이 중단되었다."
           }
@@ -21069,7 +21069,7 @@
           "meaningKo": "가격",
           "example": {
             "sentence": "この商品の価格は高い。",
-            "kana": "この商品（しょうひん）の価格（かかく）は高（たか）い。",
+            "kana": "このしょうひんの価格（かかく）はたかい。",
             "meaning": "The price of this product is high.",
             "meaningKo": "이 상품의 가격은 비싸다."
           }
@@ -21191,7 +21191,7 @@
           "meaningKo": "자신감",
           "example": {
             "sentence": "彼は信用できる人だ。",
-            "kana": "かれは信用（しんよう）できる人（ひと）だ。",
+            "kana": "かれは信用（しんよう）できるひとだ。",
             "meaning": "He is a trustworthy person.",
             "meaningKo": "그는 신용할 수 있는 사람이다."
           }
@@ -22255,7 +22255,7 @@
           "meaningKo": "들판",
           "example": {
             "sentence": "この分野は難しいです。",
-            "kana": "この分野（ぶんや）は難（むずか）しいです。",
+            "kana": "この分野（ぶんや）はむずかしいです。",
             "meaning": "This field is difficult.",
             "meaningKo": "이 분야는 어렵습니다."
           }
@@ -22756,7 +22756,7 @@
           "meaningKo": "가감",
           "example": {
             "sentence": "塩の加減が難しい。",
-            "kana": "しおの加減（かげん）が難（むずか）しい。",
+            "kana": "しおの加減（かげん）がむずかしい。",
             "meaning": "Adjusting the salt is difficult.",
             "meaningKo": "소금 간 맞추기가 어렵다."
           }
@@ -22863,7 +22863,7 @@
           "meaningKo": "효과",
           "example": {
             "sentence": "薬の効果が出た。",
-            "kana": "くすりの効果（こうか）が出（で）た。",
+            "kana": "くすりの効果（こうか）がでた。",
             "meaning": "The medicine's effect appeared.",
             "meaningKo": "약의 효과가 나타났다."
           }
@@ -23334,7 +23334,7 @@
           "meaningKo": "성가심",
           "example": {
             "sentence": "厄介な問題が起きた。",
-            "kana": "やっかいな問題（もんだい）が起（お）きた。",
+            "kana": "やっかいな問題（もんだい）がおきた。",
             "meaning": "A troublesome problem occurred.",
             "meaningKo": "성가신 문제가 생겼다."
           }
@@ -23364,7 +23364,7 @@
           "meaningKo": "참여",
           "example": {
             "sentence": "会議に参加します。",
-            "kana": "かいぎに参加（さんか）します。",
+            "kana": "かいぎにさんかします。",
             "meaning": "I will participate in the meeting.",
             "meaningKo": "회의에 참여합니다."
           }
@@ -23394,7 +23394,7 @@
           "meaningKo": "참고",
           "example": {
             "sentence": "参考書を買った。",
-            "kana": "さんこうしょを買（か）った。",
+            "kana": "さんこうしょをかった。",
             "meaning": "I bought a reference book.",
             "meaningKo": "참고서를 샀다."
           }
@@ -23820,7 +23820,7 @@
           "meaningKo": "동시",
           "example": {
             "sentence": "二つの事が同時に起こった。",
-            "kana": "ふたつのことが同時（どうじ）に起（お）こった。",
+            "kana": "ふたつのことが同時（どうじ）におこった。",
             "meaning": "Two things happened simultaneously.",
             "meaningKo": "두 가지 일이 동시에 일어났다."
           }
@@ -24109,7 +24109,7 @@
           "meaningKo": "물건",
           "example": {
             "sentence": "この品は高いです。",
-            "kana": "この品（しな）は高（たか）いです。",
+            "kana": "この品（しな）はたかいです。",
             "meaning": "This article is expensive.",
             "meaningKo": "이 물건은 비쌉니다."
           }
@@ -24672,7 +24672,7 @@
           "meaningKo": "지구",
           "example": {
             "sentence": "この地区は静かです。",
-            "kana": "この地区（ちく）は静（しず）かです。",
+            "kana": "この地区（ちく）はしずかです。",
             "meaning": "This district is quiet.",
             "meaningKo": "이 지구는 조용합니다."
           }
@@ -24702,7 +24702,7 @@
           "meaningKo": "수평선",
           "example": {
             "sentence": "地平線が見える。",
-            "kana": "ちへいせんが見（み）える。",
+            "kana": "ちへいせんがみえる。",
             "meaning": "I can see the horizon.",
             "meaningKo": "수평선이 보인다."
           }
@@ -24717,7 +24717,7 @@
           "meaningKo": "지방",
           "example": {
             "sentence": "この地方は雪が多い。",
-            "kana": "この地方（ちほう）は雪（ゆき）が多（おお）い。",
+            "kana": "この地方（ちほう）は雪（ゆき）がおおい。",
             "meaning": "This region has a lot of snow.",
             "meaningKo": "이 지방은 눈이 많다."
           }
@@ -25462,7 +25462,7 @@
           "meaningKo": "대량",
           "example": {
             "sentence": "大量の本を買った。",
-            "kana": "たいりょうの本（ほん）を買（か）った。",
+            "kana": "たいりょうのほんをかった。",
             "meaning": "I bought a large quantity of books.",
             "meaningKo": "대량의 책을 샀다."
           }
@@ -25963,7 +25963,7 @@
           "meaningKo": "아내",
           "example": {
             "sentence": "兄の嫁は優しい人です。",
-            "kana": "あにの嫁（よめ）は優（やさ）しい人（ひと）です。",
+            "kana": "あにの嫁（よめ）は優（やさ）しいひとです。",
             "meaning": "My older brother's wife is a kind person.",
             "meaningKo": "형의 아내는 착한 사람입니다."
           }
@@ -26252,7 +26252,7 @@
           "meaningKo": "정기",
           "example": {
             "sentence": "定期券を買いました。",
-            "kana": "ていきけんを買（か）いました。",
+            "kana": "ていきけんをかいました。",
             "meaning": "I bought a commuter pass.",
             "meaningKo": "정기권을 샀습니다."
           }
@@ -27179,7 +27179,7 @@
           "meaningKo": "시장",
           "example": {
             "sentence": "母と市場で買い物をした。",
-            "kana": "ははと市場（いちば）で買（か）い物（もの）をした。",
+            "kana": "ははと市場（いちば）でかい物（もの）をした。",
             "meaning": "I went shopping at the market with my mother.",
             "meaningKo": "어머니와 시장에서 쇼핑을 했다."
           }
@@ -27256,7 +27256,7 @@
           "meaningKo": "띠",
           "example": {
             "sentence": "着物の帯が美しい。",
-            "kana": "きものの帯（おび）が美（うつく）しい。",
+            "kana": "きものの帯（おび）がうつくしい。",
             "meaning": "The kimono sash is beautiful.",
             "meaningKo": "기모노 띠가 아름답다."
           }
@@ -28031,7 +28031,7 @@
           "meaningKo": "부분",
           "example": {
             "sentence": "彼の役割は重要だ。",
-            "kana": "かれの役割（やくわり）は重要（じゅうよう）だ。",
+            "kana": "かれの役割（やくわり）はじゅうようだ。",
             "meaning": "His role is important.",
             "meaningKo": "그의 역할은 중요하다."
           }
@@ -28153,7 +28153,7 @@
           "meaningKo": "사촌",
           "example": {
             "sentence": "従兄弟が遊びに来た。",
-            "kana": "いとこが遊（あそ）びに来（き）た。",
+            "kana": "いとこが遊（あそ）びにきた。",
             "meaning": "My cousin came to visit.",
             "meaningKo": "사촌이 놀러 왔다."
           }
@@ -29718,7 +29718,7 @@
           "meaningKo": "확대",
           "example": {
             "sentence": "地図を拡大して見る。",
-            "kana": "ちずを拡大（かくだい）して見（み）る。",
+            "kana": "ちずを拡大（かくだい）してみる。",
             "meaning": "I magnify the map to look at it.",
             "meaningKo": "지도를 확대해서 본다."
           }
@@ -29930,7 +29930,7 @@
           "meaningKo": "공지",
           "example": {
             "sentence": "掲示板を見てください。",
-            "kana": "けいじばんを見（み）てください。",
+            "kana": "けいじばんをみてください。",
             "meaning": "Please look at the bulletin board.",
             "meaningKo": "게시판을 봐 주세요."
           }
@@ -29945,7 +29945,7 @@
           "meaningKo": "게시판",
           "example": {
             "sentence": "掲示板を見てください。",
-            "kana": "けいじばんを見（み）てください。",
+            "kana": "けいじばんをみてください。",
             "meaning": "Please look at the bulletin board.",
             "meaningKo": "게시판을 봐 주세요."
           }
@@ -30159,7 +30159,7 @@
           "meaningKo": "지출",
           "example": {
             "sentence": "今月の支出が多い。",
-            "kana": "こんげつの支出（ししゅつ）が多（おお）い。",
+            "kana": "こんげつの支出（ししゅつ）がおおい。",
             "meaning": "This month's expenditure is high.",
             "meaningKo": "이번 달 지출이 많다."
           }
@@ -30266,7 +30266,7 @@
           "meaningKo": "개찰구",
           "example": {
             "sentence": "改札を通って電車に乗った。",
-            "kana": "かいさつを通（とお）って電車（でんしゃ）に乗（の）った。",
+            "kana": "かいさつをとおって電車（でんしゃ）に乗（の）った。",
             "meaning": "I went through the ticket gate and got on the train.",
             "meaningKo": "개찰구를 통과해서 전철을 탔다."
           }
@@ -30311,7 +30311,7 @@
           "meaningKo": "방송하다",
           "example": {
             "sentence": "夜の放送を聞いた。",
-            "kana": "よるの放送（ほうそう）を聞（き）いた。",
+            "kana": "よるの放送（ほうそう）をきいた。",
             "meaning": "I listened to the night broadcast.",
             "meaningKo": "밤 방송을 들었다."
           }
@@ -30570,7 +30570,7 @@
           "meaningKo": "편지",
           "example": {
             "sentence": "この文字が読めません。",
-            "kana": "この文字（もじ）が読（よ）めません。",
+            "kana": "この文字（もじ）がよめません。",
             "meaning": "I can't read this character.",
             "meaningKo": "이 문자를 읽을 수 없습니다."
           }
@@ -30690,7 +30690,7 @@
           "meaningKo": "신선한",
           "example": {
             "sentence": "新鮮な魚を買った。",
-            "kana": "しんせんな魚（さかな）を買（か）った。",
+            "kana": "しんせんな魚（さかな）をかった。",
             "meaning": "I bought fresh fish.",
             "meaningKo": "신선한 생선을 샀다."
           }
@@ -30705,7 +30705,7 @@
           "meaningKo": "방향",
           "example": {
             "sentence": "どの方向に行きますか。",
-            "kana": "どの方向（ほうこう）に行（い）きますか。",
+            "kana": "どの方向（ほうこう）にいきますか。",
             "meaning": "Which direction are you going?",
             "meaningKo": "어느 방향으로 가시나요?"
           }
@@ -31223,7 +31223,7 @@
           "meaningKo": "쓰다",
           "example": {
             "sentence": "手紙を書き直す。",
-            "kana": "てがみを書（か）き直（なお）す。",
+            "kana": "てがみをかき直（なお）す。",
             "meaning": "I will rewrite the letter.",
             "meaningKo": "편지를 다시 쓴다."
           }
@@ -31238,7 +31238,7 @@
           "meaningKo": "서재",
           "example": {
             "sentence": "父の書斎で本を読む。",
-            "kana": "ちちの書斎（しょさい）で本（ほん）を読（よ）む。",
+            "kana": "ちちの書斎（しょさい）でほんをよむ。",
             "meaning": "I read books in my father's study room.",
             "meaningKo": "아버지의 서재에서 책을 읽는다."
           }
@@ -31298,7 +31298,7 @@
           "meaningKo": "가장",
           "example": {
             "sentence": "これが最も大切です。",
-            "kana": "これが最（もっと）も大切（たいせつ）です。",
+            "kana": "これが最（もっと）もたいせつです。",
             "meaning": "This is the most important.",
             "meaningKo": "이것이 가장 중요합니다."
           }
@@ -31587,7 +31587,7 @@
           "meaningKo": "그 사람 자신",
           "example": {
             "sentence": "本人に聞いてください。",
-            "kana": "ほんにんに聞（き）いてください。",
+            "kana": "ほんにんにきいてください。",
             "meaning": "Please ask the person himself.",
             "meaningKo": "그 사람 자신에게 물어보세요."
           }
@@ -31876,7 +31876,7 @@
           "meaningKo": "기둥",
           "example": {
             "sentence": "鉄の棒が重い。",
-            "kana": "てつの棒（ぼう）が重（おも）い。",
+            "kana": "てつの棒（ぼう）がおもい。",
             "meaning": "The iron pole is heavy.",
             "meaningKo": "철 기둥이 무겁다."
           }
@@ -32210,7 +32210,7 @@
           "meaningKo": "결함",
           "example": {
             "sentence": "この商品には欠陥がある。",
-            "kana": "この商品（しょうひん）には欠陥（けっかん）がある。",
+            "kana": "このしょうひんには欠陥（けっかん）がある。",
             "meaning": "This product has a defect.",
             "meaningKo": "이 제품에는 결함이 있다."
           }
@@ -32302,7 +32302,7 @@
           "meaningKo": "정확히",
           "example": {
             "sentence": "それは正に私の考えだ。",
-            "kana": "それは正（まさ）に私（わたし）の考（かんが）えだ。",
+            "kana": "それは正（まさ）にわたしの考（かんが）えだ。",
             "meaning": "That is exactly my thinking.",
             "meaningKo": "그것은 정확히 내 생각이다."
           }
@@ -32743,7 +32743,7 @@
           "meaningKo": "등급",
           "example": {
             "sentence": "この学校の水準は高い。",
-            "kana": "このがっこうの水準（すいじゅん）は高（たか）い。",
+            "kana": "このがっこうの水準（すいじゅん）はたかい。",
             "meaning": "The standard of this school is high.",
             "meaningKo": "이 학교의 수준은 높다."
           }
@@ -33473,7 +33473,7 @@
           "meaningKo": "만",
           "example": {
             "sentence": "この湾は美しいです。",
-            "kana": "この湾（わん）は美（うつく）しいです。",
+            "kana": "この湾（わん）はうつくしいです。",
             "meaning": "This bay is beautiful.",
             "meaningKo": "이 만은 아름답습니다."
           }
@@ -33503,7 +33503,7 @@
           "meaningKo": "습기",
           "example": {
             "sentence": "湿気が多くて暑い。",
-            "kana": "しっけが多（おお）くて暑（あつ）い。",
+            "kana": "しっけがおおくて暑（あつ）い。",
             "meaning": "It's humid and hot.",
             "meaningKo": "습기가 많아서 덥다."
           }
@@ -33959,7 +33959,7 @@
           "meaningKo": "이야기",
           "example": {
             "sentence": "昔話の物語を読んだ。",
-            "kana": "むかしばなしの物語（ものがたり）を読（よ）んだ。",
+            "kana": "むかしばなしの物語（ものがたり）をよんだ。",
             "meaning": "I read a folktale story.",
             "meaningKo": "옛날이야기를 읽었다."
           }
@@ -34293,7 +34293,7 @@
           "meaningKo": "현상",
           "example": {
             "sentence": "不思議な現象が起きた。",
-            "kana": "ふしぎな現象（げんしょう）が起（お）きた。",
+            "kana": "ふしぎな現象（げんしょう）がおきた。",
             "meaning": "A mysterious phenomenon occurred.",
             "meaningKo": "신비한 현상이 일어났다."
           }
@@ -34794,7 +34794,7 @@
           "meaningKo": "증상",
           "example": {
             "sentence": "風邪の症状が出た。",
-            "kana": "かぜの症状（しょうじょう）が出（で）た。",
+            "kana": "かぜの症状（しょうじょう）がでた。",
             "meaning": "Cold symptoms appeared.",
             "meaningKo": "감기 증상이 나타났다."
           }
@@ -35053,7 +35053,7 @@
           "meaningKo": "목표",
           "example": {
             "sentence": "今年の目標は何ですか。",
-            "kana": "ことしの目標（もくひょう）は何（なん）ですか。",
+            "kana": "ことしのもくひょうはなんですか。",
             "meaning": "What is your goal for this year?",
             "meaningKo": "올해 목표가 무엇입니까?"
           }
@@ -35065,10 +35065,10 @@
           "meaning": "Goal",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "목표",
+          "meaningKo": "목적",
           "example": {
             "sentence": "旅行の目的は何ですか。",
-            "kana": "りょこうの目的（もくてき）は何（なん）ですか。",
+            "kana": "りょこうのもくてきはなんですか。",
             "meaning": "What is the purpose of your trip?",
             "meaningKo": "여행의 목적은 무엇입니까?"
           }
@@ -35095,7 +35095,7 @@
           "meaning": "Straight",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "이성애자",
+          "meaningKo": "곧음",
           "example": {
             "sentence": "この道は直だ。",
             "kana": "このみちはなおだ。",
@@ -35130,7 +35130,7 @@
           "meaningKo": "직접",
           "example": {
             "sentence": "社長に直に話した。",
-            "kana": "しゃちょうに直（じか）に話（はな）した。",
+            "kana": "しゃちょうにじかにはなした。",
             "meaning": "I spoke directly to the president.",
             "meaningKo": "사장에게 직접 말했다."
           }
@@ -35753,7 +35753,7 @@
           "meaningKo": "축하하다",
           "example": {
             "sentence": "誕生日を祝う。",
-            "kana": "たんじょうびを祝（いわ）う。",
+            "kana": "たんじょうびをいわう。",
             "meaning": "Celebrate a birthday.",
             "meaningKo": "생일을 축하한다."
           }
@@ -36025,7 +36025,7 @@
           "meaningKo": "단호한",
           "example": {
             "sentence": "彼は積極的な人だ。",
-            "kana": "かれは積極的（せっきょくてき）な人（ひと）だ。",
+            "kana": "かれは積極的（せっきょくてき）なひとだ。",
             "meaning": "He is an assertive person.",
             "meaningKo": "그는 적극적인 사람이다."
           }
@@ -36194,7 +36194,7 @@
           "meaningKo": "장 (글의 단락)",
           "example": {
             "sentence": "第三章を読んだ。",
-            "kana": "だいさんしょうを読（よ）んだ。",
+            "kana": "だいさんしょうをよんだ。",
             "meaning": "I read chapter three.",
             "meaningKo": "3장을 읽었다."
           }
@@ -36269,7 +36269,7 @@
           "meaningKo": "웃는 얼굴",
           "example": {
             "sentence": "彼女の笑顔が素敵です。",
-            "kana": "かのじょの笑顔（えがお）が素敵（すてき）です。",
+            "kana": "かのじょのえがおが素敵（すてき）です。",
             "meaning": "Her smile is lovely.",
             "meaningKo": "그녀의 미소가 멋져요."
           }
@@ -36832,7 +36832,7 @@
           "meaningKo": "그림",
           "example": {
             "sentence": "美術館で絵画を見た。",
-            "kana": "びじゅつかんで絵画（かいが）を見（み）た。",
+            "kana": "びじゅつかんで絵画（かいが）をみた。",
             "meaning": "I saw paintings at the art museum.",
             "meaningKo": "미술관에서 그림을 봤다."
           }
@@ -36892,7 +36892,7 @@
           "meaningKo": "유지",
           "example": {
             "sentence": "健康維持は大切だ。",
-            "kana": "けんこう維持（いじ）は大切（たいせつ）だ。",
+            "kana": "けんこう維持（いじ）はたいせつだ。",
             "meaning": "Health maintenance is important.",
             "meaningKo": "건강 유지는 중요하다."
           }
@@ -37729,7 +37729,7 @@
           "meaningKo": "연극",
           "example": {
             "sentence": "今度の芝居を見に行こう。",
-            "kana": "こんどの芝居（しばい）を見（み）に行（い）こう。",
+            "kana": "こんどの芝居（しばい）をみにいこう。",
             "meaning": "Let's go see the play next time.",
             "meaningKo": "이번 연극을 보러 가자."
           }
@@ -37986,7 +37986,7 @@
           "meaningKo": "혈압",
           "example": {
             "sentence": "血圧が高いですね。",
-            "kana": "けつあつが高（たか）いですね。",
+            "kana": "けつあつがたかいですね。",
             "meaning": "Your blood pressure is high.",
             "meaningKo": "혈압이 높네요."
           }
@@ -38337,7 +38337,7 @@
           "meaningKo": "요구",
           "example": {
             "sentence": "社員の要求を聞いた。",
-            "kana": "しゃいんの要求（ようきゅう）を聞（き）いた。",
+            "kana": "しゃいんの要求（ようきゅう）をきいた。",
             "meaning": "I listened to the employees' demands.",
             "meaningKo": "직원들의 요구를 들었다."
           }
@@ -38397,7 +38397,7 @@
           "meaningKo": "응시하다",
           "example": {
             "sentence": "彼女の目を見つめる。",
-            "kana": "かのじょの目（め）を見（み）つめる。",
+            "kana": "かのじょの目（め）をみつめる。",
             "meaning": "I stare into her eyes.",
             "meaningKo": "그녀의 눈을 응시한다."
           }
@@ -38489,7 +38489,7 @@
           "meaningKo": "배웅",
           "example": {
             "sentence": "友達の見送りに行く。",
-            "kana": "ともだちの見送（みおく）りに行（い）く。",
+            "kana": "ともだちの見送（みおく）りにいく。",
             "meaning": "I'm going to see my friend off.",
             "meaningKo": "친구를 배웅하러 간다."
           }
@@ -38823,7 +38823,7 @@
           "meaningKo": "기사",
           "example": {
             "sentence": "新聞の記事を読んだ。",
-            "kana": "しんぶんの記事（きじ）を読（よ）んだ。",
+            "kana": "しんぶんの記事（きじ）をよんだ。",
             "meaning": "I read a newspaper article.",
             "meaningKo": "신문 기사를 읽었다."
           }
@@ -39050,7 +39050,7 @@
           "meaningKo": "가치평가",
           "example": {
             "sentence": "先生の評価が高い。",
-            "kana": "せんせいの評価（ひょうか）が高（たか）い。",
+            "kana": "せんせいの評価（ひょうか）がたかい。",
             "meaning": "The teacher's evaluation is high.",
             "meaningKo": "선생님의 평가가 높다."
           }
@@ -39169,10 +39169,10 @@
           "meaning": "To start a conversation",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "대화를 시작하려면",
+          "meaningKo": "말을 걸다",
           "example": {
             "sentence": "友達に話しかける。",
-            "kana": "ともだちに話（はな）しかける。",
+            "kana": "ともだちにはなしかける。",
             "meaning": "I start a conversation with my friend.",
             "meaningKo": "친구에게 말을 건다."
           }
@@ -39202,7 +39202,7 @@
           "meaningKo": "주제",
           "example": {
             "sentence": "今日の話題は何ですか。",
-            "kana": "きょうの話題（わだい）は何（なん）ですか。",
+            "kana": "きょうのわだいはなんですか。",
             "meaning": "What is today's topic?",
             "meaningKo": "오늘의 주제는 무엇입니까?"
           }
@@ -39214,7 +39214,7 @@
           "meaning": "Detailed",
           "grade": "N3",
           "parts": "adjective",
-          "meaningKo": "상세한",
+          "meaningKo": "자세한",
           "example": {
             "sentence": "詳しい説明をお願いします。",
             "kana": "くわしいせつめいをおねがいします。",
@@ -39231,10 +39231,10 @@
           "meaning": "Pride",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "자랑하다",
+          "meaningKo": "자랑",
           "example": {
             "sentence": "息子は私の誇りです。",
-            "kana": "むすこは私（わたし）の誇（ほこ）りです。",
+            "kana": "むすこはわたしのほこりです。",
             "meaning": "My son is my pride.",
             "meaningKo": "아들은 나의 자랑입니다."
           }
@@ -39249,7 +39249,7 @@
           "meaningKo": "받아들이다",
           "example": {
             "sentence": "間違いを認める。",
-            "kana": "まちがいを認める（みとめる）。",
+            "kana": "まちがいをみとめる。",
             "meaning": "Accept one's mistakes.",
             "meaningKo": "실수를 받아들이다."
           }
@@ -39264,7 +39264,7 @@
           "meaningKo": "탄생",
           "example": {
             "sentence": "赤ちゃんの誕生を祝った。",
-            "kana": "あかちゃんの誕生（たんじょう）を祝（いわ）った。",
+            "kana": "あかちゃんのたんじょうをいわった。",
             "meaning": "We celebrated the birth of the baby.",
             "meaningKo": "아기의 탄생을 축하했다."
           }
@@ -39354,7 +39354,7 @@
           "meaningKo": "오류",
           "example": {
             "sentence": "計算に誤りがある。",
-            "kana": "けいさんに誤（あやま）りがある。",
+            "kana": "けいさんにあやまりがある。",
             "meaning": "There is an error in the calculation.",
             "meaningKo": "계산에 오류가 있다."
           }
@@ -39413,12 +39413,12 @@
           "meaning": "Reading",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "독서",
+          "meaningKo": "읽는 법",
           "example": {
             "sentence": "この漢字の読みは何ですか。",
             "kana": "このかんじのよみはなんですか。",
             "meaning": "What is the reading of this kanji?",
-            "meaningKo": "이 한자의 독음은 무엇입니까?"
+            "meaningKo": "이 한자를 읽는 법은 무엇입니까?"
           }
         },
         {
@@ -39431,7 +39431,7 @@
           "meaningKo": "독서",
           "example": {
             "sentence": "毎日読書をします。",
-            "kana": "まいにち読書（どくしょ）をします。",
+            "kana": "まいにちどくしょをします。",
             "meaning": "I read books every day.",
             "meaningKo": "매일 독서를 합니다."
           }
@@ -39455,10 +39455,10 @@
           "id": "n3-140-6",
           "kanji": "調子",
           "kana": "ちょうし [choushi]",
-          "meaning": "Tone",
+          "meaning": "condition",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "톤",
+          "meaningKo": "컨디션",
           "example": {
             "sentence": "調子はどうですか。",
             "kana": "ちょうしはどうですか。",
@@ -39488,10 +39488,10 @@
           "meaning": "Claim",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "청구하다",
+          "meaningKo": "청구",
           "example": {
             "sentence": "電気代の請求書が来た。",
-            "kana": "でんきだいの請求書（せいきゅうしょ）が来（き）た。",
+            "kana": "でんきだいのせいきゅうしょがきた。",
             "meaning": "The electricity bill came.",
             "meaningKo": "전기요금 청구서가 왔다."
           }
@@ -39538,7 +39538,7 @@
           "meaningKo": "논문",
           "example": {
             "sentence": "論文を書いています。",
-            "kana": "ろんぶんを書（か）いています。",
+            "kana": "ろんぶんをかいています。",
             "meaning": "I am writing a thesis.",
             "meaningKo": "논문을 쓰고 있습니다."
           }
@@ -39553,7 +39553,7 @@
           "meaningKo": "포기하다",
           "example": {
             "sentence": "夢を諦めるな。",
-            "kana": "ゆめを諦（あきら）めるな。",
+            "kana": "ゆめをあきらめるな。",
             "meaning": "Don't give up on your dreams.",
             "meaningKo": "꿈을 포기하지 마라."
           }
@@ -39568,7 +39568,7 @@
           "meaningKo": "속담",
           "example": {
             "sentence": "日本の諺を覚えた。",
-            "kana": "にほんの諺（ことわざ）を覚（おぼ）えた。",
+            "kana": "にほんのことわざをおぼえた。",
             "meaning": "I memorized Japanese proverbs.",
             "meaningKo": "일본 속담을 외웠다."
           }
@@ -39687,7 +39687,7 @@
           "meaning": "To hand over",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "넘겨주다",
+          "meaningKo": "양보하다",
           "example": {
             "sentence": "席を譲る。",
             "kana": "せきをゆずる。",
@@ -39750,7 +39750,7 @@
           "meaningKo": "풍요",
           "example": {
             "sentence": "この店は商品が豊富だ。",
-            "kana": "この店（みせ）は商品（しょうひん）が豊富（ほうふ）だ。",
+            "kana": "このみせはしょうひんがほうふだ。",
             "meaning": "This store has an abundance of products.",
             "meaningKo": "이 가게는 상품이 풍부하다."
           }
@@ -39762,7 +39762,7 @@
           "meaning": "Shape",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "형상",
+          "meaningKo": "모양",
           "example": {
             "sentence": "象の形をした雲を見た。",
             "kana": "ぞうのかたちをしたくもをみた。",
@@ -39810,7 +39810,7 @@
           "meaningKo": "재산",
           "example": {
             "sentence": "彼の財産は多い。",
-            "kana": "かれの財産（ざいさん）は多（おお）い。",
+            "kana": "かれのざいさんはおおい。",
             "meaning": "His property is substantial.",
             "meaningKo": "그의 재산은 많다."
           }
@@ -39884,10 +39884,10 @@
           "meaning": "Duty",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "의무",
+          "meaningKo": "책임",
           "example": {
             "sentence": "彼の責任だ。",
-            "kana": "かれの責任（せきにん）だ。",
+            "kana": "かれのせきにんだ。",
             "meaning": "It's his responsibility.",
             "meaningKo": "그의 책임이다."
           }
@@ -39899,10 +39899,10 @@
           "meaning": "To be saved up",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "저장하다",
+          "meaningKo": "저축하다",
           "example": {
             "sentence": "お金が貯まる。",
-            "kana": "おかねが貯（た）まる。",
+            "kana": "おかねがたまる。",
             "meaning": "Money is being saved up.",
             "meaningKo": "돈이 저축된다."
           }
@@ -39974,7 +39974,7 @@
           "meaning": "Cost",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "비용",
+          "meaningKo": "~비",
           "example": {
             "sentence": "交通費が高い。",
             "kana": "こうつうひが たかい。",
@@ -40051,10 +40051,10 @@
           "meaning": "Approval",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "승인",
+          "meaningKo": "찬성",
           "example": {
             "sentence": "みんなが賛成した。",
-            "kana": "みんなが賛成（さんせい）した。",
+            "kana": "みんながさんせいした。",
             "meaning": "Everyone approved.",
             "meaningKo": "모두가 찬성했다."
           }
@@ -40084,7 +40084,7 @@
           "meaningKo": "현명한",
           "example": {
             "sentence": "彼女は賢い学生だ。",
-            "kana": "かのじょは賢（かしこ）い学生（がくせい）だ。",
+            "kana": "かのじょはかしこいがくせいだ。",
             "meaning": "She is a wise student.",
             "meaningKo": "그녀는 현명한 학생이다."
           }
@@ -40096,7 +40096,7 @@
           "meaning": "Quality",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "질",
+          "meaningKo": "품질",
           "example": {
             "sentence": "この商品は質がいい。",
             "kana": "このしょうひんはしつがいい。",
@@ -40111,7 +40111,7 @@
           "meaning": "Purchase",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "구매하다",
+          "meaningKo": "구매",
           "example": {
             "sentence": "本の購入を検討中です。",
             "kana": "ほんのこうにゅうをけんとうちゅうです。",
@@ -40161,7 +40161,7 @@
           "meaningKo": "발생하다",
           "example": {
             "sentence": "事故が起こる。",
-            "kana": "じこが起（お）こる。",
+            "kana": "じこがおこる。",
             "meaning": "An accident occurs.",
             "meaningKo": "사고가 발생한다."
           }
@@ -40173,10 +40173,10 @@
           "meaning": "To cross over",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "건너다",
+          "meaningKo": "넘다",
           "example": {
             "sentence": "山を越える。",
-            "kana": "やまを越える（こえる）。",
+            "kana": "やまをこえる。",
             "meaning": "Cross over the mountain.",
             "meaningKo": "산을 넘다."
           }
@@ -40188,7 +40188,7 @@
           "meaning": "At one’s feet",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "발 밑에",
+          "meaningKo": "발밑",
           "example": {
             "sentence": "足元に気をつけて。",
             "kana": "あしもとに きをつけて。",
@@ -40218,7 +40218,7 @@
           "meaning": "Trace",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "자취",
+          "meaningKo": "흔적, 자취",
           "example": {
             "sentence": "犬の足跡が残っている。",
             "kana": "いぬのあしあとがのこっている。",
@@ -40236,7 +40236,7 @@
           "meaningKo": "몸",
           "example": {
             "sentence": "身が重くて起きられない。",
-            "kana": "みが重（おも）くて起（お）きられない。",
+            "kana": "みがおもくておきられない。",
             "meaning": "My body feels heavy and I can't get up.",
             "meaningKo": "몸이 무거워서 일어날 수 없다."
           }
@@ -40263,10 +40263,10 @@
           "meaning": "Near oneself",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "자신에게 가까운",
+          "meaningKo": "가까운",
           "example": {
             "sentence": "身近な人に相談した。",
-            "kana": "みぢかな人（ひと）に相談（そうだん）した。",
+            "kana": "みぢかなひとにそうだんした。",
             "meaning": "I consulted with someone close to me.",
             "meaningKo": "가까운 사람에게 상담했다."
           }
@@ -40281,7 +40281,7 @@
           "meaningKo": "키",
           "example": {
             "sentence": "彼の身長は180cmです。",
-            "kana": "かれの身長（しんちょう）は180cmです。",
+            "kana": "かれのしんちょうは180cmです。",
             "meaning": "His height is 180cm.",
             "meaningKo": "그의 키는 180cm입니다."
           }
@@ -40295,7 +40295,7 @@
           "meaning": "Roadway",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "도로",
+          "meaningKo": "차도",
           "example": {
             "sentence": "車道を横断してはいけません。",
             "kana": "しゃどうを おうだん してはいけません。",
@@ -40310,7 +40310,7 @@
           "meaning": "Army",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "군",
+          "meaningKo": "군대",
           "example": {
             "sentence": "軍が町を守った。",
             "kana": "ぐんがまちをまもった。",
@@ -40343,7 +40343,7 @@
           "meaningKo": "처마",
           "example": {
             "sentence": "軒に鳥が止まっている。",
-            "kana": "のきに鳥（とり）が止（と）まっている。",
+            "kana": "のきにとりがとまっている。",
             "meaning": "A bird is perched on the eaves.",
             "meaningKo": "처마에 새가 앉아 있다."
           }
@@ -40400,7 +40400,7 @@
           "meaning": "To run over",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "뛰어넘다",
+          "meaningKo": "치다",
           "example": {
             "sentence": "車が猫を轢く。",
             "kana": "くるまがねこをひく。",
@@ -40433,7 +40433,7 @@
           "meaningKo": "농부",
           "example": {
             "sentence": "父は農家です。",
-            "kana": "ちちは農家（のうか）です。",
+            "kana": "ちちはのうかです。",
             "meaning": "My father is a farmer.",
             "meaningKo": "아버지는 농부입니다."
           }
@@ -40450,7 +40450,7 @@
           "meaningKo": "농업",
           "example": {
             "sentence": "日本の農業は大切です。",
-            "kana": "にほんの農業（のうぎょう）は大切（たいせつ）です。",
+            "kana": "にほんののうぎょうはたいせつです。",
             "meaning": "Japan's agriculture is important.",
             "meaningKo": "일본의 농업은 중요합니다."
           }
@@ -40480,7 +40480,7 @@
           "meaningKo": "동네",
           "example": {
             "sentence": "この辺りは静かです。",
-            "kana": "この辺（あた）りは静（しず）かです。",
+            "kana": "このあたりはしずかです。",
             "meaning": "This neighborhood is quiet.",
             "meaningKo": "이 동네는 조용합니다."
           }
@@ -40507,7 +40507,7 @@
           "meaning": "Present day",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "현재",
+          "meaningKo": "근대",
           "example": {
             "sentence": "近代美術館を見学した。",
             "kana": "きんだいびじゅつかんをけんがくした。",
@@ -40522,7 +40522,7 @@
           "meaning": "Short way",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "짧은 길",
+          "meaningKo": "지름길",
           "example": {
             "sentence": "この近道を通ろう。",
             "kana": "このちかみちをとおろう。",
@@ -40552,7 +40552,7 @@
           "meaning": "Return of something",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "물건의 반환",
+          "meaningKo": "반납",
           "example": {
             "sentence": "本の返却は明日です。",
             "kana": "ほんのへんきゃくはあしたです。",
@@ -40570,7 +40570,7 @@
           "meaningKo": "진술하다",
           "example": {
             "sentence": "意見を述べる。",
-            "kana": "いけんを述（の）べる。",
+            "kana": "いけんをのべる。",
             "meaning": "To state an opinion.",
             "meaningKo": "의견을 진술하다."
           }
@@ -40585,7 +40585,7 @@
           "meaningKo": "길을 잃다",
           "example": {
             "sentence": "道に迷う。",
-            "kana": "みちに迷う（まよう）。",
+            "kana": "みちにまよう。",
             "meaning": "I lose my way.",
             "meaningKo": "길을 잃다."
           }
@@ -40599,7 +40599,7 @@
           "meaning": "Lost child",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "잃어버린 아이",
+          "meaningKo": "미아",
           "example": {
             "sentence": "迷子になった。",
             "kana": "まいごになった。",
@@ -40614,7 +40614,7 @@
           "meaning": "Trouble",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "문제",
+          "meaningKo": "폐",
           "example": {
             "sentence": "迷惑をかけました。",
             "kana": "めいわくをかけました。",
@@ -40632,7 +40632,7 @@
           "meaningKo": "따라잡다",
           "example": {
             "sentence": "兄に追い付くのは難しい。",
-            "kana": "あにに追(お)い付(つ)くのは難(むずか)しい。",
+            "kana": "あににおいつくのはむずかしい。",
             "meaning": "It's difficult to catch up with my older brother.",
             "meaningKo": "형을 따라잡는 것은 어렵다."
           }
@@ -40689,10 +40689,10 @@
           "meaning": "To go against",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "반대하다",
+          "meaningKo": "반항하다",
           "example": {
             "sentence": "親に逆らうな。",
-            "kana": "おやに逆（さか）らうな。",
+            "kana": "おやにさからうな。",
             "meaning": "Don't go against your parents.",
             "meaningKo": "부모에게 반항하지 마라."
           }
@@ -40722,7 +40722,7 @@
           "meaningKo": "강제로 통과시키다",
           "example": {
             "sentence": "法案を通す。",
-            "kana": "ほうあんを通す（とおす）。",
+            "kana": "ほうあんをとおす。",
             "meaning": "To force a bill through.",
             "meaningKo": "법안을 강제로 통과시키다."
           }
@@ -40737,7 +40737,7 @@
           "meaningKo": "거리",
           "example": {
             "sentence": "この通りは静かです。",
-            "kana": "この通（とお）りは静（しず）かです。",
+            "kana": "このとおりはしずかです。",
             "meaning": "This street is quiet.",
             "meaningKo": "이 거리는 조용합니다."
           }
@@ -40751,7 +40751,7 @@
           "meaning": "To pass through",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "통과하다",
+          "meaningKo": "지나가다",
           "example": {
             "sentence": "バスが通り過ぎる。",
             "kana": "バスがとおりすぎる。",
@@ -40766,7 +40766,7 @@
           "meaning": "Correspondence",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "서신",
+          "meaningKo": "통신",
           "example": {
             "sentence": "通信の授業を受けた。",
             "kana": "つうしんのじゅぎょうをうけた。",
@@ -40781,10 +40781,10 @@
           "meaning": "Commuting to work",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "직장으로 통근",
+          "meaningKo": "통근",
           "example": {
             "sentence": "通勤に一時間かかる。",
-            "kana": "つうきんに一時間（いちじかん）かかる。",
+            "kana": "つうきんにいちじかんかかる。",
             "meaning": "It takes one hour to commute to work.",
             "meaningKo": "통근에 한 시간이 걸린다."
           }
@@ -40796,7 +40796,7 @@
           "meaning": "Commuting to school",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "학교로 통근",
+          "meaningKo": "통학",
           "example": {
             "sentence": "通学に電車を使います。",
             "kana": "つうがくにでんしゃをつかいます。",
@@ -40826,7 +40826,7 @@
           "meaning": "Passage",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "통과하다",
+          "meaningKo": "통행",
           "example": {
             "sentence": "この道は通行禁止です。",
             "kana": "このみちはつうこうきんしです。",
@@ -40841,7 +40841,7 @@
           "meaning": "Interpretation",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "해석",
+          "meaningKo": "통역",
           "example": {
             "sentence": "通訳の仕事は大変です。",
             "kana": "つうやくのしごとはたいへんです。",
@@ -40856,7 +40856,7 @@
           "meaning": "Passage through",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "통과하다",
+          "meaningKo": "통과",
           "example": {
             "sentence": "電車が駅を通過した。",
             "kana": "でんしゃがえきをつうかした。",
@@ -40918,7 +40918,7 @@
           "meaning": "Contact address",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "연락처 주소",
+          "meaningKo": "연락처",
           "example": {
             "sentence": "連絡先を教えてください。",
             "kana": "れんらくさきを おしえて ください。",
@@ -40933,10 +40933,10 @@
           "meaning": "Serial",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "연속적인",
+          "meaningKo": "연속",
           "example": {
             "sentence": "連続ドラマを見ている。",
-            "kana": "れんぞくドラマを見（み）ている。",
+            "kana": "れんぞくドラマをみている。",
             "meaning": "I am watching a TV series.",
             "meaningKo": "연속 드라마를 보고 있다."
           }
@@ -41008,10 +41008,10 @@
           "meaning": "To advance",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "전진하다",
+          "meaningKo": "진행하다",
           "example": {
             "sentence": "計画を進める。",
-            "kana": "けいかくを進める（すすめる）。",
+            "kana": "けいかくをすすめる。",
             "meaning": "To advance the plan.",
             "meaningKo": "계획을 진행하다."
           }
@@ -41023,10 +41023,10 @@
           "meaning": "Entering a higher-grade school",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "상급학교에 입학하다",
+          "meaningKo": "진학",
           "example": {
             "sentence": "息子の進学を心配している。",
-            "kana": "むすこの進学（しんがく）を心配（しんぱい）している。",
+            "kana": "むすこのしんがくをしんぱいしている。",
             "meaning": "I'm worried about my son's advancement to higher school.",
             "meaningKo": "아들의 진학을 걱정하고 있다."
           }
@@ -41038,10 +41038,10 @@
           "meaning": "Progress",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "진보하다",
+          "meaningKo": "진보",
           "example": {
             "sentence": "技術の進歩は速い。",
-            "kana": "ぎじゅつの進歩（しんぽ）は速（はや）い。",
+            "kana": "ぎじゅつのしんぽははやい。",
             "meaning": "Technological progress is fast.",
             "meaningKo": "기술의 진보는 빠르다."
           }
@@ -41070,7 +41070,7 @@
           "meaning": "Lateness",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "지각하다",
+          "meaningKo": "지각",
           "example": {
             "sentence": "遅刻して申し訳ない。",
             "kana": "ちこくしてもうしわけない。",
@@ -41127,10 +41127,10 @@
           "id": "n3-151-6",
           "kanji": "過ごす",
           "kana": "すごす [sugosu]",
-          "meaning": "To pass",
+          "meaning": "spend time",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "통과하다",
+          "meaningKo": "보내다",
           "example": {
             "sentence": "夏休みを家で過ごす。",
             "kana": "なつやすみを いえで すごす。",
@@ -41193,7 +41193,7 @@
           "meaningKo": "도달하다",
           "example": {
             "sentence": "頂上に達する。",
-            "kana": "ちょうじょうに達（たっ）する。",
+            "kana": "ちょうじょうにたっする。",
             "meaning": "To reach the summit.",
             "meaningKo": "정상에 도달하다."
           }
@@ -41210,7 +41210,7 @@
           "meaningKo": "차이",
           "example": {
             "sentence": "年の違いは大きい。",
-            "kana": "としの違い（ちがい）は大きい（おおきい）。",
+            "kana": "としのちがいはおおきい。",
             "meaning": "The age difference is big.",
             "meaningKo": "나이 차이가 크다."
           }
@@ -41222,7 +41222,7 @@
           "meaning": "Violence",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "폭력",
+          "meaningKo": "위반",
           "example": {
             "sentence": "交通違反で罰金を払った。",
             "kana": "こうつういはんでばっきんをはらった。",
@@ -41252,7 +41252,7 @@
           "meaning": "To fit",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "적합하다",
+          "meaningKo": "맞다",
           "example": {
             "sentence": "この靴は私に適する。",
             "kana": "このくつはわたしにてきする。",
@@ -41266,7 +41266,7 @@
           "kana": "てきせつ [tekisetsu]",
           "meaning": "Adequate",
           "grade": "N3",
-          "parts": "noun",
+          "parts": "adjective",
           "meaningKo": "적절한",
           "example": {
             "sentence": "適切な判断をした。",
@@ -41281,8 +41281,8 @@
           "kana": "てきど [tekido]",
           "meaning": "Moderate",
           "grade": "N3",
-          "parts": "noun",
-          "meaningKo": "보통의",
+          "parts": "adjective",
+          "meaningKo": "적당한",
           "example": {
             "sentence": "適度な運動が大切です。",
             "kana": "てきどなうんどうがたいせつです。",
@@ -41297,7 +41297,7 @@
           "meaning": "Applying",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "신청",
+          "meaningKo": "적용",
           "example": {
             "sentence": "新しい規則を適用する。",
             "kana": "あたらしいきそくをてきようする。",
@@ -41362,7 +41362,7 @@
           "meaningKo": "부분",
           "example": {
             "sentence": "この部分が難しい。",
-            "kana": "この部分（ぶぶん）が難（むずか）しい。",
+            "kana": "このぶぶんがむずかしい。",
             "meaning": "This part is difficult.",
             "meaningKo": "이 부분이 어렵다."
           }
@@ -41389,7 +41389,7 @@
           "meaning": "Mail service",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "메일 서비스",
+          "meaningKo": "우편",
           "example": {
             "sentence": "郵便が届きました。",
             "kana": "ゆうびんが とどきました。",
@@ -41404,12 +41404,12 @@
           "meaning": "Mailing",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "우편물",
+          "meaningKo": "우송",
           "example": {
             "sentence": "書類を郵送します。",
-            "kana": "しょるいを郵送（ゆうそう）します。",
+            "kana": "しょるいをゆうそうします。",
             "meaning": "I will mail the documents.",
-            "meaningKo": "서류를 우편으로 보냅니다."
+            "meaningKo": "서류를 우송으로 보냅니다."
           }
         },
         {
@@ -41419,37 +41419,37 @@
           "meaning": "Capital",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "도읍",
+          "meaningKo": "수도",
           "example": {
             "sentence": "京都は古い都です。",
             "kana": "きょうとはふるいみやこです。",
             "meaning": "Kyoto is an old capital.",
-            "meaningKo": "교토는 옛 도읍입니다."
+            "meaningKo": "교토는 옛 수도입니다."
           }
         },
         {
           "id": "n3-153-6",
           "kanji": "都会",
           "kana": "とかい [tokai]",
-          "meaning": "City",
+          "meaning": "downtown",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "도시",
+          "meaningKo": "도회지",
           "example": {
             "sentence": "都会は人が多い。",
             "kana": "とかいはひとがおおい。",
-            "meaning": "There are many people in the city.",
-            "meaningKo": "도시에는 사람이 많다."
+            "meaning": "There are many people in the downtown.",
+            "meaningKo": "도회지에는 사람이 많다."
           }
         },
         {
           "id": "n3-153-7",
           "kanji": "都市",
           "kana": "とし [toshi]",
-          "meaning": "Town",
+          "meaning": "city",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "마을",
+          "meaningKo": "도시",
           "example": {
             "sentence": "この都市は人口が多い。",
             "kana": "このとしはじんこうがおおい。",
@@ -41476,14 +41476,14 @@
           "id": "n3-153-9",
           "kanji": "配送",
           "kana": "はいそう [haisou]",
-          "meaning": "Delivery",
+          "meaning": "Shipping",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "배달",
+          "meaningKo": "배송",
           "example": {
             "sentence": "配送料は無料です。",
             "kana": "はいそうりょうは むりょうです。",
-            "meaning": "Delivery fee is free.",
+            "meaning": "Shipping fee is free.",
             "meaningKo": "배송료는 무료입니다."
           }
         },
@@ -41494,12 +41494,12 @@
           "meaning": "Delivery",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "배송",
+          "meaningKo": "배달",
           "example": {
             "sentence": "配達が遅れています。",
             "kana": "はいたつが おくれています。",
             "meaning": "The delivery is delayed.",
-            "meaningKo": "배송이 늦어지고 있습니다."
+            "meaningKo": "배달이 늦어지고 있습니다."
           }
         }
       ],
@@ -41541,7 +41541,7 @@
           "meaning": "To pile up",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "쌓이다",
+          "meaningKo": "쌓다",
           "example": {
             "sentence": "本を重ねる。",
             "kana": "ほんをかさねる。",
@@ -41555,13 +41555,13 @@
           "kana": "じゅうだい [juudai]",
           "meaning": "Serious",
           "grade": "N3",
-          "parts": "noun",
-          "meaningKo": "진지한",
+          "parts": "adjective",
+          "meaningKo": "중대한",
           "example": {
             "sentence": "重大な問題が起きた。",
             "kana": "じゅうだいなもんだいがおきた。",
             "meaning": "A serious problem occurred.",
-            "meaningKo": "심각한 문제가 발생했다."
+            "meaningKo": "중대한 문제가 발생했다."
           }
         },
         {
@@ -41574,7 +41574,7 @@
           "meaningKo": "중요한",
           "example": {
             "sentence": "健康は重要です。",
-            "kana": "けんこうは重要（じゅうよう）です。",
+            "kana": "けんこうはじゅうようです。",
             "meaning": "Health is important.",
             "meaningKo": "건강은 중요합니다."
           }
@@ -41586,10 +41586,10 @@
           "meaning": "Importance",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "중요성",
+          "meaningKo": "중시",
           "example": {
             "sentence": "健康を重視する。",
-            "kana": "けんこうを重視（じゅうし）する。",
+            "kana": "けんこうを重じゅうしする。",
             "meaning": "I place importance on health.",
             "meaningKo": "건강을 중시한다."
           }
@@ -41666,7 +41666,7 @@
           "meaningKo": "금속",
           "example": {
             "sentence": "この金属は軽いです。",
-            "kana": "この金属（きんぞく）は軽（かる）いです。",
+            "kana": "このきんぞくはかるいです。",
             "meaning": "This metal is light.",
             "meaningKo": "이 금속은 가볍습니다."
           }
@@ -41693,7 +41693,7 @@
           "meaning": "Finance",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "재원",
+          "meaningKo": "금융",
           "example": {
             "sentence": "金融会社で働いています。",
             "kana": "きんゆうがいしゃではたらいています。",
@@ -41708,12 +41708,12 @@
           "meaning": "Money",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "돈",
+          "meaningKo": "금전",
           "example": {
             "sentence": "金銭の管理は大切です。",
             "kana": "きんせんのかんりはたいせつです。",
             "meaning": "Money management is important.",
-            "meaningKo": "돈 관리는 중요합니다."
+            "meaningKo": "금전 관리는 중요합니다."
           }
         },
         {
@@ -41723,7 +41723,7 @@
           "meaning": "Amount of money",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "돈의 양",
+          "meaningKo": "금액",
           "example": {
             "sentence": "金額を確認してください。",
             "kana": "きんがくを かくにんして ください。",
@@ -41771,7 +41771,7 @@
           "meaningKo": "철",
           "example": {
             "sentence": "鉄は重い金属です。",
-            "kana": "てつは重（おも）い金属（きんぞく）です。",
+            "kana": "てつはおもいきんぞくです。",
             "meaning": "Iron is a heavy metal.",
             "meaningKo": "철은 무거운 금속입니다."
           }
@@ -41830,12 +41830,12 @@
           "meaning": "Copper coin",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "구리 동전",
+          "meaningKo": "동전",
           "example": {
             "sentence": "古い銅貨を見つけた。",
             "kana": "ふるいどうかをみつけた。",
             "meaning": "I found an old copper coin.",
-            "meaningKo": "오래된 구리 동전을 찾았다."
+            "meaningKo": "오래된 동전을 찾았다."
           }
         },
         {
@@ -41878,7 +41878,7 @@
           "meaningKo": "냄비",
           "example": {
             "sentence": "鍋でスープを作る。",
-            "kana": "なべでスープを作（つく）る。",
+            "kana": "なべでスープをつくる。",
             "meaning": "I make soup in a saucepan.",
             "meaningKo": "냄비로 스프를 만든다."
           }
@@ -41923,7 +41923,7 @@
           "meaningKo": "장수",
           "example": {
             "sentence": "祖母は長生きしました。",
-            "kana": "そぼは長生き（ながいき）しました。",
+            "kana": "そぼはながいきしました。",
             "meaning": "My grandmother lived a long life.",
             "meaningKo": "할머니는 장수하셨습니다."
           }
@@ -41938,7 +41938,7 @@
           "meaningKo": "닫다",
           "example": {
             "sentence": "本を閉じる。",
-            "kana": "ほんを閉(と)じる。",
+            "kana": "ほんをとじる。",
             "meaning": "Close the book.",
             "meaningKo": "책을 닫다."
           }
@@ -41950,7 +41950,7 @@
           "meaning": "Start",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "시작하다",
+          "meaningKo": "시작",
           "example": {
             "sentence": "会議の開始は九時です。",
             "kana": "かいぎのかいしはくじです。",
@@ -41967,12 +41967,12 @@
           "meaning": "Mistake",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "틀림",
+          "meaningKo": "실수",
           "example": {
             "sentence": "間違いを直した。",
             "kana": "まちがいを なおした。",
             "meaning": "I corrected the mistake.",
-            "meaningKo": "틀린 것을 고쳤다."
+            "meaningKo": "실수를 고쳤다."
           }
         },
         {
@@ -41985,7 +41985,7 @@
           "meaningKo": "실수하다",
           "example": {
             "sentence": "道を間違う。",
-            "kana": "みちを間違（まちが）う。",
+            "kana": "みちをまちがう。",
             "meaning": "I take the wrong road.",
             "meaningKo": "길을 잘못 가다."
           }
@@ -41994,10 +41994,10 @@
           "id": "n3-157-3",
           "kanji": "間隔",
           "kana": "かんかく [kankaku]",
-          "meaning": "Space",
+          "meaning": "interval",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "공간",
+          "meaningKo": "간격",
           "example": {
             "sentence": "電車の間隔が短い。",
             "kana": "でんしゃのかんかくがみじかい。",
@@ -42012,10 +42012,10 @@
           "meaning": "To concern",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "걱정하다",
+          "meaningKo": "관하다",
           "example": {
             "sentence": "健康に関する本を読んだ。",
-            "kana": "けんこうに関（かん）する本（ほん）を読（よ）んだ。",
+            "kana": "けんこうにかんするほんをよんだ。",
             "meaning": "I read a book about health.",
             "meaningKo": "건강에 관한 책을 읽었다."
           }
@@ -42027,7 +42027,7 @@
           "meaning": "To be concerned with",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "~과 관련이 있다",
+          "meaningKo": "관련되다",
           "example": {
             "sentence": "この問題に関わる人は誰ですか。",
             "kana": "このもんだいにかかわるひとはだれですか。",
@@ -42057,25 +42057,25 @@
           "meaning": "Relation",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "관계",
+          "meaningKo": "관련",
           "example": {
             "sentence": "この事件と関連がある。",
             "kana": "このじけんとかんれんがある。",
             "meaning": "There is a relation to this incident.",
-            "meaningKo": "이 사건과 관계가 있다."
+            "meaningKo": "이 사건과 관련이 있다."
           }
         },
         {
           "id": "n3-157-8",
           "kanji": "防ぐ",
           "kana": "ふせぐ [fusegu]",
-          "meaning": "To defend",
+          "meaning": "To prevent",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "방어하다",
+          "meaningKo": "예방하다",
           "example": {
             "sentence": "風邪を防ぐ。",
-            "kana": "かぜを防（ふせ）ぐ。",
+            "kana": "かぜをふせぐ。",
             "meaning": "Prevent a cold.",
             "meaningKo": "감기를 예방하다."
           }
@@ -42137,7 +42137,7 @@
           "meaningKo": "제외하다",
           "example": {
             "sentence": "私を除く全員が参加した。",
-            "kana": "わたしを除（のぞ）く全員（ぜんいん）が参加（さんか）した。",
+            "kana": "わたしをのぞくぜんいんがさんかした。",
             "meaning": "Everyone except me participated.",
             "meaningKo": "나를 제외하고 모든 사람이 참가했다."
           }
@@ -42152,7 +42152,7 @@
           "meaningKo": "날씨",
           "example": {
             "sentence": "今日は陽気がいいですね。",
-            "kana": "きょうは陽気（ようき）がいいですね。",
+            "kana": "きょうはようきがいいですね。",
             "meaning": "The weather is nice today, isn't it?",
             "meaningKo": "오늘은 날씨가 좋네요."
           }
@@ -42319,7 +42319,7 @@
           "meaningKo": "이혼",
           "example": {
             "sentence": "彼らは離婚した。",
-            "kana": "かれらは離婚（りこん）した。",
+            "kana": "かれらはりこんした。",
             "meaning": "They got divorced.",
             "meaningKo": "그들은 이혼했다."
           }
@@ -42343,10 +42343,10 @@
           "id": "n3-159-6",
           "kanji": "雷",
           "kana": "かみなり [kaminari]",
-          "meaning": "Lightning",
+          "meaning": "Lightning, Thunder",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "번개",
+          "meaningKo": "번개, 천둥",
           "example": {
             "sentence": "雷が鳴っています。",
             "kana": "かみなりが なっています。",
@@ -42423,7 +42423,7 @@
           "meaning": "Demand",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "요구하다",
+          "meaningKo": "수요",
           "example": {
             "sentence": "この商品の需要が高い。",
             "kana": "この しょうひんの じゅようが たかい。",
@@ -42483,7 +42483,7 @@
           "meaning": "Youth",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "젊음",
+          "meaningKo": "젊은이",
           "example": {
             "sentence": "青年が本を読んでいる。",
             "kana": "せいねんが ほんを よんでいる。",
@@ -42498,7 +42498,7 @@
           "meaning": "Emergency",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "긴급상황",
+          "meaningKo": "비상",
           "example": {
             "sentence": "非常ベルが鳴った。",
             "kana": "ひじょうベルがなった。",
@@ -42516,7 +42516,7 @@
           "meaningKo": "면",
           "example": {
             "sentence": "彼の面は長い。",
-            "kana": "かれの面（めん）は長（なが）い。",
+            "kana": "かれのめんはながい。",
             "meaning": "His face is long.",
             "meaningKo": "그의 얼굴은 길다."
           }
@@ -42528,10 +42528,10 @@
           "meaning": "Trouble",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "문제",
+          "meaningKo": "귀찮음, 성가심",
           "example": {
             "sentence": "宿題が面倒だ。",
-            "kana": "しゅくだいが面倒（めんどう）だ。",
+            "kana": "しゅくだいがめんどうだ。",
             "meaning": "Homework is troublesome.",
             "meaningKo": "숙제가 귀찮다."
           }
@@ -42543,7 +42543,7 @@
           "meaning": "Interview",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "회견",
+          "meaningKo": "면접",
           "example": {
             "sentence": "明日面接があります。",
             "kana": "あした めんせつ が あります。",
@@ -42619,8 +42619,8 @@
           "kana": "じゅんちょう [junchou]",
           "meaning": "Favorable",
           "grade": "N3",
-          "parts": "noun",
-          "meaningKo": "호의적이다",
+          "parts": "adjective",
+          "meaningKo": "순조로운",
           "example": {
             "sentence": "仕事は順調です。",
             "kana": "しごとは じゅんちょう です。",
@@ -42635,10 +42635,10 @@
           "meaning": "To give into custody",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "구금하다",
+          "meaningKo": "맡기다",
           "example": {
             "sentence": "荷物を預ける。",
-            "kana": "にもつを預（あず）ける。",
+            "kana": "にもつをあずける。",
             "meaning": "To check in luggage.",
             "meaningKo": "짐을 맡기다."
           }
@@ -42647,10 +42647,10 @@
           "id": "n3-161-6",
           "kanji": "領収書",
           "kana": "りょうしゅうしょ [ryoushuusho]",
-          "meaning": "Hand-written receipt",
+          "meaning": "Receipt",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "손으로 쓴 영수증",
+          "meaningKo": "영수증",
           "example": {
             "sentence": "領収書をください。",
             "kana": "りょうしゅうしょを ください。",
@@ -42698,7 +42698,7 @@
           "meaningKo": "자주",
           "example": {
             "sentence": "彼は頻りに時計を見た。",
-            "kana": "かれは頻（しき）りに時計（とけい）を見（み）た。",
+            "kana": "かれはしきりにとけいをみた。",
             "meaning": "He frequently looked at his watch.",
             "meaningKo": "그는 자주 시계를 봤다."
           }
@@ -42713,7 +42713,7 @@
           "meaningKo": "의지하다",
           "example": {
             "sentence": "親に頼るのは嫌だ。",
-            "kana": "おやに頼（たよ）るのは嫌（いや）だ。",
+            "kana": "おやにたよるのはいやだ。",
             "meaning": "I don't like relying on my parents.",
             "meaningKo": "부모님에게 의지하는 것은 싫다."
           }
@@ -42742,7 +42742,7 @@
           "meaning": "Desire",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "욕망",
+          "meaningKo": "소원",
           "example": {
             "sentence": "願いが叶った。",
             "kana": "ねがいが かなった。",
@@ -42760,7 +42760,7 @@
           "meaningKo": "원하다",
           "example": {
             "sentence": "健康を願う。",
-            "kana": "けんこうを願（ねが）う。",
+            "kana": "けんこうをねがう。",
             "meaning": "I wish for good health.",
             "meaningKo": "건강을 원한다."
           }
@@ -42787,7 +42787,7 @@
           "meaning": "To fly",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "날다",
+          "meaningKo": "날리다",
           "example": {
             "sentence": "紙飛行機を飛ばす。",
             "kana": "かみひこうきを飛ばす。",
@@ -42802,7 +42802,7 @@
           "meaning": "Aviation",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "항공",
+          "meaningKo": "비행",
           "example": {
             "sentence": "飛行機で旅行します。",
             "kana": "ひこうきでりょこうします。",
@@ -42820,7 +42820,7 @@
           "meaningKo": "먹다",
           "example": {
             "sentence": "猫が魚を食う。",
-            "kana": "ねこがさかなを食う（くう）。",
+            "kana": "ねこがさかなをくう。",
             "meaning": "The cat eats fish.",
             "meaningKo": "고양이가 생선을 먹는다."
           }
@@ -42879,7 +42879,7 @@
           "meaning": "Food",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "음식",
+          "meaningKo": "식량",
           "example": {
             "sentence": "食料が足りない。",
             "kana": "しょくりょうが たりない。",
@@ -42909,7 +42909,7 @@
           "meaning": "Food",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "식품",
+          "meaningKo": "음식",
           "example": {
             "sentence": "食物を大切にする。",
             "kana": "しょくもつを たいせつに する。",
@@ -42957,7 +42957,7 @@
           "meaningKo": "음료수",
           "example": {
             "sentence": "飲料を買いに行く。",
-            "kana": "いんりょうを買（か）いに行（い）く。",
+            "kana": "いんりょうをかいにいく。",
             "meaning": "I'm going to buy beverages.",
             "meaningKo": "음료수를 사러 간다."
           }
@@ -42984,7 +42984,7 @@
           "meaning": "To keep",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "유지하다",
+          "meaningKo": "기르다",
           "example": {
             "sentence": "犬を飼うつもりです。",
             "kana": "いぬをかうつもりです。",
@@ -42999,7 +42999,7 @@
           "meaning": "To get tired of",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "피곤하다",
+          "meaningKo": "질리다",
           "example": {
             "sentence": "同じ音楽に飽きる。",
             "kana": "おなじおんがくにあきる。",
@@ -43017,7 +43017,7 @@
           "meaningKo": "장식",
           "example": {
             "sentence": "部屋の飾りが美しい。",
-            "kana": "へやの飾（かざ）りが美（うつく）しい。",
+            "kana": "へやのかざりがうつくしい。",
             "meaning": "The room's decorations are beautiful.",
             "meaningKo": "방의 장식이 아름답다."
           }
@@ -43198,7 +43198,7 @@
           "meaning": "Bone fracture",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "뼈 골절",
+          "meaningKo": "골절",
           "example": {
             "sentence": "足を骨折した。",
             "kana": "あしをこっせつした。",
@@ -43213,7 +43213,7 @@
           "meaning": "High price",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "높은 가격",
+          "meaningKo": "고가",
           "example": {
             "sentence": "この時計は高価だ。",
             "kana": "このとけいはこうかだ。",
@@ -43261,7 +43261,7 @@
           "meaningKo": "귀신",
           "example": {
             "sentence": "鬼が出る話を聞いた。",
-            "kana": "おにが出（で）る話（はなし）を聞（き）いた。",
+            "kana": "おにがでるはなしをきいた。",
             "meaning": "I heard a story about demons appearing.",
             "meaningKo": "귀신이 나오는 이야기를 들었다."
           }
@@ -43276,7 +43276,7 @@
           "meaningKo": "매력",
           "example": {
             "sentence": "彼の魅力は笑顔だ。",
-            "kana": "かれの魅力（みりょく）は笑顔（えがお）だ。",
+            "kana": "かれのみりょくはえがおだ。",
             "meaning": "His charm is his smile.",
             "meaningKo": "그의 매력은 미소다."
           }
@@ -43336,8 +43336,8 @@
           "kana": "あっさり [assari]",
           "meaning": "Easily",
           "grade": "N2",
-          "parts": "noun",
-          "meaningKo": "깨끗하게",
+          "parts": "adverb",
+          "meaningKo": "간단하게",
           "example": {
             "sentence": "彼はあっさり諦めた。",
             "kana": "かれはあっさりあきらめた。",
@@ -43352,12 +43352,12 @@
           "meaning": "Now",
           "grade": "N2",
           "parts": "adverb",
-          "meaningKo": "자 (권유)",
+          "meaningKo": "자, 이제",
           "example": {
-            "sentence": "いざという時に備える。",
-            "kana": "いざというときにそなえる。",
-            "meaning": "Prepare for when the time comes.",
-            "meaningKo": "유사시에 대비한다."
+            "sentence": "いざ、出発しよう。",
+            "kana": "いざ、しゅっぱつしよう。",
+            "meaning": "Now, let's depart.",
+            "meaningKo": "자, 출발하자."
           }
         },
         {
@@ -43382,7 +43382,7 @@
           "meaning": "Show signs of being",
           "grade": "N2",
           "parts": "verb",
-          "meaningKo": "~해 하다 (감정을 나타냄)",
+          "meaningKo": "~해 하다 (감정)",
           "example": {
             "sentence": "子供が怖がる",
             "kana": "こどもがこわがる",
@@ -43397,7 +43397,7 @@
           "meaning": "Suddenly",
           "grade": "N2",
           "parts": "adverb",
-          "meaningKo": "힘을 주어 단숨에 하는 모양",
+          "meaningKo": "단숨에",
           "example": {
             "sentence": "気温がぐっと下がった。",
             "kana": "きおんがぐっとさがった。",
@@ -43409,15 +43409,15 @@
           "id": "n2-1-6",
           "kanji": "すんなり",
           "kana": "すんなり [sunnari]",
-          "meaning": "Slim",
+          "meaning": "Smoothly",
           "grade": "N2",
-          "parts": "noun",
-          "meaningKo": "매끄럽게",
+          "parts": "adverb",
+          "meaningKo": "순조롭게",
           "example": {
-            "sentence": "彼女はすんなりした体型だ。",
-            "kana": "かのじょはすんなりしたたいけいだ。",
-            "meaning": "She has a slim figure.",
-            "meaningKo": "그녀는 날씬한 체형이다."
+            "sentence": "交渉がすんなり進んだ。",
+            "kana": "こうしょうがすんなりすすんだ。",
+            "meaning": "The negotiation went smoothly.",
+            "meaningKo": "협상이 순조롭게 진행됐다."
           }
         },
         {
@@ -43441,7 +43441,7 @@
           "kana": "ひょっと [hyotto]",
           "meaning": "Possibly",
           "grade": "N2",
-          "parts": "noun",
+          "parts": "adverb",
           "meaningKo": "만약",
           "example": {
             "sentence": "ひょっと彼が来るかも。",
@@ -43454,10 +43454,10 @@
           "id": "n2-1-9",
           "kanji": "ほっと",
           "kana": "ほっと [hotto]",
-          "meaning": "With a feeling of relief",
+          "meaning": "Relieved",
           "grade": "N2",
-          "parts": "noun",
-          "meaningKo": "안도하는 모양",
+          "parts": "adverb",
+          "meaningKo": "안심하며",
           "example": {
             "sentence": "試験が終わってほっとした。",
             "kana": "しけんがおわってほっとした。",
@@ -43489,7 +43489,7 @@
           "meaning": "Irresponsible",
           "grade": "N2",
           "parts": "adjective",
-          "meaningKo": "책임지지 않는",
+          "meaningKo": "무책임한",
           "example": {
             "sentence": "いい加減な仕事はダメだ。",
             "kana": "いいかげんなしごとはダメだ。",
@@ -43507,7 +43507,7 @@
           "meaningKo": "잘 어울림",
           "example": {
             "sentence": "その服、お似合いですね。",
-            "kana": "その服（ふく）、お似合（にあ）いですね。",
+            "kana": "そのふく、お似にあいですね。",
             "meaning": "That outfit looks good on you.",
             "meaningKo": "그 옷이 잘 어울리네요."
           }
@@ -43534,12 +43534,12 @@
           "meaning": "Economical",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "경제적",
+          "meaningKo": "이득",
           "example": {
             "sentence": "この商品はお得ですね。",
             "kana": "このしょうひんはおとくですね。",
             "meaning": "This product is economical, isn't it?",
-            "meaningKo": "이 상품은 경제적이네요."
+            "meaningKo": "이 상품은 가성비가 좋네요."
           }
         },
         {
@@ -43549,7 +43549,7 @@
           "meaning": "Trouble",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "문제",
+          "meaningKo": "번거로움",
           "example": {
             "sentence": "お手数をおかけします。",
             "kana": "おてすうをおかけします。",
@@ -43591,10 +43591,10 @@
           "id": "n2-2-8",
           "kanji": "ご覧なさい",
           "kana": "ごらんなさい [gorannasai]",
-          "meaning": "(please) look",
+          "meaning": "please look",
           "grade": "N2",
           "parts": "expression",
-          "meaningKo": "(제발) 봐주세요",
+          "meaningKo": "봐주세요",
           "example": {
             "sentence": "この絵をご覧なさい。",
             "kana": "このえをごらんなさい。",
@@ -43609,7 +43609,7 @@
           "meaning": "Passing each other",
           "grade": "N2",
           "parts": "noun",
-          "meaningKo": "서로 지나가다",
+          "meaningKo": "엇갈림, 스쳐 지나감",
           "example": {
             "sentence": "駅ですれ違いました。",
             "kana": "えきですれちがいました。",
@@ -43674,7 +43674,7 @@
           "meaningKo": "보람",
           "example": {
             "sentence": "この仕事はやり甲斐がある。",
-            "kana": "この仕事（しごと）はやり甲斐（がい）がある。",
+            "kana": "このしごとはやりがいがある。",
             "meaning": "This job is rewarding.",
             "meaningKo": "이 일은 보람이 있다."
           }
@@ -44524,7 +44524,7 @@
           "meaningKo": "계전기",
           "example": {
             "sentence": "試合の中継を見た。",
-            "kana": "しあいの中継（ちゅうけい）を見（み）た。",
+            "kana": "しあいの中継（ちゅうけい）をみた。",
             "meaning": "I watched the broadcast of the game.",
             "meaningKo": "경기 중계를 봤다."
           }
@@ -44890,7 +44890,7 @@
           "meaningKo": "문제",
           "example": {
             "sentence": "重要な事柄を話し合った。",
-            "kana": "じゅうような事柄（ことがら）を話（はな）し合（あ）った。",
+            "kana": "じゅうような事柄（ことがら）をはなし合（あ）った。",
             "meaning": "We discussed important matters.",
             "meaningKo": "중요한 문제를 논의했다."
           }
@@ -44950,7 +44950,7 @@
           "meaningKo": "모임",
           "example": {
             "sentence": "今度の交流会に参加します。",
-            "kana": "こんどの交流会（こうりゅうかい）に参加（さんか）します。",
+            "kana": "こんどの交流会（こうりゅうかい）にさんかします。",
             "meaning": "I will participate in the upcoming gathering.",
             "meaningKo": "이번 모임에 참가합니다."
           }
@@ -45299,7 +45299,7 @@
           "meaningKo": "전염",
           "example": {
             "sentence": "病気の伝染を防ぐ。",
-            "kana": "びょうきの伝染（でんせん）を防（ふせ）ぐ。",
+            "kana": "びょうきの伝染（でんせん）をふせぐ。",
             "meaning": "Prevent the spread of disease.",
             "meaningKo": "질병의 전염을 막다."
           }
@@ -45620,7 +45620,7 @@
           "meaningKo": "작성",
           "example": {
             "sentence": "資料の作成をお願いします。",
-            "kana": "しりょうの作成（さくせい）をお願（ねが）いします。",
+            "kana": "しりょうの作成（さくせい）をおねがいします。",
             "meaning": "Please draw up the materials.",
             "meaningKo": "자료 작성을 부탁드립니다."
           }
@@ -45755,7 +45755,7 @@
           "meaningKo": "유지하다",
           "example": {
             "sentence": "健康を保つのは大切だ。",
-            "kana": "けんこうを保（たも）つのは大切（たいせつ）だ。",
+            "kana": "けんこうを保（たも）つのはたいせつだ。",
             "meaning": "It is important to maintain one's health.",
             "meaningKo": "건강을 유지하는 것은 중요하다."
           }
@@ -45832,7 +45832,7 @@
           "meaningKo": "신뢰성",
           "example": {
             "sentence": "この製品の信頼性は高い。",
-            "kana": "この製品（せいひん）の信頼性（しんらいせい）は高（たか）い。",
+            "kana": "この製品（せいひん）の信頼性（しんらいせい）はたかい。",
             "meaning": "The reliability of this product is high.",
             "meaningKo": "이 제품의 신뢰성은 높다."
           }
@@ -46196,7 +46196,7 @@
           "meaningKo": "의식",
           "example": {
             "sentence": "結婚の儀式は美しかった。",
-            "kana": "けっこんの儀式（ぎしき）は美（うつく）しかった。",
+            "kana": "けっこんの儀式（ぎしき）はうつくしかった。",
             "meaning": "The wedding ceremony was beautiful.",
             "meaningKo": "결혼 의식이 아름다웠다."
           }
@@ -46699,7 +46699,7 @@
           "meaningKo": "안쪽",
           "example": {
             "sentence": "箱の内側を見てください。",
-            "kana": "はこの内側（うちがわ）を見（み）てください。",
+            "kana": "はこの内側（うちがわ）をみてください。",
             "meaning": "Please look inside the box.",
             "meaningKo": "상자 안쪽을 봐주세요."
           }
@@ -46819,7 +46819,7 @@
           "meaningKo": "반품",
           "example": {
             "sentence": "病気の再発が心配だ。",
-            "kana": "びょうきの再発（さいはつ）が心配（しんぱい）だ。",
+            "kana": "びょうきの再発（さいはつ）がしんぱいだ。",
             "meaning": "I'm worried about the disease recurring.",
             "meaningKo": "병의 재발이 걱정이다."
           }
@@ -47155,7 +47155,7 @@
           "meaningKo": "분량",
           "example": {
             "sentence": "薬の分量を間違えた。",
-            "kana": "くすりの分量（ぶんりょう）を間違（まちが）えた。",
+            "kana": "くすりの分量（ぶんりょう）をまちがえた。",
             "meaning": "I got the amount of medicine wrong.",
             "meaningKo": "약의 분량을 잘못했다."
           }
@@ -47671,7 +47671,7 @@
           "meaningKo": "움직임",
           "example": {
             "sentence": "彼の動きが速い。",
-            "kana": "かれの動（うご）きが速（はや）い。",
+            "kana": "かれの動（うご）きがはやい。",
             "meaning": "His movement is fast.",
             "meaningKo": "그의 움직임이 빠르다."
           }
@@ -48690,7 +48690,7 @@
           "meaningKo": "실현되다",
           "example": {
             "sentence": "夢が叶う日が来た。",
-            "kana": "ゆめが叶（かな）う日（ひ）が来（き）た。",
+            "kana": "ゆめが叶（かな）う日（ひ）がきた。",
             "meaning": "The day my dream comes true has arrived.",
             "meaningKo": "꿈이 실현되는 날이 왔다."
           }
@@ -48887,7 +48887,7 @@
           "meaningKo": "명물",
           "example": {
             "sentence": "この街の名物は何ですか。",
-            "kana": "このまちの名物（めいぶつ）は何（なん）ですか。",
+            "kana": "このまちの名物（めいぶつ）はなんですか。",
             "meaning": "What is this town's famous product?",
             "meaningKo": "이 동네의 명물이 무엇입니까?"
           }
@@ -49084,7 +49084,7 @@
           "meaningKo": "도전하다",
           "example": {
             "sentence": "友達を呼び止める。",
-            "kana": "ともだちを呼（よ）び止（と）める。",
+            "kana": "ともだちを呼（よ）びとめる。",
             "meaning": "I call out to stop my friend.",
             "meaningKo": "친구를 불러 세우다."
           }
@@ -49388,7 +49388,7 @@
           "meaningKo": "도표",
           "example": {
             "sentence": "図表を見て説明します。",
-            "kana": "ずひょうを見（み）て説明（せつめい）します。",
+            "kana": "ずひょうをみて説明（せつめい）します。",
             "meaning": "I will explain while looking at the chart.",
             "meaningKo": "도표를 보고 설명하겠습니다."
           }
@@ -49814,7 +49814,7 @@
           "meaningKo": "바깥쪽",
           "example": {
             "sentence": "箱の外側に名前を書く。",
-            "kana": "はこの外側（そとがわ）に名前（なまえ）を書（か）く。",
+            "kana": "はこの外側（そとがわ）に名前（なまえ）をかく。",
             "meaning": "Write your name on the outside of the box.",
             "meaningKo": "상자의 바깥쪽에 이름을 쓴다."
           }
@@ -49859,7 +49859,7 @@
           "meaningKo": "많음",
           "example": {
             "sentence": "多くの人が参加した。",
-            "kana": "おおくの人（ひと）が参加（さんか）した。",
+            "kana": "おおくのひとがさんかした。",
             "meaning": "Many people participated.",
             "meaningKo": "많은 사람이 참가했다."
           }
@@ -50332,7 +50332,7 @@
           "meaningKo": "호불호",
           "example": {
             "sentence": "好き嫌いが多い子だ。",
-            "kana": "すききらいが多（おお）い子（こ）だ。",
+            "kana": "すききらいがおおい子（こ）だ。",
             "meaning": "That child is very picky.",
             "meaningKo": "호불호가 많은 아이다."
           }
@@ -51456,7 +51456,7 @@
           "meaningKo": "적은 돈",
           "example": {
             "sentence": "小金を貯めて旅行に行く。",
-            "kana": "こがねを貯（た）めて旅行（りょこう）に行（い）く。",
+            "kana": "こがねをためて旅行（りょこう）にいく。",
             "meaning": "I'll save up a small sum of money and go on a trip.",
             "meaningKo": "적은 돈을 모아서 여행을 간다."
           }
@@ -51623,7 +51623,7 @@
           "meaningKo": "이력서",
           "example": {
             "sentence": "履歴書を書いた。",
-            "kana": "りれきしょを書（か）いた。",
+            "kana": "りれきしょをかいた。",
             "meaning": "I wrote a resume.",
             "meaningKo": "이력서를 썼다."
           }
@@ -51972,7 +51972,7 @@
           "meaningKo": "퍼짐",
           "example": {
             "sentence": "火事の広がりが心配だ。",
-            "kana": "かじの広（ひろ）がりが心配（しんぱい）だ。",
+            "kana": "かじの広（ひろ）がりがしんぱいだ。",
             "meaning": "I'm worried about the spread of the fire.",
             "meaningKo": "화재의 확산이 걱정된다."
           }
@@ -52124,7 +52124,7 @@
           "meaningKo": "만류하다",
           "example": {
             "sentence": "友人を引き止める。",
-            "kana": "ゆうじんを引（ひ）き止（と）める。",
+            "kana": "ゆうじんを引（ひ）きとめる。",
             "meaning": "I detain my friend.",
             "meaningKo": "친구를 붙잡다."
           }
@@ -52261,7 +52261,7 @@
           "meaningKo": "종이 패치",
           "example": {
             "sentence": "壁の張り紙を見た。",
-            "kana": "かべの張り紙（はりがみ）を見（み）た。",
+            "kana": "かべの張り紙（はりがみ）をみた。",
             "meaning": "I saw the paper posted on the wall.",
             "meaningKo": "벽에 붙은 종이를 보았다."
           }
@@ -52443,7 +52443,7 @@
           "meaningKo": "조각",
           "example": {
             "sentence": "美しい木の彫刻を見た。",
-            "kana": "うつくしいきの彫刻（ちょうこく）を見（み）た。",
+            "kana": "うつくしいきの彫刻（ちょうこく）をみた。",
             "meaning": "I saw a beautiful wood carving.",
             "meaningKo": "아름다운 나무 조각을 보았다."
           }
@@ -53462,7 +53462,7 @@
           "meaningKo": "애착",
           "example": {
             "sentence": "この本に愛着がある。",
-            "kana": "この本（ほん）に愛着（あいちゃく）がある。",
+            "kana": "このほんに愛着（あいちゃく）がある。",
             "meaning": "I have an attachment to this book.",
             "meaningKo": "이 책에 애착이 있다."
           }
@@ -53736,7 +53736,7 @@
           "meaningKo": "소유",
           "example": {
             "sentence": "この土地は私の所有です。",
-            "kana": "この土地（とち）は私（わたし）の所有（しょゆう）です。",
+            "kana": "この土地（とち）はわたしの所有（しょゆう）です。",
             "meaning": "This land is my possession.",
             "meaningKo": "이 땅은 내 소유입니다."
           }
@@ -53873,7 +53873,7 @@
           "meaningKo": "재빠른",
           "example": {
             "sentence": "彼女は手早く料理を作った。",
-            "kana": "かのじょは手早（てばや）く料理（りょうり）を作（つく）った。",
+            "kana": "かのじょは手早（てばや）く料理（りょうり）をつくった。",
             "meaning": "She cooked the meal quickly and skillfully.",
             "meaningKo": "그녀는 재빠르게 요리를 만들었다."
           }
@@ -54526,7 +54526,7 @@
           "meaningKo": "프레젠테이션",
           "example": {
             "sentence": "資料の提示をお願いします。",
-            "kana": "しりょうの提示（ていじ）をお願（ねが）いします。",
+            "kana": "しりょうの提示（ていじ）をおねがいします。",
             "meaning": "Please present the materials.",
             "meaningKo": "자료 제시를 부탁드립니다."
           }
@@ -54648,7 +54648,7 @@
           "meaningKo": "개정",
           "example": {
             "sentence": "教科書の改訂版が出た。",
-            "kana": "きょうかしょの改訂版（かいていばん）が出（で）た。",
+            "kana": "きょうかしょの改訂版（かいていばん）がでた。",
             "meaning": "A revised edition of the textbook was published.",
             "meaningKo": "교과서의 개정판이 나왔다."
           }
@@ -54860,7 +54860,7 @@
           "meaningKo": "수많이",
           "example": {
             "sentence": "数多くの人が参加した。",
-            "kana": "かずおおくの人（ひと）が参加（さんか）した。",
+            "kana": "かずおおくのひとがさんかした。",
             "meaning": "Many people participated.",
             "meaningKo": "수많은 사람들이 참가했다."
           }
@@ -55149,7 +55149,7 @@
           "meaningKo": "일과",
           "example": {
             "sentence": "散歩は私の日課です。",
-            "kana": "さんぽは私（わたし）の日課（にっか）です。",
+            "kana": "さんぽはわたしの日課（にっか）です。",
             "meaning": "Taking a walk is my daily routine.",
             "meaningKo": "산책은 나의 일과입니다."
           }
@@ -55483,7 +55483,7 @@
           "meaningKo": "서점",
           "example": {
             "sentence": "駅前の書店で本を買った。",
-            "kana": "えきまえの書店（しょてん）で本（ほん）を買（か）った。",
+            "kana": "えきまえの書店（しょてん）でほんをかった。",
             "meaning": "I bought a book at the bookstore in front of the station.",
             "meaningKo": "역 앞 서점에서 책을 샀다."
           }
@@ -56168,7 +56168,7 @@
           "meaningKo": "뿌리",
           "example": {
             "sentence": "木の根っこが見える。",
-            "kana": "きの根（ね）っこが見（み）える。",
+            "kana": "きの根（ね）っこがみえる。",
             "meaning": "The roots of the tree are visible.",
             "meaningKo": "나무의 뿌리가 보인다."
           }
@@ -56442,7 +56442,7 @@
           "meaningKo": "모델",
           "example": {
             "sentence": "飛行機の模型を作った。",
-            "kana": "ひこうきの模型（もけい）を作（つく）った。",
+            "kana": "ひこうきの模型（もけい）をつくった。",
             "meaning": "I made an airplane model.",
             "meaningKo": "비행기 모형을 만들었다."
           }
@@ -56532,7 +56532,7 @@
           "meaningKo": "빠뜨리다",
           "example": {
             "sentence": "朝食を欠かす日が多い。",
-            "kana": "ちょうしょくを欠（か）かす日（ひ）が多（おお）い。",
+            "kana": "ちょうしょくを欠（か）かす日（ひ）がおおい。",
             "meaning": "There are many days when I skip breakfast.",
             "meaningKo": "아침식사를 거르는 날이 많다."
           }
@@ -57247,7 +57247,7 @@
           "meaningKo": "주의 깊은",
           "example": {
             "sentence": "彼は注意深い人だ。",
-            "kana": "かれは注意深い（ちゅういぶかい）人（ひと）だ。",
+            "kana": "かれは注意深い（ちゅういぶかい）ひとだ。",
             "meaning": "He is a careful person.",
             "meaningKo": "그는 주의 깊은 사람이다."
           }
@@ -57354,7 +57354,7 @@
           "meaningKo": "활자",
           "example": {
             "sentence": "活字が小さくて読めない。",
-            "kana": "かつじが小（ちい）さくて読（よ）めない。",
+            "kana": "かつじが小（ちい）さくてよめない。",
             "meaning": "The print is too small to read.",
             "meaningKo": "활자가 작아서 읽을 수 없다."
           }
@@ -58388,7 +58388,7 @@
           "meaningKo": "특색",
           "example": {
             "sentence": "この町の特色は何ですか。",
-            "kana": "このまちの特色（とくしょく）は何（なん）ですか。",
+            "kana": "このまちの特色（とくしょく）はなんですか。",
             "meaning": "What is the characteristic of this town?",
             "meaningKo": "이 마을의 특색은 무엇입니까?"
           }
@@ -58570,7 +58570,7 @@
           "meaningKo": "이과",
           "example": {
             "sentence": "彼は理系の学生です。",
-            "kana": "かれは理系（りけい）の学生（がくせい）です。",
+            "kana": "かれは理系（りけい）のがくせいです。",
             "meaning": "He is a science student.",
             "meaningKo": "그는 이과 학생입니다."
           }
@@ -58645,7 +58645,7 @@
           "meaningKo": "생중계",
           "example": {
             "sentence": "試合を生中継で見た。",
-            "kana": "しあいを生中継（なまちゅうけい）で見（み）た。",
+            "kana": "しあいを生中継（なまちゅうけい）でみた。",
             "meaning": "I watched the game on live broadcast.",
             "meaningKo": "경기를 생중계로 봤다."
           }
@@ -59375,7 +59375,7 @@
           "meaningKo": "차례로",
           "example": {
             "sentence": "事故が相次いで起きた。",
-            "kana": "じこが相次（あいつ）いで起（お）きた。",
+            "kana": "じこが相次（あいつ）いでおきた。",
             "meaning": "Accidents occurred one after the other.",
             "meaningKo": "사고가 차례로 일어났다."
           }
@@ -60242,7 +60242,7 @@
           "meaningKo": "가을 색",
           "example": {
             "sentence": "京都の紅葉が美しい。",
-            "kana": "きょうとの紅葉（こうよう）が美（うつく）しい。",
+            "kana": "きょうとの紅葉（こうよう）がうつくしい。",
             "meaning": "Kyoto's autumn colors are beautiful.",
             "meaningKo": "교토의 가을 색이 아름답다."
           }
@@ -60287,7 +60287,7 @@
           "meaningKo": "순수",
           "example": {
             "sentence": "彼女は純粋な人だ。",
-            "kana": "かのじょは純粋（じゅんすい）な人（ひと）だ。",
+            "kana": "かのじょは純粋（じゅんすい）なひとだ。",
             "meaning": "She is a pure person.",
             "meaningKo": "그녀는 순수한 사람이다."
           }
@@ -60317,7 +60317,7 @@
           "meaningKo": "재료",
           "example": {
             "sentence": "この素材は何ですか。",
-            "kana": "この素材（そざい）は何（なん）ですか。",
+            "kana": "この素材（そざい）はなんですか。",
             "meaning": "What is this ingredient?",
             "meaningKo": "이 재료는 무엇입니까?"
           }
@@ -60606,7 +60606,7 @@
           "meaningKo": "연속해서",
           "example": {
             "sentence": "お客さんが続々と来た。",
-            "kana": "おきゃくさんが続々（ぞくぞく）と来（き）た。",
+            "kana": "おきゃくさんが続々（ぞくぞく）ときた。",
             "meaning": "Customers came one after another.",
             "meaningKo": "손님들이 연속해서 왔다."
           }
@@ -60940,7 +60940,7 @@
           "meaningKo": "알아듣다",
           "example": {
             "sentence": "電話が聞き取れない。",
-            "kana": "でんわが聞（き）き取（と）れない。",
+            "kana": "でんわがきき取（と）れない。",
             "meaning": "I can't catch what's being said on the phone.",
             "meaningKo": "전화 내용을 알아들을 수 없다."
           }
@@ -61670,7 +61670,7 @@
           "meaningKo": "축적",
           "example": {
             "sentence": "経験の蓄積が大切だ。",
-            "kana": "けいけんの蓄積（ちくせき）が大切（たいせつ）だ。",
+            "kana": "けいけんの蓄積（ちくせき）がたいせつだ。",
             "meaning": "The accumulation of experience is important.",
             "meaningKo": "경험의 축적이 중요하다."
           }
@@ -62036,7 +62036,7 @@
           "meaningKo": "요지",
           "example": {
             "sentence": "報告書の要旨を読んだ。",
-            "kana": "ほうこくしょの要旨（ようし）を読（よ）んだ。",
+            "kana": "ほうこくしょの要旨（ようし）をよんだ。",
             "meaning": "I read the main points of the report.",
             "meaningKo": "보고서의 요지를 읽었다."
           }
@@ -62066,7 +62066,7 @@
           "meaningKo": "구별하다",
           "example": {
             "sentence": "双子を見分けるのは難しい。",
-            "kana": "ふたごを見分（みわ）けるのは難（むずか）しい。",
+            "kana": "ふたごを見分（みわ）けるのはむずかしい。",
             "meaning": "It's difficult to distinguish between twins.",
             "meaningKo": "쌍둥이를 구별하는 것은 어렵다."
           }
@@ -62582,7 +62582,7 @@
           "meaningKo": "서로 접촉함",
           "example": {
             "sentence": "人との触れ合いを大切にする。",
-            "kana": "ひととの触（ふ）れ合（あ）いを大切（たいせつ）にする。",
+            "kana": "ひととの触（ふ）れ合（あ）いをたいせつにする。",
             "meaning": "I value contact with people.",
             "meaningKo": "사람과의 접촉을 소중히 한다."
           }
@@ -63038,7 +63038,7 @@
           "meaningKo": "주제",
           "example": {
             "sentence": "今日の課題は難しい。",
-            "kana": "きょうの課題（かだい）は難（むずか）しい。",
+            "kana": "きょうの課題（かだい）はむずかしい。",
             "meaning": "Today's assignment is difficult.",
             "meaningKo": "오늘의 과제는 어렵다."
           }
@@ -63160,7 +63160,7 @@
           "meaningKo": "겸허",
           "example": {
             "sentence": "彼は謙虚な人だ。",
-            "kana": "かれは謙虚（けんきょ）な人（ひと）だ。",
+            "kana": "かれは謙虚（けんきょ）なひとだ。",
             "meaning": "He is a modest person.",
             "meaningKo": "그는 겸허한 사람이다."
           }
@@ -63267,7 +63267,7 @@
           "meaningKo": "부담",
           "example": {
             "sentence": "医療費の負担が重い。",
-            "kana": "いりょうひの負担（ふたん）が重（おも）い。",
+            "kana": "いりょうひの負担（ふたん）がおもい。",
             "meaning": "The burden of medical expenses is heavy.",
             "meaningKo": "의료비 부담이 무겁다."
           }
@@ -63753,7 +63753,7 @@
           "meaningKo": "접근하다",
           "example": {
             "sentence": "車が近づく音が聞こえる。",
-            "kana": "くるまが近（ちか）づく音（おと）が聞（き）こえる。",
+            "kana": "くるまが近（ちか）づく音（おと）がきこえる。",
             "meaning": "I can hear the sound of a car approaching.",
             "meaningKo": "차가 다가오는 소리가 들린다."
           }
@@ -64284,7 +64284,7 @@
           "meaningKo": "진화",
           "example": {
             "sentence": "技術の進化は速い。",
-            "kana": "ぎじゅつの進化（しんか）は速（はや）い。",
+            "kana": "ぎじゅつの進化（しんか）ははやい。",
             "meaning": "The evolution of technology is fast.",
             "meaningKo": "기술의 진화는 빠르다."
           }
@@ -64755,7 +64755,7 @@
           "meaningKo": "무게",
           "example": {
             "sentence": "言葉に重みがある。",
-            "kana": "ことばに重（おも）みがある。",
+            "kana": "ことばにおもみがある。",
             "meaning": "The words carry weight.",
             "meaningKo": "말에 무게가 있다."
           }
@@ -65592,7 +65592,7 @@
           "meaningKo": "적응",
           "example": {
             "sentence": "新環境への順応が大切だ。",
-            "kana": "しんかんきょうへの順応（じゅんのう）が大切（たいせつ）だ。",
+            "kana": "しんかんきょうへの順応（じゅんのう）がたいせつだ。",
             "meaning": "Adaptation to new environments is important.",
             "meaningKo": "새로운 환경에 적응하는 것이 중요하다."
           }
@@ -65851,7 +65851,7 @@
           "meaningKo": "싫증",
           "example": {
             "sentence": "飽きが来て辞めた。",
-            "kana": "あきが来（き）て辞（や）めた。",
+            "kana": "あきがきて辞（や）めた。",
             "meaning": "I quit because I got tired of it.",
             "meaningKo": "싫증이 나서 그만뒀다."
           }
@@ -66048,7 +66048,7 @@
           "meaningKo": "상승하다",
           "example": {
             "sentence": "緊張が高まる。",
-            "kana": "きんちょうが高（たか）まる。",
+            "kana": "きんちょうがたかまる。",
             "meaning": "Tension rises.",
             "meaningKo": "긴장이 고조된다."
           }
@@ -66521,7 +66521,7 @@
           "meaningKo": "모두",
           "example": {
             "sentence": "彼は一切話さなかった。",
-            "kana": "かれは一切（いっさい）話（はな）さなかった。",
+            "kana": "かれは一切（いっさい）はなさなかった。",
             "meaning": "He didn't speak at all.",
             "meaningKo": "그는 전혀 말하지 않았다."
           }
@@ -67600,7 +67600,7 @@
           "meaningKo": "겉치레말",
           "example": {
             "sentence": "彼の世辞は聞き飽きた。",
-            "kana": "かれの世辞（せじ）は聞（き）き飽（あ）きた。",
+            "kana": "かれの世辞（せじ）はきき飽（あ）きた。",
             "meaning": "I'm tired of hearing his flattery.",
             "meaningKo": "그의 겉치레말은 듣기 지겹다."
           }
@@ -68709,7 +68709,7 @@
           "meaningKo": "육아",
           "example": {
             "sentence": "母の介護で仕事を辞めた。",
-            "kana": "ははの介護（かいご）で仕事（しごと）を辞（や）めた。",
+            "kana": "ははの介護（かいご）でしごとを辞（や）めた。",
             "meaning": "I quit my job to care for my mother.",
             "meaningKo": "어머니 간병을 위해 직장을 그만두었다."
           }
@@ -69501,7 +69501,7 @@
           "meaningKo": "무려",
           "example": {
             "sentence": "何と美しい景色だろう。",
-            "kana": "なんと美（うつく）しい景色（けしき）だろう。",
+            "kana": "なんとうつくしい景色（けしき）だろう。",
             "meaning": "What a beautiful scenery!",
             "meaningKo": "무려 아름다운 경치로다!"
           }
@@ -69531,7 +69531,7 @@
           "meaningKo": "최대",
           "example": {
             "sentence": "健康が何より大切だ。",
-            "kana": "けんこうが何（なに）より大切（たいせつ）だ。",
+            "kana": "けんこうが何（なに）よりたいせつだ。",
             "meaning": "Health is most important.",
             "meaningKo": "건강이 가장 중요하다."
           }
@@ -69621,7 +69621,7 @@
           "meaningKo": "작품 (예: 예술)",
           "example": {
             "sentence": "彼の最新作は話題になった。",
-            "kana": "かれの最新作（さいしんさく）は話題（わだい）になった。",
+            "kana": "かれの最新作（さいしんさく）はわだいになった。",
             "meaning": "His latest work became a topic of discussion.",
             "meaningKo": "그의 최신작이 화제가 되었다."
           }
@@ -69713,7 +69713,7 @@
           "meaningKo": "심부름",
           "example": {
             "sentence": "母の使いで薬局へ行った。",
-            "kana": "ははの使い（つかい）で薬局（やっきょく）へ行（い）った。",
+            "kana": "ははの使い（つかい）で薬局（やっきょく）へいった。",
             "meaning": "I went to the pharmacy on an errand for my mother.",
             "meaningKo": "어머니 심부름으로 약국에 갔다."
           }
@@ -70306,7 +70306,7 @@
           "meaningKo": "가격",
           "example": {
             "sentence": "この商品は値が高い。",
-            "kana": "この商品（しょうひん）は値（あたい）が高（たか）い。",
+            "kana": "このしょうひんは値（あたい）がたかい。",
             "meaning": "This product has a high price.",
             "meaningKo": "이 상품은 가격이 비싸다."
           }
@@ -70381,7 +70381,7 @@
           "meaningKo": "(한자의) 변",
           "example": {
             "sentence": "にんべんは人偏と書く。",
-            "kana": "にんべんは人偏（にんべん）と書（か）く。",
+            "kana": "にんべんは人偏（にんべん）とかく。",
             "meaning": "The person radical is written as 人偏.",
             "meaningKo": "인변은 人偏이라고 쓴다."
           }
@@ -70533,7 +70533,7 @@
           "meaningKo": "옆",
           "example": {
             "sentence": "机の傍らに本を置く。",
-            "kana": "つくえの傍（かたわ）らに本（ほん）を置（お）く。",
+            "kana": "つくえの傍（かたわ）らにほんを置（お）く。",
             "meaning": "I place a book beside the desk.",
             "meaningKo": "책상 옆에 책을 둔다."
           }
@@ -70854,7 +70854,7 @@
           "meaningKo": "손짓",
           "example": {
             "sentence": "景気回復の兆しが見える。",
-            "kana": "けいきかいふくの兆（きざ）しが見（み）える。",
+            "kana": "けいきかいふくの兆（きざ）しがみえる。",
             "meaning": "Signs of economic recovery are visible.",
             "meaningKo": "경기 회복의 징조가 보인다."
           }
@@ -70959,7 +70959,7 @@
           "meaningKo": "광휘",
           "example": {
             "sentence": "革製品の光沢が美しい。",
-            "kana": "かわせいひんの光沢（こうたく）が美（うつく）しい。",
+            "kana": "かわせいひんの光沢（こうたく）がうつくしい。",
             "meaning": "The luster of the leather goods is beautiful.",
             "meaningKo": "가죽제품의 광택이 아름답다."
           }
@@ -71126,7 +71126,7 @@
           "meaningKo": "공식적인",
           "example": {
             "sentence": "公の場では礼儀が大切だ。",
-            "kana": "おおやけの場（ば）では礼儀（れいぎ）が大切（たいせつ）だ。",
+            "kana": "おおやけの場（ば）では礼儀（れいぎ）がたいせつだ。",
             "meaning": "Etiquette is important in official settings.",
             "meaningKo": "공식적인 자리에서는 예의가 중요하다."
           }
@@ -71918,7 +71918,7 @@
           "meaningKo": "우연히 만나다",
           "example": {
             "sentence": "駅で恩師に出くわした。",
-            "kana": "えきでおんしに出（で）くわした。",
+            "kana": "えきでおんしにでくわした。",
             "meaning": "I happened to meet my former teacher at the station.",
             "meaningKo": "역에서 은사를 우연히 만났다."
           }
@@ -72070,7 +72070,7 @@
           "meaningKo": "출혈",
           "example": {
             "sentence": "出血が止まらない。",
-            "kana": "しゅっけつが止（と）まらない。",
+            "kana": "しゅっけつがとまらない。",
             "meaning": "The bleeding won't stop.",
             "meaningKo": "출혈이 멈추지 않는다."
           }
@@ -72708,7 +72708,7 @@
           "meaningKo": "자수",
           "example": {
             "sentence": "母の刺繍は美しい。",
-            "kana": "ははの刺繍（ししゅう）は美（うつく）しい。",
+            "kana": "ははの刺繍（ししゅう）はうつくしい。",
             "meaning": "My mother's embroidery is beautiful.",
             "meaningKo": "어머니의 자수는 아름답다."
           }
@@ -72890,7 +72890,7 @@
           "meaningKo": "출시(예: 신문)",
           "example": {
             "sentence": "雑誌の創刊号を買った。",
-            "kana": "ざっしの創刊（そうかん）号（ごう）を買（か）った。",
+            "kana": "ざっしの創刊（そうかん）号（ごう）をかった。",
             "meaning": "I bought the inaugural issue of the magazine.",
             "meaningKo": "잡지 창간호를 샀다."
           }
@@ -73057,7 +73057,7 @@
           "meaningKo": "입자",
           "example": {
             "sentence": "助詞の使い方が難しい。",
-            "kana": "じょしの使(つか)い方(かた)が難(むずか)しい。",
+            "kana": "じょしの使(つか)い方(かた)がむずかしい。",
             "meaning": "The usage of particles is difficult.",
             "meaningKo": "조사의 사용법이 어렵다."
           }
@@ -73421,7 +73421,7 @@
           "meaningKo": "성실한",
           "example": {
             "sentence": "彼は勤勉な学生だ。",
-            "kana": "かれは勤勉（きんべん）な学生（がくせい）だ。",
+            "kana": "かれは勤勉（きんべん）ながくせいだ。",
             "meaning": "He is a diligent student.",
             "meaningKo": "그는 성실한 학생이다."
           }
@@ -74046,7 +74046,7 @@
           "meaningKo": "원형",
           "example": {
             "sentence": "この動詞の原形は何ですか。",
-            "kana": "このどうしの原形（げんけい）は何（なん）ですか。",
+            "kana": "このどうしの原形（げんけい）はなんですか。",
             "meaning": "What is the original form of this verb?",
             "meaningKo": "이 동사의 원형은 무엇입니까?"
           }
@@ -74213,7 +74213,7 @@
           "meaningKo": "및",
           "example": {
             "sentence": "企業及び団体の参加",
-            "kana": "きぎょう及（およ）び団体（だんたい）の参加（さんか）",
+            "kana": "きぎょう及（およ）び団体（だんたい）のさんか",
             "meaning": "Participation of companies and organizations",
             "meaningKo": "기업 및 단체의 참가"
           }
@@ -75200,7 +75200,7 @@
           "meaningKo": "같은",
           "example": {
             "sentence": "同世代の友人と話す。",
-            "kana": "どうせだいの友人（ゆうじん）と話（はな）す。",
+            "kana": "どうせだいの友人（ゆうじん）とはなす。",
             "meaning": "I talk with friends of the same generation.",
             "meaningKo": "동세대 친구들과 이야기한다."
           }
@@ -75444,7 +75444,7 @@
           "meaningKo": "지역 특산물",
           "example": {
             "sentence": "この地域の名産は何ですか。",
-            "kana": "この地域（ちいき）の名産（めいさん）は何（なん）ですか。",
+            "kana": "この地域（ちいき）の名産（めいさん）はなんですか。",
             "meaning": "What is the local specialty of this region?",
             "meaningKo": "이 지역의 특산물은 무엇입니까?"
           }
@@ -77769,7 +77769,7 @@
           "meaningKo": "서비스",
           "example": {
             "sentence": "地域への奉仕活動に参加した。",
-            "kana": "ちいきへの奉仕（ほうし）活動（かつどう）に参加（さんか）した。",
+            "kana": "ちいきへの奉仕（ほうし）活動（かつどう）にさんかした。",
             "meaning": "I participated in community service activities.",
             "meaningKo": "지역 봉사 활동에 참여했다."
           }
@@ -78195,7 +78195,7 @@
           "meaningKo": "글자체",
           "example": {
             "sentence": "この字体は読みにくい。",
-            "kana": "この字体（じたい）は読（よ）みにくい。",
+            "kana": "この字体（じたい）はよみにくい。",
             "meaning": "This font is hard to read.",
             "meaningKo": "이 글자체는 읽기 어렵다."
           }
@@ -79000,7 +79000,7 @@
           "meaningKo": "용인",
           "example": {
             "sentence": "彼は寛容な人だ。",
-            "kana": "かれは寛容（かんよう）な人（ひと）だ。",
+            "kana": "かれは寛容（かんよう）なひとだ。",
             "meaning": "He is a tolerant person.",
             "meaningKo": "그는 관용적인 사람이다."
           }
@@ -79244,7 +79244,7 @@
           "meaningKo": "밀봉하다",
           "example": {
             "sentence": "封を切って手紙を読んだ。",
-            "kana": "ふうを切（き）って手紙（てがみ）を読（よ）んだ。",
+            "kana": "ふうを切（き）って手紙（てがみ）をよんだ。",
             "meaning": "I broke the seal and read the letter.",
             "meaningKo": "봉인을 뜯고 편지를 읽었다."
           }
@@ -80368,7 +80368,7 @@
           "meaningKo": "-가게",
           "example": {
             "sentence": "この店は閉店が決まった。",
-            "kana": "この店（みせ）は閉店（へいてん）が決（き）まった。",
+            "kana": "このみせは閉店（へいてん）が決（き）まった。",
             "meaning": "This store has been decided to close down.",
             "meaningKo": "이 가게는 폐점이 결정되었다."
           }
@@ -80612,7 +80612,7 @@
           "meaningKo": "끌고 가다",
           "example": {
             "sentence": "過去を引きずる人",
-            "kana": "かこを引（ひ）きずる人（ひと）",
+            "kana": "かこを引（ひ）きずるひと",
             "meaning": "A person who drags along the past",
             "meaningKo": "과거를 끌고 가는 사람"
           }
@@ -81098,7 +81098,7 @@
           "meaningKo": "유용하다",
           "example": {
             "sentence": "この本は役立つ。",
-            "kana": "この本（ほん）は役立（やくだ）つ。",
+            "kana": "このほんは役立（やくだ）つ。",
             "meaning": "This book is useful.",
             "meaningKo": "이 책은 유용하다."
           }
@@ -81661,7 +81661,7 @@
           "meaningKo": "계획하다",
           "example": {
             "sentence": "医者を志す学生が多い。",
-            "kana": "いしゃを志（こころざ）す学生（がくせい）が多（おお）い。",
+            "kana": "いしゃを志（こころざ）すがくせいがおおい。",
             "meaning": "Many students aspire to become doctors.",
             "meaningKo": "의사가 되기를 지망하는 학생이 많다."
           }
@@ -82237,7 +82237,7 @@
           "meaningKo": "다정한",
           "example": {
             "sentence": "彼は情け深い人だ。",
-            "kana": "かれは情け深い（なさけぶかい）人（ひと）だ。",
+            "kana": "かれは情け深い（なさけぶかい）ひとだ。",
             "meaning": "He is a tender-hearted person.",
             "meaningKo": "그는 다정한 사람이다."
           }
@@ -82496,7 +82496,7 @@
           "meaningKo": "전염병",
           "example": {
             "sentence": "感染を防ぐために手洗いが重要だ。",
-            "kana": "かんせんを防（ふせ）ぐために手洗（てあら）いが重要（じゅうよう）だ。",
+            "kana": "かんせんをふせぐために手洗（てあら）いがじゅうようだ。",
             "meaning": "Hand washing is important to prevent infection.",
             "meaningKo": "감염을 막기 위해 손 씻기가 중요하다."
           }
@@ -82618,7 +82618,7 @@
           "meaningKo": "관습",
           "example": {
             "sentence": "この慣例を破るのは難しい。",
-            "kana": "この慣例（かんれい）を破（やぶ）るのは難（むずか）しい。",
+            "kana": "この慣例（かんれい）を破（やぶ）るのはむずかしい。",
             "meaning": "It's difficult to break this custom.",
             "meaningKo": "이 관습을 깨뜨리는 것은 어렵다."
           }
@@ -83301,7 +83301,7 @@
           "meaningKo": "준비",
           "example": {
             "sentence": "会議の手配をお願いします。",
-            "kana": "かいぎの手配（てはい）をお願（ねが）いします。",
+            "kana": "かいぎの手配（てはい）をおねがいします。",
             "meaning": "Please arrange the meeting.",
             "meaningKo": "회의 준비를 부탁드립니다."
           }
@@ -83834,7 +83834,7 @@
           "meaningKo": "초대",
           "example": {
             "sentence": "友人の招きで茶会に参加した。",
-            "kana": "ゆうじんの招き（まねき）で茶会（ちゃかい）に参加（さんか）した。",
+            "kana": "ゆうじんの招き（まねき）で茶会（ちゃかい）にさんかした。",
             "meaning": "I participated in a tea ceremony at my friend's invitation.",
             "meaningKo": "친구의 초대로 다도회에 참석했다."
           }
@@ -83879,7 +83879,7 @@
           "meaningKo": "산란",
           "example": {
             "sentence": "ウイルスの拡散を防ぐ。",
-            "kana": "ウイルスの拡散（かくさん）を防（ふせ）ぐ。",
+            "kana": "ウイルスの拡散（かくさん）をふせぐ。",
             "meaning": "Prevent the spread of the virus.",
             "meaningKo": "바이러스의 확산을 막다."
           }
@@ -84701,7 +84701,7 @@
           "meaningKo": "프레젠테이션",
           "example": {
             "sentence": "資料の提示をお願いします。",
-            "kana": "しりょうの提示（ていじ）をお願（ねが）いします。",
+            "kana": "しりょうの提示（ていじ）をおねがいします。",
             "meaning": "Please present the materials.",
             "meaningKo": "자료 제시를 부탁드립니다."
           }
@@ -85232,7 +85232,7 @@
           "meaningKo": "패배시키다",
           "example": {
             "sentence": "敗戦の責任を問われた。",
-            "kana": "はいせんの責任（せきにん）を問（と）われた。",
+            "kana": "はいせんのせきにんを問（と）われた。",
             "meaning": "He was held responsible for the defeat.",
             "meaningKo": "패전의 책임을 추궁당했다."
           }
@@ -85491,7 +85491,7 @@
           "meaningKo": "서면 언어",
           "example": {
             "sentence": "古典文学は文語で書かれている。",
-            "kana": "こてんぶんがくは文語（ぶんご）で書（か）かれている。",
+            "kana": "こてんぶんがくは文語（ぶんご）でかかれている。",
             "meaning": "Classical literature is written in literary language.",
             "meaningKo": "고전 문학은 문어로 쓰여져 있다."
           }
@@ -86478,7 +86478,7 @@
           "meaningKo": "월 할부",
           "example": {
             "sentence": "車を月賦で買った。",
-            "kana": "くるまを月賦（げっぷ）で買（か）った。",
+            "kana": "くるまを月賦（げっぷ）でかった。",
             "meaning": "I bought a car on monthly installments.",
             "meaningKo": "차를 월 할부로 샀다."
           }
@@ -86570,7 +86570,7 @@
           "meaningKo": "유익한",
           "example": {
             "sentence": "この本は有益だ。",
-            "kana": "この本（ほん）は有益（ゆうえき）だ。",
+            "kana": "このほんは有益（ゆうえき）だ。",
             "meaning": "This book is beneficial.",
             "meaningKo": "이 책은 유익하다."
           }
@@ -86585,7 +86585,7 @@
           "meaningKo": "큰 소리로 읽기",
           "example": {
             "sentence": "詩の朗読会に参加した。",
-            "kana": "しの朗読（ろうどく）かいに参加（さんか）した。",
+            "kana": "しの朗読（ろうどく）かいにさんかした。",
             "meaning": "I participated in a poetry reading event.",
             "meaningKo": "시 낭송회에 참가했다."
           }
@@ -87300,7 +87300,7 @@
           "meaningKo": "(과일의) 구덩이",
           "example": {
             "sentence": "桃の核を取り除く。",
-            "kana": "ももの核（かく）を取（と）り除（のぞ）く。",
+            "kana": "ももの核（かく）を取（と）りのぞく。",
             "meaning": "Remove the pit from the peach.",
             "meaningKo": "복숭아의 씨를 제거한다."
           }
@@ -87315,7 +87315,7 @@
           "meaningKo": "필요한 조치를 취하다",
           "example": {
             "sentence": "事前の根回しが重要だ。",
-            "kana": "じぜんの根回し（ねまわし）が重要（じゅうよう）だ。",
+            "kana": "じぜんの根回し（ねまわし）がじゅうようだ。",
             "meaning": "Prior groundwork is important.",
             "meaningKo": "사전 조율이 중요하다."
           }
@@ -87709,7 +87709,7 @@
           "meaningKo": "낙천주의",
           "example": {
             "sentence": "彼の楽観が裏目に出た。",
-            "kana": "かれの楽観（らっかん）が裏目（うらめ）に出（で）た。",
+            "kana": "かれの楽観（らっかん）が裏目（うらめ）にでた。",
             "meaning": "His optimism backfired.",
             "meaningKo": "그의 낙천주의가 역효과를 낳았다."
           }
@@ -87726,7 +87726,7 @@
           "meaningKo": "점수",
           "example": {
             "sentence": "楽譜を見ながら演奏した。",
-            "kana": "がくふを見（み）ながら演奏（えんそう）した。",
+            "kana": "がくふをみながら演奏（えんそう）した。",
             "meaning": "I performed while looking at the sheet music.",
             "meaningKo": "악보를 보면서 연주했다."
           }
@@ -87771,7 +87771,7 @@
           "meaningKo": "개요",
           "example": {
             "sentence": "経済学の概説を読んだ。",
-            "kana": "けいざいがくの概説（がいせつ）を読（よ）んだ。",
+            "kana": "けいざいがくの概説（がいせつ）をよんだ。",
             "meaning": "I read an overview of economics.",
             "meaningKo": "경제학 개요를 읽었다."
           }
@@ -87908,7 +87908,7 @@
           "meaningKo": "모델",
           "example": {
             "sentence": "精密な模型を作る。",
-            "kana": "せいみつな模型（もけい）を作（つく）る。",
+            "kana": "せいみつな模型（もけい）をつくる。",
             "meaning": "Make a precise model.",
             "meaningKo": "정밀한 모델을 만든다."
           }
@@ -87968,7 +87968,7 @@
           "meaningKo": "(정치) 권력",
           "example": {
             "sentence": "権力を握る者は責任も重い。",
-            "kana": "けんりょくを握（にぎ）る者（もの）は責任（せきにん）も重（おも）い。",
+            "kana": "けんりょくを握（にぎ）る者（もの）はせきにんもおもい。",
             "meaning": "Those who hold power also bear heavy responsibility.",
             "meaningKo": "권력을 쥔 자는 책임도 무겁다."
           }
@@ -89580,7 +89580,7 @@
           "meaningKo": "패션",
           "example": {
             "sentence": "今年の流行りは何ですか。",
-            "kana": "こんねんの流行り（はやり）は何（なん）ですか。",
+            "kana": "こんねんの流行り（はやり）はなんですか。",
             "meaning": "What is this year's fashion trend?",
             "meaningKo": "올해의 유행은 무엇입니까?"
           }
@@ -90659,7 +90659,7 @@
           "meaningKo": "깨끗이 하다",
           "example": {
             "sentence": "心を澄ませて聞く。",
-            "kana": "こころを澄（す）ませて聞（き）く。",
+            "kana": "こころを澄（す）ませてきく。",
             "meaning": "Listen with a clear mind.",
             "meaningKo": "마음을 맑게 하고 듣다."
           }
@@ -91404,7 +91404,7 @@
           "meaningKo": "(유휴) 호기심",
           "example": {
             "sentence": "物好きな人が集まった。",
-            "kana": "ものずきな人（ひと）が集（あつ）まった。",
+            "kana": "ものずきなひとが集（あつ）まった。",
             "meaning": "Curious people gathered.",
             "meaningKo": "호기심 많은 사람들이 모였다."
           }
@@ -91965,7 +91965,7 @@
           "meaningKo": "(최상의)를 활용하다",
           "example": {
             "sentence": "経験を生かす仕事に就いた。",
-            "kana": "けいけんを生（い）かす仕事（しごと）に就（つ）いた。",
+            "kana": "けいけんを生（い）かすしごとに就（つ）いた。",
             "meaning": "I got a job that makes use of my experience.",
             "meaningKo": "경험을 활용하는 일에 취직했다."
           }
@@ -92179,7 +92179,7 @@
           "meaningKo": "생산",
           "example": {
             "sentence": "この地域は石油の産出量が多い。",
-            "kana": "この地域（ちいき）は石油（せきゆ）の産出量（さんしゅつりょう）が多（おお）い。",
+            "kana": "この地域（ちいき）は石油（せきゆ）の産出量（さんしゅつりょう）がおおい。",
             "meaning": "This region has a high oil production output.",
             "meaningKo": "이 지역은 석유 생산량이 많다."
           }
@@ -92254,7 +92254,7 @@
           "meaningKo": "사업",
           "example": {
             "sentence": "用件は何ですか。",
-            "kana": "ようけんは何（なん）ですか。",
+            "kana": "ようけんはなんですか。",
             "meaning": "What is your business?",
             "meaningKo": "무슨 일로 오셨습니까?"
           }
@@ -92695,7 +92695,7 @@
           "meaningKo": "병에 걸리다",
           "example": {
             "sentence": "心を病む人が多い。",
-            "kana": "こころを病（や）む人（ひと）が多（おお）い。",
+            "kana": "こころを病（や）むひとがおおい。",
             "meaning": "There are many people who suffer from mental illness.",
             "meaningKo": "마음의 병을 앓는 사람이 많다."
           }
@@ -93136,7 +93136,7 @@
           "meaningKo": "그라데이션(자)",
           "example": {
             "sentence": "この定規の目盛りが見えない。",
-            "kana": "この定規（じょうぎ）の目盛り（めもり）が見（み）えない。",
+            "kana": "この定規（じょうぎ）の目盛り（めもり）がみえない。",
             "meaning": "I can't see the gradations on this ruler.",
             "meaningKo": "이 자의 눈금이 보이지 않는다."
           }
@@ -93470,7 +93470,7 @@
           "meaningKo": "성실",
           "example": {
             "sentence": "真心を込めて手紙を書いた。",
-            "kana": "まごころを込（こ）めて手紙（てがみ）を書（か）いた。",
+            "kana": "まごころを込（こ）めて手紙（てがみ）をかいた。",
             "meaning": "I wrote the letter with sincerity.",
             "meaningKo": "진심을 담아 편지를 썼다."
           }
@@ -95157,7 +95157,7 @@
           "meaningKo": "재료",
           "example": {
             "sentence": "良い素材を選ぶのが重要だ。",
-            "kana": "よい素材（そざい）を選（えら）ぶのが重要（じゅうよう）だ。",
+            "kana": "よい素材（そざい）を選（えら）ぶのがじゅうようだ。",
             "meaning": "Choosing good ingredients is important.",
             "meaningKo": "좋은 재료를 선택하는 것이 중요하다."
           }
@@ -95508,7 +95508,7 @@
           "meaningKo": "결정",
           "example": {
             "sentence": "塩の結晶が美しく光った。",
-            "kana": "しおの結晶（けっしょう）が美（うつく）しく光（ひか）った。",
+            "kana": "しおの結晶（けっしょう）がうつくしく光（ひか）った。",
             "meaning": "The salt crystals shone beautifully.",
             "meaningKo": "소금 결정이 아름답게 빛났다."
           }
@@ -96724,7 +96724,7 @@
           "meaningKo": "각색",
           "example": {
             "sentence": "小説を脚色した映画が話題になった。",
-            "kana": "しょうせつを脚色（きゃくしょく）した映画（えいが）が話題（わだい）になった。",
+            "kana": "しょうせつを脚色（きゃくしょく）した映画（えいが）がわだいになった。",
             "meaning": "The movie adapted from the novel became a hot topic.",
             "meaningKo": "소설을 각색한 영화가 화제가 되었다."
           }
@@ -97788,7 +97788,7 @@
           "meaningKo": "(서면) 일",
           "example": {
             "sentence": "教授の著書が話題になった。",
-            "kana": "きょうじゅの著書（ちょしょ）が話題（わだい）になった。",
+            "kana": "きょうじゅの著書（ちょしょ）がわだいになった。",
             "meaning": "The professor's written work became a topic of discussion.",
             "meaningKo": "교수의 저서가 화제가 되었다."
           }
@@ -97833,7 +97833,7 @@
           "meaningKo": "축적",
           "example": {
             "sentence": "データの蓄積が重要だ。",
-            "kana": "データの蓄積（ちくせき）が重要（じゅうよう）だ。",
+            "kana": "データの蓄積（ちくせき）がじゅうようだ。",
             "meaning": "Data accumulation is important.",
             "meaningKo": "데이터 축적이 중요하다."
           }
@@ -98486,7 +98486,7 @@
           "meaningKo": "제조방법",
           "example": {
             "sentence": "秘密の製法で作られた薬。",
-            "kana": "ひみつの製法（せいほう）で作（つく）られた薬（くすり）。",
+            "kana": "ひみつの製法（せいほう）でつくられた薬（くすり）。",
             "meaning": "Medicine made with a secret manufacturing method.",
             "meaningKo": "비밀 제조방법으로 만든 약."
           }
@@ -98790,7 +98790,7 @@
           "meaningKo": "관점",
           "example": {
             "sentence": "専門家の見地から意見を述べた。",
-            "kana": "せんもんかの見地（けんち）から意見（いけん）を述（の）べた。",
+            "kana": "せんもんかの見地（けんち）から意見（いけん）をのべた。",
             "meaning": "I expressed my opinion from an expert's point of view.",
             "meaningKo": "전문가의 관점에서 의견을 표명했다."
           }
@@ -98805,7 +98805,7 @@
           "meaningKo": "견해",
           "example": {
             "sentence": "見方を変えれば解決策が見つかる。",
-            "kana": "みかたを変（か）えれば解決策（かいけつさく）が見（み）つかる。",
+            "kana": "みかたを変（か）えれば解決策（かいけつさく）がみつかる。",
             "meaning": "If you change your viewpoint, you can find a solution.",
             "meaningKo": "견해를 바꾸면 해결책을 찾을 수 있다."
           }
@@ -99231,7 +99231,7 @@
           "meaningKo": "변명",
           "example": {
             "sentence": "言い訳は聞きたくない。",
-            "kana": "いいわけは聞（き）きたくない。",
+            "kana": "いいわけはききたくない。",
             "meaning": "I don't want to hear excuses.",
             "meaningKo": "변명은 듣고 싶지 않다."
           }
@@ -99961,7 +99961,7 @@
           "meaningKo": "주제",
           "example": {
             "sentence": "この課題は難しい。",
-            "kana": "この課題（かだい）は難（むずか）しい。",
+            "kana": "この課題（かだい）はむずかしい。",
             "meaning": "This subject is difficult.",
             "meaningKo": "이 주제는 어렵다."
           }
@@ -100021,7 +100021,7 @@
           "meaningKo": "조화",
           "example": {
             "sentence": "色彩の調和が美しい。",
-            "kana": "しきさいの調和（ちょうわ）が美（うつく）しい。",
+            "kana": "しきさいの調和（ちょうわ）がうつくしい。",
             "meaning": "The harmony of colors is beautiful.",
             "meaningKo": "색채의 조화가 아름답다."
           }
@@ -101922,7 +101922,7 @@
           "meaningKo": "퇴화",
           "example": {
             "sentence": "筋肉の退化を防ぐ。",
-            "kana": "きんにくの退化（たいか）を防（ふせ）ぐ。",
+            "kana": "きんにくの退化（たいか）をふせぐ。",
             "meaning": "Prevent muscle degeneration.",
             "meaningKo": "근육의 퇴화를 막는다."
           }
@@ -103245,7 +103245,7 @@
           "meaningKo": "산화",
           "example": {
             "sentence": "鉄の酸化を防ぐ。",
-            "kana": "てつの酸化（さんか）を防（ふせ）ぐ。",
+            "kana": "てつの酸化（さんか）をふせぐ。",
             "meaning": "Prevent iron oxidation.",
             "meaningKo": "철의 산화를 방지한다."
           }
@@ -103275,7 +103275,7 @@
           "meaningKo": "존경하다",
           "example": {
             "sentence": "伝統を重んじる家庭だ。",
-            "kana": "でんとうを重（おも）んじる家庭（かてい）だ。",
+            "kana": "でんとうをおもんじる家庭（かてい）だ。",
             "meaning": "It's a family that respects tradition.",
             "meaningKo": "전통을 존중하는 가정이다."
           }
@@ -103472,7 +103472,7 @@
           "meaningKo": "둔감함",
           "example": {
             "sentence": "彼は鈍感な人だ。",
-            "kana": "かれは鈍感（どんかん）な人（ひと）だ。",
+            "kana": "かれは鈍感（どんかん）なひとだ。",
             "meaning": "He is an insensitive person.",
             "meaningKo": "그는 둔감한 사람이다."
           }
@@ -103791,7 +103791,7 @@
           "meaningKo": "실수하다",
           "example": {
             "sentence": "計算を間違うな。",
-            "kana": "けいさんを間違（まちが）うな。",
+            "kana": "けいさんをまちがうな。",
             "meaning": "Don't make a mistake in the calculation.",
             "meaningKo": "계산을 틀리지 마라."
           }
@@ -104521,7 +104521,7 @@
           "meaningKo": "면",
           "example": {
             "sentence": "面目を保つのは難しい。",
-            "kana": "めんもくを保（たも）つのは難（むずか）しい。",
+            "kana": "めんもくを保（たも）つのはむずかしい。",
             "meaning": "It is difficult to save face.",
             "meaningKo": "체면을 지키는 것은 어렵다."
           }
@@ -104795,7 +104795,7 @@
           "meaningKo": "요구",
           "example": {
             "sentence": "最後の頼みを聞いてくれ。",
-            "kana": "さいごの頼（たの）みを聞（き）いてくれ。",
+            "kana": "さいごの頼（たの）みをきいてくれ。",
             "meaning": "Please listen to my last request.",
             "meaningKo": "마지막 부탁을 들어줘."
           }
@@ -104870,7 +104870,7 @@
           "meaningKo": "돌아보다",
           "example": {
             "sentence": "過去を顧みる時が来た。",
-            "kana": "かこを顧（かえ）りみる時（とき）が来（き）た。",
+            "kana": "かこを顧（かえ）りみる時（とき）がきた。",
             "meaning": "The time has come to look back on the past.",
             "meaningKo": "과거를 돌아볼 때가 왔다."
           }
@@ -105007,7 +105007,7 @@
           "meaningKo": "지원하다",
           "example": {
             "sentence": "家族を養う責任がある。",
-            "kana": "かぞくを養う（やしなう）責任（せきにん）がある。",
+            "kana": "かぞくを養う（やしなう）せきにんがある。",
             "meaning": "I have a responsibility to support my family.",
             "meaningKo": "가족을 부양할 책임이 있다."
           }
@@ -105281,7 +105281,7 @@
           "meaningKo": "상승하다",
           "example": {
             "sentence": "緊張感が高まる。",
-            "kana": "きんちょうかんが高（たか）まる。",
+            "kana": "きんちょうかんがたかまる。",
             "meaning": "Tension is rising.",
             "meaningKo": "긴장감이 고조되고 있다."
           }
