@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "updatedAt": "2026-03-14T14:53:00Z",
+  "version": "1.2.4",
+  "updatedAt": "2026-03-16T10:14:00Z",
   "data": {
     "N5": {
       "1": [
@@ -9220,10 +9220,10 @@
           "id": "n4-1-7",
           "kanji": "それで",
           "kana": "それで [sorede]",
-          "meaning": "And",
+          "meaning": "So",
           "grade": "N4",
           "parts": "conjunction",
-          "meaningKo": "그 결과",
+          "meaningKo": "그래서",
           "example": {
             "sentence": "雨が降った。それで家にいた。",
             "kana": "あめがふった。それでいえにいた。",
@@ -9253,12 +9253,12 @@
           "meaning": "to that degree",
           "grade": "N4",
           "parts": "adverb",
-          "meaningKo": "그렇게, 그다지",
+          "meaningKo": "그다지",
           "example": {
             "sentence": "それほど難しくない。",
             "kana": "それほどむずかしくない。",
             "meaning": "It's not that difficult.",
-            "meaningKo": "그렇게 어렵지 않다."
+            "meaningKo": "그다지 어렵지 않다."
           }
         },
         {
@@ -9268,12 +9268,12 @@
           "meaning": "Soon",
           "grade": "N4",
           "parts": "adverb",
-          "meaningKo": "곧",
+          "meaningKo": "슬슬",
           "example": {
             "sentence": "そろそろ帰りましょう。",
             "kana": "そろそろかえりましょう。",
             "meaning": "Let's go home soon.",
-            "meaningKo": "곧 집에 갑시다."
+            "meaningKo": "슬슬 집에 갑시다."
           }
         }
       ],
@@ -67671,7 +67671,7 @@
           "id": "n1-11-2",
           "kanji": "並びに",
           "kana": "ならびに [narabini]",
-          "meaning": "And (also)",
+          "meaning": "And also",
           "grade": "N1",
           "parts": "conjunction",
           "meaningKo": "그 밖에 또한",
