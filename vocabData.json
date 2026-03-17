@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "updatedAt": "2026-03-16T10:14:00Z",
+  "version": "1.2.5",
+  "updatedAt": "2026-03-17T10:55:00Z",
   "data": {
     "N5": {
       "1": [
@@ -1078,7 +1078,7 @@
           "meaningKo": "체계",
           "example": {
             "sentence": "このシステムはとても便利です。",
-            "kana": "このシステムはとてもべんり（便利）です。",
+            "kana": "このシステムはとてもべんりです。",
             "meaning": "This system is very convenient.",
             "meaningKo": "이 시스템은 매우 편리합니다."
           }
@@ -11720,7 +11720,7 @@
           "meaningKo": "친절한",
           "example": {
             "sentence": "田中さんは優しい人です。",
-            "kana": "たなかさんは優（やさ）しいひとです。",
+            "kana": "たなかさんはやさしいひとです。",
             "meaning": "Mr. Tanaka is a kind person.",
             "meaningKo": "다나카 씨는 친절한 사람입니다."
           }
@@ -12141,10 +12141,10 @@
           "meaning": "Severe",
           "grade": "N4",
           "parts": "adjective",
-          "meaningKo": "가혹한",
+          "meaningKo": "엄격한",
           "example": {
             "sentence": "先生は厳しいです。",
-            "kana": "せんせいは　きびしいです。",
+            "kana": "せんせいは きびしいです。",
             "meaning": "The teacher is strict.",
             "meaningKo": "선생님은 엄격합니다."
           }
@@ -12159,7 +12159,7 @@
           "meaningKo": "가다",
           "example": {
             "sentence": "明日、お寺に参ります。",
-            "kana": "あした、おてらに参（まい）ります。",
+            "kana": "あした、おてらにまいります。",
             "meaning": "I will go to the temple tomorrow.",
             "meaningKo": "내일 절에 가겠습니다."
           }
@@ -12176,7 +12176,7 @@
           "meaningKo": "반대",
           "example": {
             "sentence": "母は反対した。",
-            "kana": "ははは反対（はんたい）した。",
+            "kana": "ははははんたいした。",
             "meaning": "My mother opposed it.",
             "meaningKo": "어머니가 반대했다."
           }
@@ -12233,7 +12233,7 @@
           "meaning": "To eat",
           "grade": "N4",
           "parts": "verb",
-          "meaningKo": "먹다 (높임말)",
+          "meaningKo": "드시다",
           "example": {
             "sentence": "何を召し上がりますか。",
             "kana": "なにを めしあがりますか。",
@@ -12948,7 +12948,7 @@
           "meaning": "Happy",
           "grade": "N4",
           "parts": "adjective",
-          "meaningKo": "행복한",
+          "meaningKo": "기쁜",
           "example": {
             "sentence": "友達に会えて嬉しい。",
             "kana": "ともだちにあえてうれしい。",
@@ -13708,7 +13708,7 @@
           "meaning": "Shy",
           "grade": "N4",
           "parts": "adjective",
-          "meaningKo": "부끄러워한",
+          "meaningKo": "부끄러운",
           "example": {
             "sentence": "人前で話すのは恥ずかしい。",
             "kana": "ひとまえで はなすのは はずかしい。",
@@ -13908,7 +13908,7 @@
           "meaningKo": "부서지다",
           "example": {
             "sentence": "えんぴつを折る。",
-            "kana": "えんぴつを(お)る。",
+            "kana": "えんぴつをおる。",
             "meaning": "Break a pencil.",
             "meaningKo": "연필을 부러뜨리다."
           }
@@ -13923,7 +13923,7 @@
           "meaningKo": "부서지다",
           "example": {
             "sentence": "えんぴつが折れた。",
-            "kana": "えんぴつが折（お）れた。",
+            "kana": "えんぴつがおれた。",
             "meaning": "The pencil broke.",
             "meaningKo": "연필이 부러졌다."
           }
@@ -17267,7 +17267,7 @@
           "meaningKo": "충분하다",
           "example": {
             "sentence": "お金が足りる。",
-            "kana": "おかねが足(た)りる。",
+            "kana": "おかねがたりる。",
             "meaning": "I have enough money.",
             "meaningKo": "돈이 충분하다."
           }
@@ -21084,7 +21084,7 @@
           "meaningKo": "뉴스",
           "example": {
             "sentence": "母から便りが来た。",
-            "kana": "ははから便(たよ)りが来(き)た。",
+            "kana": "ははからたよりがきた。",
             "meaning": "News came from my mother.",
             "meaningKo": "어머니로부터 소식이 왔다."
           }
@@ -30323,10 +30323,10 @@
           "meaning": "As one pleases",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "마음껏 ~함 (예: 食べ放題)",
+          "meaningKo": "마음껏 ~함",
           "example": {
             "sentence": "食べ放題で太った。",
-            "kana": "たべ放題（ほうだい）で太（ふと）った。",
+            "kana": "たべほうだいでふとった。",
             "meaning": "I gained weight from the all-you-can-eat buffet.",
             "meaningKo": "뷔페에서 마음껏 먹어서 살이 쪘다."
           }
@@ -30946,12 +30946,12 @@
           "meaning": "To dawn",
           "grade": "N3",
           "parts": "verb",
-          "meaningKo": "새벽까지",
+          "meaningKo": "날이 새다",
           "example": {
             "sentence": "夜が明ける。",
-            "kana": "よるが明(あ)ける。",
+            "kana": "よるがあける。",
             "meaning": "The night is breaking.",
-            "meaningKo": "밤이 새고 있다."
+            "meaningKo": "날이 새고 있다."
           }
         },
         {
@@ -36966,7 +36966,7 @@
           "meaning": "A connection (with someone)",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "(누군가)",
+          "meaningKo": "인연",
           "example": {
             "sentence": "彼とは縁がない。",
             "kana": "かれとはえんがない。",
@@ -37312,13 +37312,13 @@
           "id": "n3-126-5",
           "kanji": "職場",
           "kana": "しょくば [shokuba]",
-          "meaning": "Place of work",
+          "meaning": "Workplace",
           "grade": "N3",
           "parts": "noun",
-          "meaningKo": "일하는 곳",
+          "meaningKo": "직장",
           "example": {
             "sentence": "職場の人と仲良くなった。",
-            "kana": "しょくばの人(ひと)と仲良(なかよ)くなった。",
+            "kana": "しょくばのひととなかよくなった。",
             "meaning": "I became friends with people at work.",
             "meaningKo": "직장 사람들과 친해졌다."
           }
@@ -37333,7 +37333,7 @@
           "meaningKo": "직업",
           "example": {
             "sentence": "将来の職業を考えています。",
-            "kana": "しょうらいの職業（しょくぎょう）を考（かんが）えています。",
+            "kana": "しょうらいのしょくぎょうをかんがえています。",
             "meaning": "I am thinking about my future occupation.",
             "meaningKo": "미래의 직업을 생각하고 있습니다."
           }
@@ -45603,7 +45603,7 @@
           "meaningKo": "만들어 내다",
           "example": {
             "sentence": "夢を作り上げる。",
-            "kana": "ゆめをつくり上(あ)げる。",
+            "kana": "ゆめをつくりあげる。",
             "meaning": "Build up dreams.",
             "meaningKo": "꿈을 만들어 내다."
           }
@@ -84773,7 +84773,7 @@
           "meaning": "Loss (of assets)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(자산)",
+          "meaningKo": "손실",
           "example": {
             "sentence": "会社は大きな損失を被った。",
             "kana": "かいしゃは おおきな そんしつを こうむった。",
@@ -85107,7 +85107,7 @@
           "meaning": "(political) administration",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(정치) 행정",
+          "meaningKo": "정권",
           "example": {
             "sentence": "政権が交代した。",
             "kana": "せいけんがこうたいした。",
@@ -86034,7 +86034,7 @@
           "meaning": "Pass (the night)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "(밤을) 지나가다",
+          "meaningKo": "(밤을) 새우다",
           "example": {
             "sentence": "徹夜で夜を明かした。",
             "kana": "てつやで よを あかした。",
@@ -86445,12 +86445,12 @@
           "meaning": "(the) date",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(그) 날짜",
+          "meaningKo": "날짜",
           "example": {
-            "sentence": "月日が経つのは早い。",
-            "kana": "がっぴがたつのははやい。",
-            "meaning": "Time passes quickly.",
-            "meaningKo": "시간이 지나는 것은 빠르다."
+            "sentence": "月日を正確に記入してください。",
+            "kana": "がっぴをせいかくにきにゅうしてください。",
+            "meaning": "Please fill in the date accurately.",
+            "meaningKo": "날짜를 정확하게 기입해 주세요."
           }
         },
         {
@@ -87023,12 +87023,12 @@
           "meaning": "Come (sptially or temporally)",
           "grade": "N1",
           "parts": "verb",
-          "meaningKo": "다음 (공간적 또는 시간적으로)",
+          "meaningKo": "다가오는",
           "example": {
-            "sentence": "来る日も来る日も勉強した。",
-            "kana": "きたるひもきたるひもべんきょうした。",
-            "meaning": "I studied day after day.",
-            "meaningKo": "날마다 공부했다."
+            "sentence": "来る春が待ち遠しい。",
+            "kana": "きたるはるがまちどおしい。",
+            "meaning": "I'm looking forward to the coming spring.",
+            "meaningKo": "다가오는 봄이 기다려진다."
           }
         },
         {
@@ -87282,7 +87282,7 @@
           "meaning": "Stock (company)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "주식(회사)",
+          "meaningKo": "주식",
           "example": {
             "sentence": "株式を売却した。",
             "kana": "かぶしきをばいきゃくした。",
@@ -87598,10 +87598,10 @@
           "id": "n1-142-3",
           "kanji": "業",
           "kana": "ごう [gou]",
-          "meaning": "Karma (i.e. actions committed in a former life)",
+          "meaning": "Karma",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "카르마(즉)",
+          "meaningKo": "업보",
           "example": {
             "sentence": "前世の業が今に響く。",
             "kana": "ぜんせのごうがいまにひびく。",
@@ -87676,7 +87676,7 @@
           "meaning": "Sukhavati (Amitabha's Pure Land)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "극락(아미타불의 정토)",
+          "meaningKo": "극락",
           "example": {
             "sentence": "極楽往生を願う。",
             "kana": "ごくらくおうじょうをねがう。",
@@ -87935,7 +87935,7 @@
           "meaning": "Groping (for)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "더듬기(를 위해)",
+          "meaningKo": "모색",
           "example": {
             "sentence": "解決策を模索中だ。",
             "kana": "かいけつさくをもさくちゅうだ。",
@@ -87950,7 +87950,7 @@
           "meaning": "Right (to do something)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "그렇죠 (뭔가를 하려고)",
+          "meaningKo": "권리",
           "example": {
             "sentence": "選挙権を行使する。",
             "kana": "せんきょけんを こうしする。",
@@ -87965,7 +87965,7 @@
           "meaning": "(political) power",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(정치) 권력",
+          "meaningKo": "권력",
           "example": {
             "sentence": "権力を握る者は責任も重い。",
             "kana": "けんりょくをにぎるものはせきにんもおもい。",
@@ -88543,7 +88543,7 @@
           "meaning": "Rear",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "(군대의) 후미",
+          "meaningKo": "후미",
           "example": {
             "sentence": "彼が殿を務めた。",
             "kana": "かれがしんがりをつとめた。",
@@ -89410,7 +89410,7 @@
           "meaning": "Bill (law)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "법안(법률)",
+          "meaningKo": "법안",
           "example": {
             "sentence": "新しい法案が可決された。",
             "kana": "あたらしいほうあんがかけつされた。",
@@ -89714,7 +89714,7 @@
           "meaning": "Channel (e.g. between two land masses)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "수로(예: 두 대륙 사이)",
+          "meaningKo": "해협",
           "example": {
             "sentence": "海峡を渡る船が見える。",
             "kana": "かいきょうを わたる ふねが みえる。",
@@ -93133,10 +93133,10 @@
           "meaning": "Gradations (on a ruler)",
           "grade": "N1",
           "parts": "noun",
-          "meaningKo": "그라데이션(자)",
+          "meaningKo": "눈금",
           "example": {
             "sentence": "この定規の目盛りが見えない。",
-            "kana": "このじょうぎのり（めもり）がみえない。",
+            "kana": "このじょうぎのめもりがみえない。",
             "meaning": "I can't see the gradations on this ruler.",
             "meaningKo": "이 자의 눈금이 보이지 않는다."
           }
@@ -104613,7 +104613,7 @@
           "meaningKo": "공 (스포츠)",
           "example": {
             "sentence": "蹴鞠は古い日本の遊びだ。",
-            "kana": "けまりはい（ふるい）にほんのび（あそび）だ。",
+            "kana": "けまりはふるいにほんのあそびだ。",
             "meaning": "Kemari is an ancient Japanese game.",
             "meaningKo": "게마리는 고대 일본의 놀이다."
           }
