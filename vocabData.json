@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "updatedAt": "2026-03-17T22:47:00Z",
+  "version": "1.2.7",
+  "updatedAt": "2026-03-21T09:29:00Z",
   "data": {
     "N5": {
       "1": [
@@ -4252,10 +4252,10 @@
           "parts": "verb",
           "meaningKo": "가지다, 취하다",
           "example": {
-            "sentence": "写真を取る",
-            "kana": "しゃしんをとる",
-            "meaning": "To take a photo",
-            "meaningKo": "사진을 찍다"
+            "sentence": "棚から本を取った。",
+            "kana": "たなからほんをとった。",
+            "meaning": "I took a book from the shelf.",
+            "meaningKo": "선반에서 책을 꺼냈다."
           }
         }
       ],
