@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "updatedAt": "2026-03-21T09:29:00Z",
+  "version": "1.2.8",
+  "updatedAt": "2026-03-22T11:14:00Z",
   "data": {
     "N5": {
       "1": [
@@ -4436,10 +4436,10 @@
           "parts": "verb",
           "meaningKo": "꽃을 피우다",
           "example": {
-            "sentence": "春になると桜が咲く。",
-            "kana": "はるになるとさくらが咲く。",
-            "meaning": "Cherry blossoms bloom when spring comes.",
-            "meaningKo": "봄이 되면 벚꽃이 핀다."
+            "sentence": "庭に花が咲いた。",
+            "kana": "にわにはながさいた。",
+            "meaning": "Flowers bloomed in the garden.",
+            "meaningKo": "정원에 꽃이 피었다."
           }
         },
         {
@@ -4481,10 +4481,10 @@
           "parts": "noun",
           "meaningKo": "넷",
           "example": {
-            "sentence": "私には兄が四人います。",
-            "kana": "わたしにはあにがよにんいます。",
-            "meaning": "I have four older brothers.",
-            "meaningKo": "저에게는 형이 네 명 있습니다."
+            "sentence": "四季の中で春が一番好きだ。",
+            "kana": "しきのなかではるがいちばんすきだ。",
+            "meaning": "Spring is my favorite among the four seasons.",
+            "meaningKo": "사계절 중 봄을 가장 좋아한다."
           }
         },
         {
