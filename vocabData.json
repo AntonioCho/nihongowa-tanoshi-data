@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "updatedAt": "2026-03-22T11:14:00Z",
+  "version": "1.2.9",
+  "updatedAt": "2026-03-23T12:08:00Z",
   "data": {
     "N5": {
       "1": [
@@ -4679,7 +4679,7 @@
           "meaningKo": "외국",
           "example": {
             "sentence": "外国の友達がたくさんいます。",
-            "kana": "がいこくの友達（ともだち）がたくさんいます。",
+            "kana": "がいこくのともだちがたくさんいます。",
             "meaning": "I have many friends from foreign countries.",
             "meaningKo": "외국 친구들이 많이 있습니다."
           }
