@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "updatedAt": "2026-03-23T12:08:00Z",
+  "version": "1.3.0",
+  "updatedAt": "2026-03-24T11:44:00Z",
   "data": {
     "N5": {
       "1": [
@@ -4735,15 +4735,15 @@
           "id": "n5-32-2",
           "kanji": "夜",
           "kana": "よる [yoru]",
-          "meaning": "Evening",
+          "meaning": "Night",
           "grade": "N5",
           "parts": "noun",
-          "meaningKo": "저녁",
+          "meaningKo": "밤",
           "example": {
-            "sentence": "今夜は友達と映画を見ます。",
-            "kana": "こんやはともだちとえいがをみます。",
-            "meaning": "Tonight I will watch a movie with friends.",
-            "meaningKo": "오늘 밤에는 친구들과 영화를 볼 예정입니다."
+            "sentence": "夜遅くまで働いた。",
+            "kana": "よるおそくまではたらいた。",
+            "meaning": "I worked until late at night.",
+            "meaningKo": "밤늦게까지 일했다."
           }
         },
         {
