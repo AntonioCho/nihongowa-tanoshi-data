@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "updatedAt": "2026-03-24T11:44:00Z",
+  "version": "1.3.1",
+  "updatedAt": "2026-03-28T08:52:00Z",
   "data": {
     "N5": {
       "1": [
@@ -5652,10 +5652,10 @@
           "parts": "adjective",
           "meaningKo": "나쁜",
           "example": {
-            "sentence": "この映画は悪いです。",
-            "kana": "このえいがはわるいです。",
-            "meaning": "This movie is bad.",
-            "meaningKo": "이 영화는 나쁩니다."
+            "sentence": "悪い習慣はやめたい。",
+            "kana": "わるいしゅうかんはやめたい。",
+            "meaning": "I want to quit bad habits.",
+            "meaningKo": "나쁜 습관을 그만두고 싶다."
           }
         },
         {
@@ -5752,15 +5752,15 @@
           "id": "n5-38-9",
           "kanji": "持つ",
           "kana": "もつ [motsu]",
-          "meaning": "to hold",
+          "meaning": "to have",
           "grade": "N5",
           "parts": "verb",
-          "meaningKo": "보유하다",
+          "meaningKo": "소유하다",
           "example": {
             "sentence": "私はペンを持つ。",
             "kana": "わたしはペンをもつ。",
-            "meaning": "I hold a pen.",
-            "meaningKo": "나는 펜을 들고 있다."
+            "meaning": "I have a pen.",
+            "meaningKo": "나는 펜을 가지고 있다."
           }
         },
         {
