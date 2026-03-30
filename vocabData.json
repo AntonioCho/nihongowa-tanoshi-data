@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "updatedAt": "2026-03-28T08:52:00Z",
+  "version": "1.3.2",
+  "updatedAt": "2026-03-31T08:53:00Z",
   "data": {
     "N5": {
       "1": [
@@ -6093,10 +6093,10 @@
           "parts": "noun",
           "meaningKo": "어제",
           "example": {
-            "sentence": "昨日は雨でした。",
-            "kana": "きのうはあめでした。",
-            "meaning": "It was raining yesterday.",
-            "meaningKo": "어제는 비였습니다."
+            "sentence": "昨日買った本を読んでいる。",
+            "kana": "きのうかったほんをよんでいる。",
+            "meaning": "I'm reading the book I bought yesterday.",
+            "meaningKo": "어제 산 책을 읽고 있다."
           }
         },
         {
@@ -6290,10 +6290,10 @@
           "parts": "verb",
           "meaningKo": "방향을 바꾸다",
           "example": {
-            "sentence": "この道を真っすぐ行って、角で右に曲がる。",
-            "kana": "このみちをまっすぐいって、かどでみぎにまがる。",
-            "meaning": "Go straight on this road, then turn right at the corner.",
-            "meaningKo": "이 길을 똑바로 가서 모퉁이에서 오른쪽으로 돈다."
+            "sentence": "角を左に曲がってください。",
+            "kana": "かどをひだりにまがってください。",
+            "meaning": "Please turn left at the corner.",
+            "meaningKo": "모퉁이에서 왼쪽으로 돌아주세요."
           }
         },
         {
@@ -12205,10 +12205,10 @@
           "parts": "verb",
           "meaningKo": "받다",
           "example": {
-            "sentence": "テストを受ける。",
-            "kana": "テストをうける。",
-            "meaning": "I take a test.",
-            "meaningKo": "시험을 본다."
+            "sentence": "病院で治療を受ける。",
+            "kana": "びょういんでちりょうをうける。",
+            "meaning": "I receive treatment at the hospital.",
+            "meaningKo": "병원에서 치료를 받는다."
           }
         },
         {
@@ -12295,10 +12295,10 @@
           "parts": "verb",
           "meaningKo": "직면하다",
           "example": {
-            "sentence": "駅に向かう。",
-            "kana": "えきに向（む）かう。",
-            "meaning": "I head to the station.",
-            "meaningKo": "역으로 향한다."
+            "sentence": "困難に向かって立ち向かう。",
+            "kana": "こんなんにむかってたちむかう。",
+            "meaning": "I face up to difficulties.",
+            "meaningKo": "어려움에 맞서 직면한다."
           }
         },
         {
@@ -32135,7 +32135,7 @@
           "meaningKo": "기능",
           "example": {
             "sentence": "この機能は便利です。",
-            "kana": "この機能（きのう）は便利（べんり）です。",
+            "kana": "このきのうはべんりです。",
             "meaning": "This function is convenient.",
             "meaningKo": "이 기능은 편리합니다."
           }
