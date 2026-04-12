@@ -42,10 +42,10 @@ def build_caption(grade: str, level: str, items: list) -> str:
 
     # 해시태그
     lines.append("")
-    lines.append(divider)
+    lines.append("다운로드 링크는 프로필 클릭 🫰")
+    lines.append("")
     grade_tags = GRADE_HASHTAGS.get(grade, "")
-    lines.append(f"#하루10단어 #10Daily #일본어 #일본어공부 #JLPT {grade_tags} #nihongo #일어공부 #어학공부")
-    lines.append(divider)
+    lines.append(f"#JLPT, #일본어, #Japanese, #하루10단어, #10Daily")
 
     return "\n".join(lines)
 
