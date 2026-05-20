@@ -17,12 +17,12 @@ import sys
 # =====================
 # 설정
 # =====================
-WORDS_FILE = "vocab/N3_words.txt"           # 단어 목록 파일
+WORDS_FILE = "vocab/N1_words.txt"           # 단어 목록 파일
 PROMPT_FILE = "VOCAB_PROMPT.md"       # API 프롬프트 파일
-PROGRESS_FILE = "n3_progress.json"    # 중간 저장 파일
-OUTPUT_FILE = "vocabData_N3.json"     # 최종 출력 파일
+PROGRESS_FILE = "n1_progress.json"    # 중간 저장 파일
+OUTPUT_FILE = "vocabData_N1.json"     # 최종 출력 파일
 
-LEVEL = "N3"
+LEVEL = "N1"
 SLEEP_BETWEEN_CALLS = 1.0             # API 호출 간격(초)
 
 # 품사 한→영 매핑
@@ -201,19 +201,24 @@ def main():
         api_results = call_api(client, prompt, word_list)
 
         if api_results is None:
-            print("실패 → 스킵")
+            print("API 실패 → 스킵")
             continue
 
         if len(api_results) != len(word_list):
-            print(f"경고: 응답 수({len(api_results)}) ≠ 요청 수({len(word_list)})")
+            print(f"응답 수({len(api_results)}) ≠ 요청 수({len(word_list)}) → Day 스킵")
+            continue
+
+        # null 포함 시 (사전 미등재 / 예문 불가 단어) → Day 전체 스킵
+        null_indices = [i for i, item in enumerate(api_results) if item is None]
+        if null_indices:
+            null_words = [word_list[i][0] for i in null_indices]
+            print(f"사전 미등재 단어 {null_words} → Day 스킵")
+            continue
 
         # 항목 조합
         entries = []
         for idx, (word, parts_ko, meaning_ko) in enumerate(word_list, start=1):
-            if idx - 1 < len(api_results):
-                api_data = api_results[idx - 1]
-            else:
-                api_data = {"kanji": word, "meaning": "", "furigana": [[word, ""]], "subject": "", "example": {}}
+            api_data = api_results[idx - 1]
             entry = make_entry(day_num, idx, word, parts_ko, meaning_ko, api_data)
             entries.append(entry)
 
