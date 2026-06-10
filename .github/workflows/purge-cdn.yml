@@ -4,7 +4,6 @@ on:
   push:
     branches: [main]
     paths:
-      - 'vocabData.json'
       - 'vocab.json'
 
 jobs:
@@ -14,7 +13,6 @@ jobs:
       - name: Purge jsDelivr cache
         run: |
           echo "Purging jsDelivr CDN cache..."
-          curl -s "https://purge.jsdelivr.net/gh/AntonioCho/nihongowa-tanoshi-data@main/vocabData.json"
           curl -s "https://purge.jsdelivr.net/gh/AntonioCho/nihongowa-tanoshi-data@main/vocab.json"
           echo ""
           echo "Cache purged successfully"
